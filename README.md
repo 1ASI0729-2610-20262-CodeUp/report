@@ -179,7 +179,7 @@ TexCheck es una empresa emergente con un enfoque tecnológico e industrial, orie
 
 La iniciativa surge a partir de la observación de un problema recurrente en las plantas de producción: la ocurrencia de fallas inesperadas en equipos críticos, lo que genera elevados costos por reparaciones correctivas y una falta de trazabilidad en el historial de intervenciones técnicas. Ante esta situación, TexCheck busca convertirse en la herramienta estándar para el sector, facilitando el registro de activos, la programación automatizada de rutinas de mantenimiento y la toma de decisiones basada en datos históricos organizados.
 
-#### Tabla 1: Misión y Visión de TexCheck
+#### Misión y Visión de TexCheck
 
 | Concepto | Definición |
 | :--- | :--- |
