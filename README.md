@@ -188,7 +188,7 @@ La iniciativa surge a partir de la observación de un problema recurrente en las
 
 ### 1.1.2. Perfiles de integrantes del equipo
 
-| Foto | Nombres y Apellidos | Código | Perfil Profesional | Conocimientos y Habilidades |
+| Foto | Nombres y Apellidos | Código | Carrera | Conocimientos y Habilidades |
 | :---: | :--- | :---: | :--- | :--- |
 |  | Diaz Yurivilca, Sofia | u20241a195 | | |
 |  | Acosta Elera Abraam Bernabe | U202219199 | | |
