@@ -170,17 +170,109 @@ En esta sección se detallan las actividades realizadas en el trabajo final y el
 ---
 
 # Capítulo I: Introducción
+
 ## 1.1. Startup Profile
+
 ### 1.1.1. Descripción de la Startup
+
+TexCheck es una empresa emergente con un enfoque tecnológico e industrial, orientada a la transformación digital de la gestión del mantenimiento en el sector manufacturero. Su propósito es ofrecer una plataforma de software integral (Web y Mobile) diseñada específicamente para optimizar la operatividad de las empresas textiles, permitiendo un control técnico detallado y una reducción significativa de costos operativos mediante la prevención estratégica de fallas.
+
+La iniciativa surge a partir de la observación de un problema recurrente en las plantas de producción: la ocurrencia de fallas inesperadas en equipos críticos, lo que genera elevados costos por reparaciones correctivas y una falta de trazabilidad en el historial de intervenciones técnicas. Ante esta situación, TexCheck busca convertirse en la herramienta estándar para el sector, facilitando el registro de activos, la programación automatizada de rutinas de mantenimiento y la toma de decisiones basada en datos históricos organizados.
+
+#### Tabla 1: Misión y Visión de TexCheck
+
+| Concepto | Definición |
+| :--- | :--- |
+| **Misión** | Optimizar la gestión del mantenimiento industrial mediante una solución digital ágil y eficiente, que permita a las empresas textiles maximizar la disponibilidad de sus activos y reducir costos imprevistos a través de procesos estandarizados. |
+| **Visión** | Convertirse en la plataforma líder en gestión de mantenimiento preventivo para la industria textil a nivel nacional, impulsando la excelencia operativa y la digitalización de procesos técnicos en toda la cadena de producción. |
+
 ### 1.1.2. Perfiles de integrantes del equipo
-## 1.2. Solution Profile
-### 1.2.1 Antecedentes y problemática
-### 1.2.2 Lean UX Process.
-#### 1.2.2.1. Lean UX Problem Statements.
-#### 1.2.2.2. Lean UX Assumptions.
-#### 1.2.2.3. Lean UX Hypothesis Statements.
-#### 1.2.2.4. Lean UX Canvas.
-## 1.3. Segmentos objetivo.
+
+| Foto | Nombres y Apellidos | Código | Perfil Profesional | Conocimientos y Habilidades |
+| :---: | :--- | :---: | :--- | :--- |
+|  | Diaz Yurivilca, Sofia | u20241a195 | | |
+|  | Acosta Elera Abraam Bernabe | U202219199 | | |
+|  | Diaz Nuñez, Mauricio | U202411349 | | |
+|  | Diaz De La Cruz, Sebastian Gabriel | U202410421 | | |
+|  | Cabrera Sotelo, Camila Celeste | U202412462 | | |
+
+---
+
+## 1.2 Solution Profile
+
+### 1.2.1. Antecedentes y problemática
+
+En la actualidad, la industria textil es uno de los pilares de la manufactura; sin embargo, la gestión de sus activos críticos sigue anclada en métodos tradicionales. Mientras la industria global avanza hacia la digitalización (Industria 4.0), muchas empresas locales aún dependen de registros manuales y procesos reactivos, lo que genera una brecha competitiva y operativa significativa.
+
+**What (¿Qué?):**
+El problema identificado es la ineficiencia en la gestión del mantenimiento de maquinaria textil. Existe una carencia de sistemas organizados que permitan programar, ejecutar y supervisar las intervenciones técnicas de forma sistemática. Esto provoca que la información técnica sea fragmentada, poco confiable y difícil de analizar para la mejora de procesos.
+
+**When (¿Cuándo?):**
+El problema se manifiesta de forma recurrente, especialmente durante los picos de producción donde la maquinaria es sometida a una carga de trabajo intensiva. La falta de mantenimiento preventivo resulta en fallas imprevistas que detienen líneas enteras de producción.
+
+**Who (¿Quiénes?):**
+Los principales afectados son los Jefes de Planta, quienes no logran cumplir con los plazos de entrega por paradas no programadas, y los Técnicos de Mantenimiento, quienes enfrentan una sobrecarga de trabajo correctivo. La empresa sufre pérdidas económicas y daños en su reputación frente a clientes.
+
+**Why (¿Por qué?):**
+La causa principal radica en la ausencia de una cultura de mantenimiento predictivo soportada por herramientas digitales. La dependencia de formatos físicos impide identificar patrones de falla, condenando a la empresa a un ciclo reactivo donde solo se actúa cuando el equipo deja de funcionar.
+
+**How (¿Cómo?):**
+La solución es TexCheck, una plataforma integral que centraliza la gestión de activos. Permite la creación de un inventario digital, la programación automatizada de tareas mediante checklists estandarizados y la generación de alertas en tiempo real.
+
+**How Much (¿Cuánto?):**
+El costo de una gestión ineficiente puede representar pérdidas de entre el 15% y 30% del tiempo de producción anual (Downtime). Una parada de planta no programada en una línea mediana puede generar pérdidas significativas en lucro cesante y costos de reparación de emergencia.
+
+### 1.2.2. Lean UX Process
+
+TexCheck busca transformar la gestión operativa en las plantas textiles, centrando la experiencia en el operario y el jefe de mantenimiento para garantizar que la transición del papel a lo digital sea intuitiva y eficiente. Aplicamos el marco Lean UX para validar hipótesis de diseño rápidamente, asegurando que la solución evolucione a partir de la retroalimentación real del personal técnico y gerencial del sector manufacturero.
+
+#### 1.2.2.1 Lean UX Problem Statements
+
+**Declaración del problema de negocio:**
+Hemos observado que la falta de un sistema automatizado de mantenimiento preventivo está causando un incremento del 20% en costos de reparación y paradas imprevistas.
+
+**Declaración del problema de usuario:**
+Los técnicos de mantenimiento se ven afectados por la desorganización de órdenes de trabajo manuales, mientras que los jefes de planta carecen de visibilidad en tiempo real sobre el estado de sus activos.
+
+**Meta:**
+¿Cómo podemos optimizar la programación de tareas mediante una solución digital para reducir el downtime de las máquinas en un 15% durante los primeros seis meses?
+
+#### 1.2.2.2 Lean UX Assumptions
+
+* **Negocio:** Creemos que las empresas textiles están dispuestas a invertir en digitalización para reducir pérdidas operativas.
+* **Usuario:** Los técnicos prefieren reportar fallas vía móvil que llenar formatos físicos de inspección.
+* **Solución:** Una arquitectura multiplataforma conectará eficientemente la gestión administrativa con la ejecución técnica en planta.
+
+#### 1.2.2.3 Lean UX Hypothesis Statements
+
+* **Hipótesis 1:** Al implementar alertas automáticas, el cumplimiento del cronograma preventivo aumentará en un 30%.
+* **Hipótesis 2:** Al digitalizar el historial de activos, el gasto en repuestos de emergencia disminuirá en un 10%.
+* **Hipótesis 3:** Una interfaz móvil simplificada reducirá el tiempo de reporte de incidencias de 15 a menos de 5 minutos.
+
+---
+
+## 1.3. Segmentos objetivo
+
+### 1) Personal Técnico de Mantenimiento (Perfil Operativo)
+
+* **Definición del segmento:** Técnicos especialistas (20–45 años) responsables de la ejecución directa del mantenimiento en planta.
+* **Determinantes y motivaciones:** Eficiencia en la ejecución, reducción de errores y digitalización de reportes diarios.
+* **Necesidades y tareas (JTBD):** Registrar intervenciones rápido, seguir checklists estandarizados y acceder a manuales técnicos en el móvil.
+* **Fricciones:** Exceso de burocracia en papel y comunicación lenta ante fallas críticas.
+* **Criterios de elección:** Interfaz intuitiva para entornos industriales y notificaciones de tareas pendientes.
+* **Situaciones de uso:** Inspecciones diarias, detección de anomalías y cambios de turno.
+* **Mensajes clave:** "Digitaliza tu mantenimiento y optimiza tu tiempo en planta."
+
+### 2) Jefes de Planta y Gerentes de Operaciones (Perfil Estratégico)
+
+* **Definición del segmento:** Ingenieros y gestores (30–55 años) responsables de la rentabilidad y planificación de la producción.
+* **Determinantes y motivaciones:** Maximizar la vida útil de maquinaria y reducción de costos operativos.
+* **Necesidades y tareas (JTBD):** Programar ciclos preventivos automáticamente y visualizar indicadores (KPIs) en tiempo real.
+* **Fricciones:** Incertidumbre sobre el estado de activos y falta de trazabilidad en las intervenciones.
+* **Criterios de elección:** Dashboard centralizado, escalabilidad de la plataforma y reportes automáticos.
+* **Situaciones de uso:** Planificación semanal, auditorías de calidad y análisis de resultados.
+* **Mensajes clave:** "Toma el control estratégico de tu planta con datos en tiempo real."
+
 
 ---
 
