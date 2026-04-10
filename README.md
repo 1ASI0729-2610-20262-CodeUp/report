@@ -210,9 +210,49 @@ En esta sección se detallan las actividades realizadas en el trabajo final y el
 ---
 
 # Capítulo IV: Product Design
+En esta sección se abarca el planteamiento de la propuesta de Software Architecture & Design, incluyendo Domain-Driven Software Architecture, Object-Oriented Software Design, así como UX/UI Design para la experiencia web. Para ello se tomará como base el conjunto de User Stories identificados así como el Impact Map.
+
 ## 4.1. Style Guidelines.
-### 4.1.1. General Style Guidelines.
+En esta sección, el equipo sienta las bases para contar con un repositorio central y organizado de uso común para todo el equipo, que incluye assets, fuentes, paletas de colores y otros recursos. Esto con el fin de mantener una presentación consistente y enfocada en todos los productos desarrollados. Se incluyen secciones para General Style Guidelines, Web Style Guidelines y Mobile Style Guidelines.
+
+### 4.1.1. General Style Guidelines
+#### Branding
+
+Para el desarrollo de la identidad visual del proyecto, se ha optado por un diseño de logotipo que representa la esencia y los valores principales de la aplicación. El logotipo utiliza una tipografía moderna y clara, transmitiendo profesionalismo y confianza. El ícono busca reflejar eficiencia, innovación y facilidad de uso. La selección de colores vibrantes y equilibrados refuerza la percepción de estabilidad y dinamismo. La integración de estos elementos visuales comunica el compromiso del equipo con la excelencia y la experiencia del usuario.
+
+<div align="center">
+  <img src="images/branding-texcheck.png" alt="Logo TexCheck" width="300"/>
+</div>
+
+#### Typography
+
+La tipografía seleccionada para el proyecto combina modernidad y funcionalidad. Se ha elegido una fuente principal sans-serif para los encabezados, que aporta claridad y sofisticación en entornos digitales. Para los textos de párrafo, se utiliza una fuente secundaria que favorece la legibilidad y resalta la información clave, contribuyendo a una experiencia visual atractiva y accesible.
+
+<div align="center">
+  <img src="images/tipografia_texcheck.png" alt="Tipografía TexCheck" width="350"/>
+</div>
+
+
+
+#### Colors
+
+La paleta de colores fue definida para transmitir confianza, eficiencia y modernidad. Los tonos principales, como azul y gris, evocan profesionalismo y claridad, mientras que acentos en colores vivos aportan dinamismo y frescura. Esta combinación refuerza la identidad visual del producto como una solución tecnológica amigable y confiable.
+
+<div align="center">
+  <img src="images/colores-texcheck.png" alt="Colores TexCheck" width="350"/>
+</div>
+
+
+
+#### Spacing
+
+El espaciado en la interfaz está cuidadosamente definido para asegurar una presentación limpia y organizada. Se emplea separación uniforme entre elementos, lo que mejora la legibilidad, facilita la navegación y aporta equilibrio visual al diseño. El uso consistente de márgenes y paddings contribuye a una experiencia de usuario clara y agradable.
+
+
 ### 4.1.2. Web Style Guidelines.
+
+TexCheck cuenta con un diseño web adaptable que garantiza una experiencia fluida y consistente en cualquier dispositivo. Se emplea el patrón de diseño en forma de Z, ideal para resaltar las funcionalidades principales como la revisión de textos y el acceso a reportes. El logotipo se ubica en la esquina superior izquierda, mientras que la barra de navegación y el llamado a la acción para utilizar la aplicación se sitúan a la derecha, guiando al usuario de manera intuitiva a través de la interfaz. Los elementos visuales y de interacción han sido optimizados para asegurar accesibilidad, legibilidad y facilidad de uso en pantallas de escritorio, tabletas y móviles.
+
 ## 4.2. Information Architecture.
 ### 4.2.1. Organization Systems.
 ### 4.2.2. Labeling Systems.
