@@ -63,7 +63,7 @@ Antes de comenzar, me gustaría conocer un poco más sobre ti para poder entende
 
   <!-- Imagen de la captura de pantalla -->
   <div style="background-color: #138dffa4; padding: 12px 16px 16px;">
-    <img src="images/Carlos.png" alt="Captura de entrevista" style="width: 100%; border-radius: 3px; display: block;">
+    <img src="../images/Carlos.png" alt="Captura de entrevista" style="width: 100%; border-radius: 3px; display: block;">
   </div>
 
   <!-- Datos en dos columnas -->
@@ -127,7 +127,7 @@ Antes de comenzar, me gustaría conocer un poco más sobre ti para poder entende
 
   <!-- Imagen de la captura de pantalla -->
   <div style="background-color: #138dffa4; padding: 12px 16px 16px;">
-    <img src="images/Claudia.png" alt="Captura de entrevista" style="width: 100%; border-radius: 3px; display: block;">
+    <img src="../images/Claudia.png" alt="Captura de entrevista" style="width: 100%; border-radius: 3px; display: block;">
   </div>
 
   <!-- Datos en dos columnas -->
@@ -190,7 +190,7 @@ Antes de comenzar, me gustaría conocer un poco más sobre ti para poder entende
 
   <!-- Imagen de la captura de pantalla -->
   <div style="background-color: #138dffa4; padding: 12px 16px 16px;">
-    <img src="images/Carolina.png" alt="Captura de entrevista" style="width: 100%; border-radius: 3px; display: block;">
+    <img src="../images/Carolina.png" alt="Captura de entrevista" style="width: 100%; border-radius: 3px; display: block;">
   </div>
 
   <!-- Datos en dos columnas -->
@@ -253,7 +253,7 @@ Ante esta situación, la empresa considera necesario implementar un software de 
 
   <!-- Imagen de la captura de pantalla -->
   <div style="background-color: #138dffa4; padding: 12px 16px 16px;">
-    <img src="images/SebastianC.png" alt="Captura de entrevista" style="width: 100%; border-radius: 3px; display: block;">
+    <img src="../images/SebastianC.png" alt="Captura de entrevista" style="width: 100%; border-radius: 3px; display: block;">
   </div>
 
   <!-- Datos en dos columnas -->
@@ -318,7 +318,7 @@ Ante esta situación, la empresa considera necesario implementar un software de 
 
   <!-- Imagen de la captura de pantalla -->
   <div style="background-color: #138dffa4; padding: 12px 16px 16px;">
-    <img src="images/fernando.png" alt="Captura de entrevista" style="width: 100%; border-radius: 3px; display: block;">
+    <img src="../images/fernando.png" alt="Captura de entrevista" style="width: 100%; border-radius: 3px; display: block;">
   </div>
 
   <!-- Datos en dos columnas -->
@@ -381,7 +381,7 @@ Frente a ello, el entrevistado considera necesaria la implementación de una her
 
   <!-- Imagen de la captura de pantalla -->
   <div style="background-color: #138dffa4; padding: 12px 16px 16px;">
-    <img src="images/carlosm.png" alt="Captura de entrevista" style="width: 100%; border-radius: 3px; display: block;">
+    <img src="../images/carlosm.png" alt="Captura de entrevista" style="width: 100%; border-radius: 3px; display: block;">
   </div>
 
   <!-- Datos en dos columnas -->
@@ -452,31 +452,31 @@ El análisis permitió detectar patrones comunes como el uso de métodos manuale
 
 **Gestión del mantenimiento realizada de forma manual**
 
-  <img src="images/hallazgo1-s1.png" alt="Gestión del mantenimiento realizada de forma manual"/>
+  <img src="../images/hallazgo1-s1.png" alt="Gestión del mantenimiento realizada de forma manual"/>
 
 El 100% de los entrevistados gestiona el mantenimiento con Excel, libretas o cuadernillas. Ninguno cuenta con un sistema digital especializado. La coordinación depende del seguimiento personal del equipo técnico, lo que genera desorden y falta de trazabilidad.
 
 **Fallas en máquinas con alto impacto en producción y costos**
 
-  <img src="images/hallazgo2-s2.png" alt="Fallas en máquinas con alto impacto en producción y costos"/>
+  <img src="../images/hallazgo2-s2.png" alt="Fallas en máquinas con alto impacto en producción y costos"/>
 
 El 100% reportó que las fallas inesperadas detienen la producción, desorganizan la planificación y generan presión sobre el equipo. Esto se traduce en retrasos en pedidos, horas extra, costos adicionales de reparación y riesgo de incumplimiento con clientes.
 
 **Interés en implementar un software de gestión de mantenimiento**
 
-  <img src="images/hallazgo3-s1.png" alt="Gestión del mantenimiento realizada de forma manual"/>
+  <img src="../images/hallazgo3-s1.png" alt="Gestión del mantenimiento realizada de forma manual"/>
 
 El 100% ha considerado adoptar un software. Las razones principales son: necesidad de mayor orden, prevención de fallas, reducción de errores humanos y mejora en la toma de decisiones basada en datos. La principal barrera es encontrar una solución simple que no genere carga adicional al equipo.
 
 **Factores clave en la decisión de compra**
 
-  <img src="images/hallazgo4-s1.png" alt="Gestión del mantenimiento realizada de forma manual"/>
+  <img src="../images/hallazgo4-s1.png" alt="Gestión del mantenimiento realizada de forma manual"/>
 
 El 100% pone la facilidad de uso y la eficiencia como prioridad absoluta. Si el sistema es complicado, el equipo no lo adoptará. El 67% también considera el precio, pero lo evalúa en función del valor que aporta — si genera resultados, pasa a segundo plano.
 
 **Funcionalidades esenciales que debe tener la solución**
 
-  <img src="images/hallazgo5-s1.png" alt="Gestión del mantenimiento realizada de forma manual"/>
+  <img src="../images/hallazgo5-s1.png" alt="Gestión del mantenimiento realizada de forma manual"/>
 
 El 100% exige alertas preventivas, control en tiempo real e historial de mantenimiento por máquina.
 El 67% añade acceso remoto y generación de reportes. 
@@ -504,42 +504,42 @@ Esto valida la propuesta que da una solución con alertas preventivas, historial
 
 **Registro manual del mantenimiento sin sistema centralizado**
 
-  <img src="images/hallazgo1-s2.png" alt="Gestión del mantenimiento realizada de forma manual"/>
+  <img src="../images/hallazgo1-s2.png" alt="Gestión del mantenimiento realizada de forma manual"/>
 
 Los 3 jefes de mantenimiento usan Excel, cuadernos o papel para registrar el mantenimiento. 
 Cada técnico lleva su propio registro por separado, lo que genera información dispersa, desactualizada y difícil de consultar.
 
 **Pérdida de información importante de mantenimiento**
 
-  <img src="images/hallazgo2-s2.png" alt="Gestión del mantenimiento realizada de forma manual"/>
+  <img src="../images/hallazgo2-s2.png" alt="Gestión del mantenimiento realizada de forma manual"/>
 
 Los 3 han perdido registros en algún momento: archivos mal guardados, hojas extraviadas o fallas en el sistema.
 Esto les hace perder el historial de las máquinas y en algunos casos afecta directamente la operación.
 
 **Coordinación de tareas difícil por falta de herramienta formal**
 
-  <img src="images/hallazgos3-s2.png" alt="Gestión del mantenimiento realizada de forma manual"/>
+  <img src="../images/hallazgos3-s2.png" alt="Gestión del mantenimiento realizada de forma manual"/>
 
 Los 3 coordinan por WhatsApp o de forma verbal. 
 No existe ninguna plataforma donde se puedan ver las tareas asignadas, su estado o quién las atiende, lo que genera confusión especialmente en cambios de turno o urgencias.
 
 **Detección de fallas reactiva por falta de monitoreo preventivo**
 
-  <img src="images/hallazgo4-s2.png" alt="Gestión del mantenimiento realizada de forma manual"/>
+  <img src="../images/hallazgo4-s2.png" alt="Gestión del mantenimiento realizada de forma manual"/>
 
 Los 3 actúan de forma reactiva: no hay monitoreo constante ni alertas, por lo que solo se enteran de un problema cuando la máquina ya falló. 
 No existe un proceso de prevención establecido.
 
 **Las alertas automáticas serían muy útiles para prevenir fallas**
 
-  <img src="images/hallazgo5-s2.png" alt="Gestión del mantenimiento realizada de forma manual"/>
+  <img src="../images/hallazgo5-s2.png" alt="Gestión del mantenimiento realizada de forma manual"/>
 
 Los 3 coinciden en que recibir alertas les permitiría anticiparse a las fallas y planificar mejor, pasando de un mantenimiento correctivo a uno preventivo. 
 Lo consideran la mejora más importante que podría tener una herramienta.
 
 **Funcionalidades deseadas en una herramienta digital**
 
-  <img src="images/hallazgo6-s2.png" alt="Gestión del mantenimiento realizada de forma manual"/>
+  <img src="../images/hallazgo6-s2.png" alt="Gestión del mantenimiento realizada de forma manual"/>
 
 Los 3 piden alertas automáticas, historial por máquina y asignación de tareas. 
 El 67% (2 de 3) además quiere reportes y acceso desde celular o tablet. 
@@ -547,7 +547,7 @@ Todo apunta a una herramienta que organice, registre y notifique en un solo luga
 
 **Condiciones para adoptar la herramienta en el día a día**
 
-  <img src="images/hallazgo7-s2.png" alt="Gestión del mantenimiento realizada de forma manual"/>
+  <img src="../images/hallazgo7-s2.png" alt="Gestión del mantenimiento realizada de forma manual"/>
 
 Los 3 adoptarían la herramienta si es fácil de usar y les ahorra tiempo real. 
 El 67% también pide acceso desde el celular. 
@@ -566,112 +566,59 @@ Existe una alta necesidad de una herramienta digital que centralice la informaci
 ### 2.3.4. Empathy Mapping.
 ## 2.4. Big Picture Event Storming.
 
-  <img src="images/BigPictureEventStorming-CodeUp.png" alt="Gestión del mantenimiento realizada de forma manual"/>
-        <strong>Link del Miro:</strong> <a href="https://miro.com/app/board/uXjVGe-lBxE=/?share_link_id=320491170760" style="color: #138dffa4;">https://miro.com/app/board/uXjVGe-lBxE=/?share_link_id=320491170760</a>
+<img src="images/BigPictureEventStorming-CodeUp.png" alt="Big Picture Event Storming" style="width: 100%; border-radius: 3px; display: block;">
 
 ## 2.5. Ubiquitous Language.
-
-
 ## Core del negocio:
-
-
 ### 1. Asset (Activo)
 Equipo o maquinaria utilizada en el proceso de producción textil que requiere monitoreo y mantenimiento.
-
-
 ### 2. Maintenance (Mantenimiento)
 Conjunto de actividades realizadas para asegurar el correcto funcionamiento de un activo.
-
-
 ### 3. Preventive Maintenance (Mantenimiento Preventivo)
 Mantenimiento planificado que se realiza periódicamente para evitar fallas en los activos.
-
-
 ### 4. Corrective Maintenance (Mantenimiento Correctivo)
 Mantenimiento realizado después de que ocurre una falla, con el objetivo de restaurar el funcionamiento del activo.
-
-
 ### 5. Maintenance Schedule (Plan de Mantenimiento)
 Programación de actividades de mantenimiento para un activo en un periodo determinado.
-
-
 ##  Ejecución y fallas
-
-
 ### 1. Failure (Falla)
 Evento en el que un activo deja de funcionar correctamente o presenta un comportamiento anómalo.
-
-
 ### 2. Critical Failure (Falla Crítica)
 Falla que afecta significativamente la operación y requiere atención inmediata.
-
-
 ### 3. Downtime (Tiempo de Inactividad)
 Periodo en el que un activo no está operativo debido a mantenimiento o fallas.
-
-
 ### 4. Repair (Reparación)
 Acción de corregir una falla para restablecer el funcionamiento del activo.
-
-
 ### 5. Maintenance Task (Tarea de Mantenimiento)
 Actividad específica que forma parte de un mantenimiento.
-
-
 ## Historial y análisis
-
-
 ### 1. Maintenance History (Historial de Mantenimiento)
 Registro de todas las intervenciones realizadas sobre un activo.
-
-
 ### 2. Technical Record (Registro Técnico)
 Documento o dato que detalla una intervención realizada sobre un activo.
-
-
 ### 3. Performance Indicator (Indicador de Desempeño)
 Métrica utilizada para evaluar el rendimiento y estado de los activos.
-
-
 ### 4. Report (Reporte)
 Resumen estructurado de información sobre mantenimiento, fallas o desempeño de los activos.
-
-
 ## Inteligencia del negocio
-
-
-
 ### 1. Predictive Maintenance (Mantenimiento Predictivo)
 Enfoque que utiliza datos históricos para anticipar posibles fallas en los activos.
-
-
 ### 2. Failure Prediction (Predicción de Fallas)
 Estimación de la probabilidad de que ocurra una falla en un activo.
-
-
 ### 3. Risk Level (Nivel de Riesgo)
 Medida que indica la probabilidad e impacto de una posible falla.
-
-
 ### 4. Recommendation (Recomendación)
 Sugerencia generada para mejorar el mantenimiento o evitar fallas.
-
 ## Alertas
-
 ### 1. Alert (Alerta)
 Notificación generada ante una condición relevante, como una falla o riesgo elevado.
-
 ### 2. Notification (Notificación)
 Mensaje enviado a un usuario para informarle sobre un evento importante.
-
 ### 3. Reminder (Recordatorio)
 Notificación programada para alertar sobre un mantenimiento próximo.
-
 ## Integración
-
 ### 1. Sensor Data (Datos de Sensores)
 Información recolectada desde dispositivos que monitorean el estado de los activos.
-
 ### 2. Real-Time Monitoring (Monitoreo en Tiempo Real)
 Seguimiento continuo del estado de un activo mediante datos actualizados constantemente.
 
