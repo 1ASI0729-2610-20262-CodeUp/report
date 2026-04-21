@@ -210,15 +210,126 @@ En esta sección se detallan las actividades realizadas en el trabajo final y el
 ---
 
 # Capítulo IV: Product Design
+En esta sección se abarca el planteamiento de la propuesta de Software Architecture & Design, incluyendo Domain-Driven Software Architecture, Object-Oriented Software Design, así como UX/UI Design para la experiencia web. Para ello se tomará como base el conjunto de User Stories identificados así como el Impact Map.
+
 ## 4.1. Style Guidelines.
-### 4.1.1. General Style Guidelines.
+En esta sección, el equipo sienta las bases para contar con un repositorio central y organizado de uso común para todo el equipo, que incluye assets, fuentes, paletas de colores y otros recursos. Esto con el fin de mantener una presentación consistente y enfocada en todos los productos desarrollados. Se incluyen secciones para General Style Guidelines, Web Style Guidelines y Mobile Style Guidelines.
+
+### 4.1.1. General Style Guidelines
+#### Branding
+
+Para el desarrollo de la identidad visual del proyecto, se ha optado por un diseño de logotipo que representa la esencia y los valores principales de la aplicación. El logotipo utiliza una tipografía moderna y clara, transmitiendo profesionalismo y confianza. El ícono busca reflejar eficiencia, innovación y facilidad de uso. La selección de colores vibrantes y equilibrados refuerza la percepción de estabilidad y dinamismo. La integración de estos elementos visuales comunica el compromiso del equipo con la excelencia y la experiencia del usuario.
+
+<div align="center">
+  <img src="images/branding-texcheck.png" alt="Logo TexCheck" width="300"/>
+</div>
+
+#### Typography
+
+La tipografía seleccionada para el proyecto combina modernidad y funcionalidad. Se ha elegido una fuente principal sans-serif para los encabezados, que aporta claridad y sofisticación en entornos digitales. Para los textos de párrafo, se utiliza una fuente secundaria que favorece la legibilidad y resalta la información clave, contribuyendo a una experiencia visual atractiva y accesible.
+
+<div align="center">
+  <img src="images/tipografia_texcheck.png" alt="Tipografía TexCheck" width="350"/>
+</div>
+
+
+
+#### Colors
+
+La paleta de colores fue definida para transmitir confianza, eficiencia y modernidad. Los tonos principales, como azul y gris, evocan profesionalismo y claridad, mientras que acentos en colores vivos aportan dinamismo y frescura. Esta combinación refuerza la identidad visual del producto como una solución tecnológica amigable y confiable.
+
+<div align="center">
+  <img src="images/colores-texcheck.png" alt="Colores TexCheck" width="350"/>
+</div>
+
+
+
+#### Spacing
+
+El espaciado en la interfaz está cuidadosamente definido para asegurar una presentación limpia y organizada. Se emplea separación uniforme entre elementos, lo que mejora la legibilidad, facilita la navegación y aporta equilibrio visual al diseño. El uso consistente de márgenes y paddings contribuye a una experiencia de usuario clara y agradable.
+
+
 ### 4.1.2. Web Style Guidelines.
+
+TexCheck cuenta con un diseño web adaptable que garantiza una experiencia fluida y consistente en cualquier dispositivo. Se emplea el patrón de diseño en forma de Z, ideal para resaltar las funcionalidades principales como la gestión de activos, la programación de mantenimientos y el acceso a reportes operativos. El logotipo se ubica en la esquina superior izquierda, mientras que la barra de navegación y el llamado a la acción para registrar o programar mantenimientos se sitúan a la derecha, guiando al usuario de manera intuitiva a través de la interfaz. Los elementos visuales y de interacción han sido optimizados para asegurar accesibilidad, legibilidad y facilidad de uso en pantallas de escritorio, tabletas y móviles.
+
 ## 4.2. Information Architecture.
+En esta sección se presentan las decisiones y fundamentos que guían la organización del contenido en las experiencias web y móvil de TexCheck, incluyendo la Landing Page y las aplicaciones. El objetivo es que los usuarios se adapten fácilmente a la funcionalidad de cada producto y encuentren lo que necesitan sin esfuerzo. Se abordan los Organization Systems y Labeling Systems, entre otros.
+
 ### 4.2.1. Organization Systems.
+
+#### Visual Hierarchy
+
+- **Encabezado principal:** En la parte superior de la interfaz se ubican las funciones clave de TexCheck, como la gestión de activos, la programación de mantenimientos y el acceso a reportes operativos, facilitando la navegación y el acceso rápido a las herramientas principales.
+- **Panel de acciones:** El usuario puede seleccionar entre diferentes acciones, como registrar un nuevo activo, programar una intervención de mantenimiento o consultar el historial de intervenciones.
+- **Zona de resultados:** Los resultados de las operaciones y reportes de mantenimiento se muestran de forma destacada y clara, permitiendo al usuario interpretar fácilmente el estado de los activos y las alertas relevantes.
+
+#### Step by Step to Accomplish.
+
+Este enfoque se implementa para guiar al usuario en procesos secuenciales, como el registro y control de activos textiles, la programación y ejecución de mantenimientos, y la consulta de reportes, asegurando claridad y evitando errores.
+
+**User Goal:**  
+Quiero gestionar y controlar eficientemente el mantenimiento de los activos textiles de mi planta, minimizando fallas y optimizando la producción.
+
+**User Flow:**
+1. Registrar o actualizar un activo textil (máquina, equipo, etc.).
+2. Programar una rutina de mantenimiento preventivo o correctivo.
+3. Registrar la ejecución de la tarea de mantenimiento.
+4. Visualizar reportes de historial y alertas de fallas.
+
+**Wireflow:**
+- El usuario accede al dashboard principal y visualiza el estado de los activos.
+- Selecciona un activo para ver detalles o programar mantenimiento.
+- Registra la intervención realizada, adjuntando observaciones y repuestos usados.
+- Consulta reportes y gráficos de desempeño y alertas en tiempo real.
+
 ### 4.2.2. Labeling Systems.
+
+TexCheck utiliza un sistema de etiquetas y botones intuitivos para que los usuarios, ya sean técnicos de mantenimiento, jefes de planta o gerentes, puedan registrar, monitorear y gestionar activos textiles fácilmente.
+
+- Los botones principales están claramente etiquetados: “Registrar activo”, “Programar mantenimiento”, “Registrar intervención”, “Ver reportes”.
+- Los filtros y opciones utilizan etiquetas como “Tipo de activo”, “Estado”, “Fecha de próxima intervención”, “Prioridad”.
+- Las alertas y mensajes de ayuda son breves y directos: “Mantenimiento pendiente”, “Falla detectada”, “Intervención registrada exitosamente”.
+- En los reportes se incluyen etiquetas como “Historial de intervenciones”, “Alertas críticas”, “Disponibilidad de activos”.
+
 ### 4.2.3. SEO Tags and Meta Tags
+Los SEO tags y meta tags son fundamentales para mejorar el posicionamiento de TexCheck en motores de búsqueda y ofrecer información relevante sobre cada página. A continuación, se presentan los principales tags que se utilizarán tanto en la Landing Page como en la Web Application:
+
+**Landing Page:**
+- Title Tag: `<title>TexCheck - Gestión de Mantenimiento Textil</title>`
+- Meta Description: `<meta name="description" content="TexCheck es una plataforma digital para la gestión eficiente de activos y mantenimiento en la industria textil, optimizando la operatividad y reduciendo costos." />`
+- Meta Keywords: `<meta name="keywords" content="mantenimiento textil, gestión de activos, industria textil, mantenimiento preventivo, TexCheck" />`
+- Meta Author: `<meta name="author" content="Equipo TexCheck" />`
+- Meta Viewport: `<meta name="viewport" content="width=device-width, initial-scale=1.0" />`
+- Language Tag: `<meta http-equiv="Content-Language" content="es-PE">`
+- Robots Tag: `<meta name="robots" content="index, follow">`
+- Canonical Tag: `<link rel="canonical" href="https://www.texcheck.com/">`
+
+**Web Application:**
+- Title Tag: `<title>Panel de Control - TexCheck</title>`
+- Meta Description: `<meta name="description" content="Panel de control para la gestión de activos, programación de mantenimientos y visualización de reportes en TexCheck." />`
+- Meta Keywords: `<meta name="keywords" content="panel de control, activos textiles, reportes mantenimiento, TexCheck" />`
+- Meta Author: `<meta name="author" content="Equipo TexCheck" />`
+- Meta Viewport: `<meta name="viewport" content="width=device-width, initial-scale=1.0" />`
+- Language Tag: `<meta http-equiv="Content-Language" content="es-PE">`
+- Robots Tag: `<meta name="robots" content="noindex, nofollow">`
+- Canonical Tag: `<link rel="canonical" href="https://www.texcheck.com/app">`
 ### 4.2.4. Searching Systems.
+En TexCheck, los sistemas de búsqueda están diseñados para que los usuarios encuentren rápidamente información relevante sobre activos, mantenimientos y reportes. Se implementan las siguientes opciones:
+
+- **Búsqueda de activos:** Permite localizar máquinas o equipos específicos mediante filtros como tipo de activo, estado, ubicación o código de inventario.
+- **Búsqueda de mantenimientos:** Los usuarios pueden filtrar tareas programadas o ejecutadas por fecha, tipo de mantenimiento (preventivo/correctivo), responsable o prioridad.
+- **Búsqueda en reportes:** Se ofrecen filtros avanzados para consultar el historial de intervenciones, alertas críticas y disponibilidad de activos.
+
+Tras realizar una búsqueda, los resultados se presentan en tablas dinámicas y visualizaciones gráficas, facilitando la interpretación y toma de decisiones.
 ### 4.2.5. Navigation Systems.
+El sistema de navegación de TexCheck está diseñado para guiar a los usuarios de manera intuitiva a través de la Landing Page y la Web Application, permitiéndoles cumplir sus objetivos de forma eficiente:
+
+- **Menú principal:** Acceso rápido a las secciones clave: Dashboard, Activos, Mantenimientos, Reportes y Perfil de usuario.
+- **Breadcrumbs:** Indican la ubicación actual del usuario dentro de la aplicación y facilitan el regreso a secciones previas.
+- **Accesos directos:** Botones destacados para registrar activos, programar mantenimientos o generar reportes desde cualquier pantalla.
+- **Panel lateral:** En la Web Application, un panel lateral permite navegar entre módulos sin perder el contexto de trabajo.
+- **Ayuda contextual:** En cada sección, enlaces de ayuda y soporte técnico para resolver dudas o reportar incidencias.
 ## 4.3. Landing Page UI Design.
 ### 4.3.1. Landing Page Wireframe.
 ### 4.3.2. Landing Page Mock-up.
