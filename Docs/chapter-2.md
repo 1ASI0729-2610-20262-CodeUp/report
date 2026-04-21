@@ -565,4 +565,115 @@ Existe una alta necesidad de una herramienta digital que centralice la informaci
 ### 2.3.3. User Journey Mapping.
 ### 2.3.4. Empathy Mapping.
 ## 2.4. Big Picture Event Storming.
+
+  <img src="images/BigPictureEventStorming-CodeUp.png" alt="Gestión del mantenimiento realizada de forma manual"/>
+        <strong>Link del Miro:</strong> <a href="https://miro.com/app/board/uXjVGe-lBxE=/?share_link_id=320491170760" style="color: #138dffa4;">https://miro.com/app/board/uXjVGe-lBxE=/?share_link_id=320491170760</a>
+
 ## 2.5. Ubiquitous Language.
+
+
+## Core del negocio:
+
+
+### 1. Asset (Activo)
+Equipo o maquinaria utilizada en el proceso de producción textil que requiere monitoreo y mantenimiento.
+
+
+### 2. Maintenance (Mantenimiento)
+Conjunto de actividades realizadas para asegurar el correcto funcionamiento de un activo.
+
+
+### 3. Preventive Maintenance (Mantenimiento Preventivo)
+Mantenimiento planificado que se realiza periódicamente para evitar fallas en los activos.
+
+
+### 4. Corrective Maintenance (Mantenimiento Correctivo)
+Mantenimiento realizado después de que ocurre una falla, con el objetivo de restaurar el funcionamiento del activo.
+
+
+### 5. Maintenance Schedule (Plan de Mantenimiento)
+Programación de actividades de mantenimiento para un activo en un periodo determinado.
+
+
+##  Ejecución y fallas
+
+
+### 1. Failure (Falla)
+Evento en el que un activo deja de funcionar correctamente o presenta un comportamiento anómalo.
+
+
+### 2. Critical Failure (Falla Crítica)
+Falla que afecta significativamente la operación y requiere atención inmediata.
+
+
+### 3. Downtime (Tiempo de Inactividad)
+Periodo en el que un activo no está operativo debido a mantenimiento o fallas.
+
+
+### 4. Repair (Reparación)
+Acción de corregir una falla para restablecer el funcionamiento del activo.
+
+
+### 5. Maintenance Task (Tarea de Mantenimiento)
+Actividad específica que forma parte de un mantenimiento.
+
+
+## Historial y análisis
+
+
+### 1. Maintenance History (Historial de Mantenimiento)
+Registro de todas las intervenciones realizadas sobre un activo.
+
+
+### 2. Technical Record (Registro Técnico)
+Documento o dato que detalla una intervención realizada sobre un activo.
+
+
+### 3. Performance Indicator (Indicador de Desempeño)
+Métrica utilizada para evaluar el rendimiento y estado de los activos.
+
+
+### 4. Report (Reporte)
+Resumen estructurado de información sobre mantenimiento, fallas o desempeño de los activos.
+
+
+## Inteligencia del negocio
+
+
+
+### 1. Predictive Maintenance (Mantenimiento Predictivo)
+Enfoque que utiliza datos históricos para anticipar posibles fallas en los activos.
+
+
+### 2. Failure Prediction (Predicción de Fallas)
+Estimación de la probabilidad de que ocurra una falla en un activo.
+
+
+### 3. Risk Level (Nivel de Riesgo)
+Medida que indica la probabilidad e impacto de una posible falla.
+
+
+### 4. Recommendation (Recomendación)
+Sugerencia generada para mejorar el mantenimiento o evitar fallas.
+
+## Alertas
+
+### 1. Alert (Alerta)
+Notificación generada ante una condición relevante, como una falla o riesgo elevado.
+
+### 2. Notification (Notificación)
+Mensaje enviado a un usuario para informarle sobre un evento importante.
+
+### 3. Reminder (Recordatorio)
+Notificación programada para alertar sobre un mantenimiento próximo.
+
+## Integración
+
+### 1. Sensor Data (Datos de Sensores)
+Información recolectada desde dispositivos que monitorean el estado de los activos.
+
+### 2. Real-Time Monitoring (Monitoreo en Tiempo Real)
+Seguimiento continuo del estado de un activo mediante datos actualizados constantemente.
+
+### 3. Integration (Integración)
+Proceso mediante el cual el sistema se conecta con fuentes externas para recibir o enviar información.
