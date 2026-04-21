@@ -194,6 +194,24 @@ imagenes
 
 ###
 ### 2.1.2. Estrategias y tácticas frente a competidores.
+
+**Estrategias**
+
+- Diferenciarnos mediante la **especialización en la industria textil**, ofreciendo una solución adaptada a sus procesos y necesidades específicas.
+- Priorizar la **facilidad de uso y rápida adopción**, especialmente para técnicos de mantenimiento que requieren herramientas prácticas en campo.
+- Posicionarnos como una alternativa **más accesible frente a soluciones complejas y costosas**, facilitando la digitalización en pymes.
+- Enfocarnos en una experiencia **mobile-first**, optimizando el uso en celulares y tablets dentro de planta.
+- Generar valor a través de la **prevención de fallas y reducción del downtime**, utilizando datos organizados y alertas en tiempo real.
+
+**Tácticas**
+
+- Implementar **checklists digitales estandarizados** para la ejecución de mantenimiento preventivo.
+- Desarrollar un sistema de **alertas automáticas y notificaciones en tiempo real** para tareas programadas.
+- Crear un proceso de **onboarding simple y guiado** para nuevos usuarios (técnicos y jefes de planta).
+- Diseñar dashboards con **indicadores clave (KPIs)** para monitorear el estado de los activos.
+- Permitir el **registro rápido de incidencias desde dispositivos móviles**, reduciendo tiempos operativos.
+- Incorporar mejoras continuas basadas en **feedback directo de los usuarios** en planta.
+###
 ## 2.2. Entrevistas.
 ### 2.2.1. Diseño de entrevistas.
 
