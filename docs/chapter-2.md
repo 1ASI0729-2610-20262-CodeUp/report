@@ -1,6 +1,198 @@
 # Capítulo II: Requirements Elicitation & Analysis
 ## 2.1. Competidores.
 ### 2.1.1. Análisis competitivo.
+<table>
+  <tr>
+    <th colspan="6" valign="top">Competitive Analysis Landscape</th>
+  </tr>
+  <tr>
+    <td colspan="2" valign="top">¿Por qué llevar a cabo este análisis?</td>
+    <td colspan="4" valign="top">
+      El objetivo de este análisis es identificar las características de los competidores en el sector de gestión de mantenimiento industrial (CMMS) y determinar oportunidades de diferenciación para TexCheck, enfocándonos en el sector textil.
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" rowspan="2" valign="top">Startup y Competidores</td>
+    <td valign="top">Nuestra Startup</td>
+    <td valign="top">IBM Maximo</td>
+    <td valign="top">Fiix CMMS</td>
+    <td valign="top">UpKeep</td>
+  </tr>
+  <tr>
+imagenes
+  </tr>
+  <tr>
+    <td rowspan="2" valign="top">Perfil</td>
+    <td valign="top">Overview</td>
+    <td valign="top">
+      Plataforma digital enfocada en la gestión de mantenimiento preventivo en la industria textil, con control de activos, programación automatizada y reportes en tiempo real.
+    </td>
+    <td valign="top">
+      Sistema avanzado de gestión de activos empresariales (EAM) orientado a grandes corporaciones con analítica compleja.
+    </td>
+    <td valign="top">
+      Software CMMS basado en la nube que permite gestionar órdenes de trabajo, activos y mantenimiento preventivo.
+    </td>
+    <td valign="top">
+      Aplicación móvil de mantenimiento enfocada en técnicos para gestionar tareas y reportes rápidamente.
+    </td>
+  </tr>
+  <tr>
+    <td valign="top">Ventaja competitiva ¿Qué valor ofrece a los clientes?</td>
+    <td valign="top">
+      Especialización en el sector textil, facilidad de uso, implementación rápida y enfoque en reducción de downtime mediante mantenimiento preventivo.
+    </td>
+    <td valign="top">
+      Alta capacidad de personalización, escalabilidad y analítica avanzada.
+    </td>
+    <td valign="top">
+      Interfaz amigable y rápida implementación en la nube.
+    </td>
+    <td valign="top">
+      Enfoque mobile-first y facilidad de uso para técnicos operativos.
+    </td>
+  </tr>
+  <tr>
+    <td rowspan="2" valign="top">Perfil de Marketing</td>
+    <td valign="top">Mercado objetivo</td>
+    <td valign="top">
+      Empresas textiles pequeñas y medianas que buscan digitalizar su mantenimiento.
+    </td>
+    <td valign="top">
+      Grandes empresas industriales con alta complejidad operativa.
+    </td>
+    <td valign="top">
+      Empresas medianas que buscan soluciones CMMS accesibles.
+    </td>
+    <td valign="top">
+      Técnicos y equipos de mantenimiento en diversas industrias.
+    </td>
+  </tr>
+  <tr>
+    <td valign="top">Estrategias de marketing</td>
+    <td valign="top">
+      Enfoque en nicho textil, demostraciones prácticas, contenido educativo sobre mantenimiento preventivo.
+    </td>
+    <td valign="top">
+      Ventas corporativas, consultoría especializada y alianzas estratégicas.
+    </td>
+    <td valign="top">
+      Marketing digital, pruebas gratuitas y contenido educativo.
+    </td>
+    <td valign="top">
+      Promoción en apps móviles, enfoque en facilidad de uso y rapidez.
+    </td>
+  </tr>
+  <tr>
+    <td rowspan="3" valign="top">Perfil de Producto</td>
+    <td valign="top">Productos & Servicios</td>
+    <td valign="top">
+      Gestión de activos, mantenimiento preventivo, alertas en tiempo real, reportes y dashboards.
+    </td>
+    <td valign="top">
+      Gestión integral de activos empresariales y analítica avanzada.
+    </td>
+    <td valign="top">
+      Gestión de mantenimiento, órdenes de trabajo y reportes.
+    </td>
+    <td valign="top">
+      Gestión de tareas, checklists y reportes móviles.
+    </td>
+  </tr>
+  <tr>
+    <td valign="top">Precios & Costos</td>
+    <td valign="top">
+      Modelo accesible por suscripción mensual orientado a pymes.
+    </td>
+    <td valign="top">
+      Alto costo de implementación y licencias empresariales.
+    </td>
+    <td valign="top">
+      Planes escalables según funcionalidades.
+    </td>
+    <td valign="top">
+      Suscripción mensual con enfoque en equipos pequeños.
+    </td>
+  </tr>
+  <tr>
+    <td valign="top">Canales de distribución</td>
+    <td valign="top">
+      Web y aplicación móvil multiplataforma.
+    </td>
+    <td valign="top">
+      Software empresarial implementado con soporte especializado.
+    </td>
+    <td valign="top">
+      Plataforma web en la nube.
+    </td>
+    <td valign="top">
+      Aplicación móvil y web.
+    </td>
+  </tr>
+  <tr>
+    <td rowspan="4" valign="top">Análisis SWOT</td>
+    <td valign="top">Fortalezas</td>
+    <td valign="top">
+      Especialización en textil, facilidad de uso, implementación rápida.
+    </td>
+    <td valign="top">
+      Alta escalabilidad y robustez.
+    </td>
+    <td valign="top">
+      Interfaz intuitiva y rápida adopción.
+    </td>
+    <td valign="top">
+      Uso sencillo y enfoque mobile.
+    </td>
+  </tr>
+  <tr>
+    <td valign="top">Debilidades</td>
+    <td valign="top">
+      Nueva en el mercado, menor reconocimiento de marca.
+    </td>
+    <td valign="top">
+      Complejidad y alto costo.
+    </td>
+    <td valign="top">
+      Funcionalidades limitadas en planes básicos.
+    </td>
+    <td valign="top">
+      Limitada personalización.
+    </td>
+  </tr>
+  <tr>
+    <td valign="top">Oportunidades</td>
+    <td valign="top">
+      Crecimiento de la digitalización en pymes textiles.
+    </td>
+    <td valign="top">
+      Expansión en mercados globales.
+    </td>
+    <td valign="top">
+      Captar empresas en transición digital.
+    </td>
+    <td valign="top">
+      Expansión en nuevas industrias.
+    </td>
+  </tr>
+  <tr>
+    <td valign="top">Amenazas</td>
+    <td valign="top">
+      Competencia de soluciones consolidadas.
+    </td>
+    <td valign="top">
+      Competidores más accesibles.
+    </td>
+    <td valign="top">
+      Saturación de herramientas CMMS.
+    </td>
+    <td valign="top">
+      Nuevas apps con mayor funcionalidad.
+    </td>
+  </tr>
+</table>
+
+###
 ### 2.1.2. Estrategias y tácticas frente a competidores.
 ## 2.2. Entrevistas.
 ### 2.2.1. Diseño de entrevistas.
