@@ -121,7 +121,8 @@
 
 ### 3.3. Impact Mapping
 
-<img src="images/Impact%20mapping%20CodeUp.png" alt="Impact Mapping Code Up"/>
+
+<img title="Impact mapping" alt="" src="/images/ImpactmappingCodeUp.png">
 
 ### 3.4. Product Backlog
 
