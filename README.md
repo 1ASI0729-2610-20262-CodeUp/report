@@ -360,8 +360,7 @@ El wireflow facilita la identificación de las rutas de navegación más importa
 
 <div align="center">
 
-<!-- Aquí se insertará el diagrama wireflow -->
-
+<img src="images/WireflowDiagram.png" width="800">
 </div>
 
 ---
