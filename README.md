@@ -180,6 +180,11 @@ En esta sección se detallan las actividades realizadas en el trabajo final y el
 #### 1.2.2.2. Lean UX Assumptions.
 #### 1.2.2.3. Lean UX Hypothesis Statements.
 #### 1.2.2.4. Lean UX Canvas.
+
+<div align="center">
+  <img src="images/leancanvas_chapter1.png" alt="Colores TexCheck" width="350"/>
+</div>
+
 ## 1.3. Segmentos objetivo.
 
 ---
