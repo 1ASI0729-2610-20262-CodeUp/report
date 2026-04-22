@@ -335,9 +335,87 @@ El sistema de navegación de TexCheck está diseñado para guiar a los usuarios 
 ### 4.3.2. Landing Page Mock-up.
 ## 4.4. Web Applications UX/UI Design.
 ### 4.4.1. Web Applications Wireframes.
+
+Los wireframes representan la estructura básica de las interfaces de la aplicación TexCheck. Estas representaciones de baja fidelidad permiten visualizar la organización de los elementos principales dentro de cada pantalla, tales como menús de navegación, formularios, tablas, botones y secciones de información.
+
+El objetivo de los wireframes es definir la distribución del contenido y validar la usabilidad del sistema antes de aplicar el diseño visual final. De esta manera, se prioriza la funcionalidad y la lógica de interacción, facilitando la identificación de posibles mejoras en la navegación y en la organización de la información.
+
+En TexCheck, los wireframes fueron diseñados para representar las principales funcionalidades del sistema, incluyendo la autenticación de usuarios, el panel principal de monitoreo, la gestión de activos y la planificación de mantenimientos.
+
+<div align="center">
+
+<img src="images/Mobile Login - Wireframe.png" width="250">
+<img src="images/Mobile Dashboard - Wireframe.png" width="250">
+<img src="images/Mobile Asset List - Wireframe.png" width="250">
+
+</div>
+
+---
+
 ### 4.4.2. Web Applications Wireflow Diagrams.
-### 4.4.2. Web Applications Mock-ups.
-### 4.4.3. Web Applications User Flow Diagrams.
+
+Los wireflow diagrams combinan wireframes con diagramas de flujo para representar cómo los usuarios navegan entre las diferentes pantallas de la aplicación. Este tipo de representación permite comprender visualmente la secuencia de interacción dentro del sistema y las acciones que desencadenan cada transición entre interfaces.
+
+El wireflow facilita la identificación de las rutas de navegación más importantes dentro de la plataforma, mostrando cómo los usuarios acceden desde la pantalla de inicio de sesión hacia el panel principal y posteriormente hacia los distintos módulos del sistema.
+
+<div align="center">
+
+<!-- Aquí se insertará el diagrama wireflow -->
+
+</div>
+
+---
+
+### 4.4.3. Web Applications Mock-ups.
+
+Los mock-ups representan el diseño visual de alta fidelidad de la aplicación TexCheck. En esta etapa se incorporan los elementos gráficos definidos en las guías de estilo, incluyendo la paleta de colores, la tipografía, los componentes visuales y la jerarquía de información dentro de cada interfaz.
+
+A diferencia de los wireframes, los mock-ups permiten visualizar cómo se verá la aplicación en su versión final, mostrando detalles como gráficos, tarjetas informativas, tablas dinámicas e indicadores de estado.
+
+<div align="center">
+
+<img src="images/Web Login - Hi-Fi.png" width="450">
+
+<img src="images/Web Dashboard - Hi-Fi.png" width="450">
+
+<img src="images/Web Asset Management - Hi-Fi.png" width="450">
+
+<img src="images/Web Maintenance Planning - Hi-Fi.png" width="450">
+
+<img src="images/Web Maintenance Execution - Hi-Fi.png" width="450">
+
+<img src="images/Web Failure Reporting - Hi-Fi.png" width="450">
+
+<img src="images/Web Reports and Analytics - Hi-Fi.png" width="450">
+
+</div>
+
+<div align="center">
+
+<img src="images/Mobile Login - Hi-Fi.png" width="250">
+<img src="images/Mobile Dashboard - Hi-Fi.png" width="250">
+<img src="images/Mobile Asset List - Hi-Fi.png" width="250">
+<img src="images/Mobile Maintenance Tasks - Hi-Fi.png" width="250">
+<img src="images/Mobile Failure Reporting - Hi-Fi.png" width="250">
+
+</div>
+
+---
+
+### 4.4.4. Web Applications User Flow Diagrams.
+
+Los User Flow Diagrams representan el recorrido que realiza el usuario dentro de la aplicación para completar una tarea específica. Estos diagramas permiten visualizar las acciones, decisiones y transiciones que ocurren durante la interacción con el sistema.
+
+A través de los user flows se identifican los pasos necesarios para que un usuario pueda acceder al sistema, gestionar activos, programar mantenimientos o registrar fallas en los equipos. Este tipo de representación facilita la comprensión de la lógica de interacción y permite optimizar la experiencia del usuario.
+
+<div align="center">
+
+<!-- Aquí se insertará el diagrama de user flow -->
+
+</div>
+
+---
+
 ## 4.5. Web Applications Prototyping.
 ## 4.6. Domain-Driven Software Architecture.
 ### 4.6.1. Design-Level Event Storming.
