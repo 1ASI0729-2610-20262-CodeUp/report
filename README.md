@@ -401,17 +401,15 @@ A diferencia de los wireframes, los mock-ups permiten visualizar cómo se verá 
 
 ---
 
-### 4.4.4. Web Applications User Flow Diagrams.
+### 4.4.4. Web Applications User Flow Diagrams
 
 Los User Flow Diagrams representan el recorrido que realiza el usuario dentro de la aplicación para completar una tarea específica. Estos diagramas permiten visualizar las acciones, decisiones y transiciones que ocurren durante la interacción con el sistema.
 
 A través de los user flows se identifican los pasos necesarios para que un usuario pueda acceder al sistema, gestionar activos, programar mantenimientos o registrar fallas en los equipos. Este tipo de representación facilita la comprensión de la lógica de interacción y permite optimizar la experiencia del usuario.
 
-<div align="center">
-
-<!-- Aquí se insertará el diagrama de user flow -->
-
-</div>
+<p align="center">
+  <img src="images/UserFlow.png" width="900">
+</p>
 
 ---
 
