@@ -323,7 +323,7 @@ En esta sección se detallan las actividades realizadas en el trabajo final y el
 
 ## 3.2. Impact Mapping
 
-<img title="Impact mapping" alt="" src="docs/images/ImpactmappingCodeUp.png">
+<img title="Impact mapping" alt="" src="images/ImpactmappingCodeUp.png">
 
 ## 3.3. Product Backlog.
 
