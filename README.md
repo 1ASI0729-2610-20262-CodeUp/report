@@ -2,7 +2,7 @@
 
 # Universidad Peruana de Ciencias Aplicadas
 
-<img src ="/images/UPC_logo_transparente.png">
+<img src ="docs/images/UPC_logo_transparente.png">
 
 ## Ingeniería de Software
 
@@ -153,16 +153,38 @@ En esta sección se detallan las actividades realizadas en el trabajo final y el
     <tr>
       <td>Comunica oralmente con efectividad a diferentes rangos de audiencia.</td>
       <td>
-        Acciones realizadas de cada uno aqui...
+        <strong>Sofia Diaz Yurivilca</strong><br>
+        Lideré la reunión de Sprint Planning 1 vía Discord, comuniqué el objetivo del sprint, la distribución de tareas y coordiné el despliegue de la landing page.<br><br>
+        <strong>Abraam Acosta</strong><br>
+        Participé activamente en las reuniones de coordinación, expuse avances y propuse mejoras en la gestión de activos y mantenimientos.<br><br>
+        <strong>Mauricio Diaz</strong><br>
+        Expliqué el flujo de trabajo de integración continua y colaboré en la explicación de decisiones técnicas durante las sesiones grupales.<br><br>
+        <strong>Sebastian Diaz</strong><br>
+        Comunico el avance en la implementación de reportes y colaboré en la revisión cruzada de funcionalidades.<br><br>
+        <strong>Camila Cabrera</strong><br>
+        Participé en la exposición de hallazgos y validación de entregables, adaptando el lenguaje técnico para el equipo y usuarios.
       </td>
-      <td>Conclusiónes aquí...</td>
+      <td>
+        Demostramos capacidad de comunicación oral efectiva en reuniones virtuales, presentando avances y coordinando tareas tanto con lenguaje técnico como accesible para todos los miembros. Esto facilitó la alineación y el cumplimiento de los objetivos del Sprint.
+      </td>
     </tr>
     <tr>
       <td>Comunica por escrito con efectividad a diferentes rangos de audiencia.</td>
       <td>
-        Acciones realizadas de cada uno aqui...
+        <strong>Sofia Diaz Yurivilca</strong><br>
+        Redacté la documentación principal del informe, organicé el registro de versiones y lideré la elaboración de la carátula y conclusiones.<br><br>
+        <strong>Abraam Acosta</strong><br>
+        Documenté el proceso de gestión de activos y colaboré en la redacción de la sección de Product Design.<br><br>
+        <strong>Mauricio Diaz</strong><br>
+        Elaboré la guía de integración continua y la documentación técnica de despliegue en GitHub Pages.<br><br>
+        <strong>Sebastian Diaz</strong><br>
+        Redacté la sección de reportes y colaboré en la documentación de la arquitectura del sistema.<br><br>
+        <strong>Camila Cabrera</strong><br>
+        Apoyé en la redacción de los anexos, bibliografía y la sección de evidencia visual de colaboración.
       </td>
-      <td>Conclusiónes aquí...</td>
+      <td>
+        Producimos documentación clara y estructurada para diferentes audiencias: académica, técnica y de usuario final. La calidad y organización de los textos facilitó la comprensión y validación del proyecto por parte de todos los interesados.
+      </td>
     </tr>
   </tbody>
 </table>
@@ -187,11 +209,11 @@ La iniciativa surge a partir de la observación de un problema recurrente en las
 
 | Foto | Nombres y Apellidos | Código | Carrera | Conocimientos y Habilidades |
 | :---: | :--- | :---: | :--- | :--- |
-| <img src="docs/images/sofia_foto.jpeg" width="120">  | Diaz Yurivilca, Sofia | u20241a195 |  | Trabajo en equipo, comunicación efectiva, organización de tareas |
+| <img src="docs/images//sofia_foto.jpeg" width="120">  | Diaz Yurivilca, Sofia | u20241a195 |  | Trabajo en equipo, comunicación efectiva, organización de tareas |
 |  | Acosta Elera Abraam Bernabe | U202219199 |  | Resolución de problemas, análisis de información, colaboración en proyectos |
 |  | Diaz Nuñez, Mauricio | U202411349 |  | Pensamiento analítico, investigación, gestión de información |
-| <img src="images/sebasFoto.png" width="120"> | Diaz De La Cruz, Sebastian Gabriel | U202410421 | Ingeniería de Software | Programación, desarrollo web, diseño de interfaces, lógica de programación, trabajo en equipo |
-| <img src="images/camFoto.png" width="120"> | Cabrera Sotelo, Camila Celeste | U202412462 | Ingeniería de Software | Desarrollo de software, diseño UI/UX, análisis de requerimientos, trabajo colaborativo, pensamiento lógico |
+| <img src="docs/images/sebasFoto.png" width="120"> | Diaz De La Cruz, Sebastian Gabriel | U202410421 | Ingeniería de Software | Programación, desarrollo web, diseño de interfaces, lógica de programación, trabajo en equipo |
+| <img src="docs/images/camFoto.png" width="120"> | Cabrera Sotelo, Camila Celeste | U202412462 | Ingeniería de Software | Desarrollo de software, diseño UI/UX, análisis de requerimientos, trabajo colaborativo, pensamiento lógico |
 
 ## 1.2 Solution Profile
 
@@ -294,7 +316,7 @@ Los técnicos de mantenimiento se ven afectados por la desorganización de órde
 El Lean UX Canvas es una de las herramientas fundamentales que hemos utilizado para comprender a nuestros posibles usuarios y sus necesidades. Esta herramienta es ampliamente empleada en el campo del diseño centrado en el usuario y la metodología Lean, con la intención de desarrollar productos de forma eficiente y práctica. Asimismo, facilita la colaboración de equipos multidisciplinarios de forma ordenada dentro de un marco estructurado, asegurando que cada funcionalidad aporte valor real al negocio y al cliente.
 
 <div align="center">
-  <img src="images/leancanvas_chapter1.png" alt="Colores TexCheck" width="350"/>
+  <img src="docs/images/leancanvas_chapter1.png" alt="Colores TexCheck" width="350"/>
 </div>
 
 ## 1.3. Segmentos objetivo
@@ -343,22 +365,22 @@ El Lean UX Canvas es una de las herramientas fundamentales que hemos utilizado p
 
   <td align="center">
     Nuestra Startup<br>
-    <img src="/docs/images/TexCheck.png" alt="MindFlow" height="80">
+    <img src="docs/images/TexCheck.png" alt="MindFlow" height="80">
   </td>
 
   <td align="center">
     IBM Maximo<br>
-    <img src="/docs/images/ibm.png" alt="MindFlow" height="80">
+    <img src="docs/images/ibm.png" alt="MindFlow" height="80">
   </td>
 
   <td align="center">
     Fiix CMMS<br>
-    <img src="/docs/images/fiix.png" alt="MindFlow" height="80">
+    <img src="docs/images/fiix.png" alt="MindFlow" height="80">
   </td>
 
   <td align="center">
     UpKeep<br>
-    <img src="/docs/images/upkeep.png" alt="MindFlow" height="80">
+    <img src="docs/images/upkeep.png" alt="MindFlow" height="80">
   </td>
 </tr>
   <tr>
@@ -615,7 +637,7 @@ Antes de comenzar, me gustaría conocer un poco más sobre ti para poder entende
 
   <!-- Imagen de la captura de pantalla -->
   <div style="background-color: #138dffa4; padding: 12px 16px 16px;">
-    <img src="/docs/images/Carlos.png" alt="Captura de entrevista" style="width: 100%; border-radius: 3px; display: block;">
+    <img src="docs/images/Carlos.png" alt="Captura de entrevista" style="width: 100%; border-radius: 3px; display: block;">
   </div>
 
   <!-- Datos en dos columnas -->
@@ -679,7 +701,7 @@ Antes de comenzar, me gustaría conocer un poco más sobre ti para poder entende
 
   <!-- Imagen de la captura de pantalla -->
   <div style="background-color: #138dffa4; padding: 12px 16px 16px;">
-    <img src="/docs/images/Claudia.png" alt="Captura de entrevista" style="width: 100%; border-radius: 3px; display: block;">
+    <img src="docs/images/Claudia.png" alt="Captura de entrevista" style="width: 100%; border-radius: 3px; display: block;">
   </div>
 
   <!-- Datos en dos columnas -->
@@ -742,7 +764,7 @@ Antes de comenzar, me gustaría conocer un poco más sobre ti para poder entende
 
   <!-- Imagen de la captura de pantalla -->
   <div style="background-color: #138dffa4; padding: 12px 16px 16px;">
-    <img src="/docs/images/Carolina.png" alt="Captura de entrevista" style="width: 100%; border-radius: 3px; display: block;">
+    <img src="docs/images/Carolina.png" alt="Captura de entrevista" style="width: 100%; border-radius: 3px; display: block;">
   </div>
 
   <!-- Datos en dos columnas -->
@@ -805,7 +827,7 @@ Ante esta situación, la empresa considera necesario implementar un software de 
 
   <!-- Imagen de la captura de pantalla -->
   <div style="background-color: #138dffa4; padding: 12px 16px 16px;">
-    <img src="/docs/images/SebastianC.png" alt="Captura de entrevista" style="width: 100%; border-radius: 3px; display: block;">
+    <img src="docs/images/SebastianC.png" alt="Captura de entrevista" style="width: 100%; border-radius: 3px; display: block;">
   </div>
 
   <!-- Datos en dos columnas -->
@@ -870,7 +892,7 @@ Ante esta situación, la empresa considera necesario implementar un software de 
 
   <!-- Imagen de la captura de pantalla -->
   <div style="background-color: #138dffa4; padding: 12px 16px 16px;">
-    <img src="/docs/images/fernando.png" alt="Captura de entrevista" style="width: 100%; border-radius: 3px; display: block;">
+    <img src="docs/images/fernando.png" alt="Captura de entrevista" style="width: 100%; border-radius: 3px; display: block;">
   </div>
 
   <!-- Datos en dos columnas -->
@@ -933,7 +955,7 @@ Frente a ello, el entrevistado considera necesaria la implementación de una her
 
   <!-- Imagen de la captura de pantalla -->
   <div style="background-color: #138dffa4; padding: 12px 16px 16px;">
-    <img src="/docs/images/carlosm.png" alt="Captura de entrevista" style="width: 100%; border-radius: 3px; display: block;">
+    <img src="docs/images/carlosm.png" alt="Captura de entrevista" style="width: 100%; border-radius: 3px; display: block;">
   </div>
 
   <!-- Datos en dos columnas -->
@@ -1004,31 +1026,31 @@ El análisis permitió detectar patrones comunes como el uso de métodos manuale
 
 **Gestión del mantenimiento realizada de forma manual**
 
-  <img src="/docs/images/hallazgo1-s1.png" alt="Gestión del mantenimiento realizada de forma manual"/>
+  <img src="docs/images/hallazgo1-s1.png" alt="Gestión del mantenimiento realizada de forma manual"/>
 
 El 100% de los entrevistados gestiona el mantenimiento con Excel, libretas o cuadernillas. Ninguno cuenta con un sistema digital especializado. La coordinación depende del seguimiento personal del equipo técnico, lo que genera desorden y falta de trazabilidad.
 
 **Fallas en máquinas con alto impacto en producción y costos**
 
-  <img src="/docs/images/hallazgo2-s2.png" alt="Fallas en máquinas con alto impacto en producción y costos"/>
+  <img src="docs/images/hallazgo2-s2.png" alt="Fallas en máquinas con alto impacto en producción y costos"/>
 
 El 100% reportó que las fallas inesperadas detienen la producción, desorganizan la planificación y generan presión sobre el equipo. Esto se traduce en retrasos en pedidos, horas extra, costos adicionales de reparación y riesgo de incumplimiento con clientes.
 
 **Interés en implementar un software de gestión de mantenimiento**
 
-  <img src="/docs/images/hallazgo3-s1.png" alt="Gestión del mantenimiento realizada de forma manual"/>
+  <img src="docs/images/hallazgo3-s1.png" alt="Gestión del mantenimiento realizada de forma manual"/>
 
 El 100% ha considerado adoptar un software. Las razones principales son: necesidad de mayor orden, prevención de fallas, reducción de errores humanos y mejora en la toma de decisiones basada en datos. La principal barrera es encontrar una solución simple que no genere carga adicional al equipo.
 
 **Factores clave en la decisión de compra**
 
-  <img src="/docs/images/hallazgo4-s1.png" alt="Gestión del mantenimiento realizada de forma manual"/>
+  <img src="docs/images/hallazgo4-s1.png" alt="Gestión del mantenimiento realizada de forma manual"/>
 
 El 100% pone la facilidad de uso y la eficiencia como prioridad absoluta. Si el sistema es complicado, el equipo no lo adoptará. El 67% también considera el precio, pero lo evalúa en función del valor que aporta — si genera resultados, pasa a segundo plano.
 
 **Funcionalidades esenciales que debe tener la solución**
 
-  <img src="/docs/images/hallazgo5-s1.png" alt="Gestión del mantenimiento realizada de forma manual"/>
+  <img src="docs/images/hallazgo5-s1.png" alt="Gestión del mantenimiento realizada de forma manual"/>
 
 El 100% exige alertas preventivas, control en tiempo real e historial de mantenimiento por máquina.
 El 67% añade acceso remoto y generación de reportes. 
@@ -1056,42 +1078,42 @@ Esto valida la propuesta que da una solución con alertas preventivas, historial
 
 **Registro manual del mantenimiento sin sistema centralizado**
 
-  <img src="/docs/images/hallazgo1-s2.png" alt="Gestión del mantenimiento realizada de forma manual"/>
+  <img src="docs/images/hallazgo1-s2.png" alt="Gestión del mantenimiento realizada de forma manual"/>
 
 Los 3 jefes de mantenimiento usan Excel, cuadernos o papel para registrar el mantenimiento. 
 Cada técnico lleva su propio registro por separado, lo que genera información dispersa, desactualizada y difícil de consultar.
 
 **Pérdida de información importante de mantenimiento**
 
-  <img src="/docs/images/hallazgo2-s2.png" alt="Gestión del mantenimiento realizada de forma manual"/>
+  <img src="docs/images/hallazgo2-s2.png" alt="Gestión del mantenimiento realizada de forma manual"/>
 
 Los 3 han perdido registros en algún momento: archivos mal guardados, hojas extraviadas o fallas en el sistema.
 Esto les hace perder el historial de las máquinas y en algunos casos afecta directamente la operación.
 
 **Coordinación de tareas difícil por falta de herramienta formal**
 
-  <img src="/docs/images/hallazgos3-s2.png" alt="Gestión del mantenimiento realizada de forma manual"/>
+  <img src="docs/images/hallazgos3-s2.png" alt="Gestión del mantenimiento realizada de forma manual"/>
 
 Los 3 coordinan por WhatsApp o de forma verbal. 
 No existe ninguna plataforma donde se puedan ver las tareas asignadas, su estado o quién las atiende, lo que genera confusión especialmente en cambios de turno o urgencias.
 
 **Detección de fallas reactiva por falta de monitoreo preventivo**
 
-  <img src="/docs/images/hallazgo4-s2.png" alt="Gestión del mantenimiento realizada de forma manual"/>
+  <img src="docs/images/hallazgo4-s2.png" alt="Gestión del mantenimiento realizada de forma manual"/>
 
 Los 3 actúan de forma reactiva: no hay monitoreo constante ni alertas, por lo que solo se enteran de un problema cuando la máquina ya falló. 
 No existe un proceso de prevención establecido.
 
 **Las alertas automáticas serían muy útiles para prevenir fallas**
 
-  <img src="/docs/images/hallazgo5-s2.png" alt="Gestión del mantenimiento realizada de forma manual"/>
+  <img src="docs/images/hallazgo5-s2.png" alt="Gestión del mantenimiento realizada de forma manual"/>
 
 Los 3 coinciden en que recibir alertas les permitiría anticiparse a las fallas y planificar mejor, pasando de un mantenimiento correctivo a uno preventivo. 
 Lo consideran la mejora más importante que podría tener una herramienta.
 
 **Funcionalidades deseadas en una herramienta digital**
 
-  <img src="/docs/images/hallazgo6-s2.png" alt="Gestión del mantenimiento realizada de forma manual"/>
+  <img src="docs/images/hallazgo6-s2.png" alt="Gestión del mantenimiento realizada de forma manual"/>
 
 Los 3 piden alertas automáticas, historial por máquina y asignación de tareas. 
 El 67% (2 de 3) además quiere reportes y acceso desde celular o tablet. 
@@ -1099,7 +1121,7 @@ Todo apunta a una herramienta que organice, registre y notifique en un solo luga
 
 **Condiciones para adoptar la herramienta en el día a día**
 
-  <img src="/docs/images/hallazgo7-s2.png" alt="Gestión del mantenimiento realizada de forma manual"/>
+  <img src="docs/images/hallazgo7-s2.png" alt="Gestión del mantenimiento realizada de forma manual"/>
 
 Los 3 adoptarían la herramienta si es fácil de usar y les ahorra tiempo real. 
 El 67% también pide acceso desde el celular. 
@@ -1133,10 +1155,10 @@ En conjunto, estos artefactos permiten obtener una visión integral del estado a
 ### 2.3.1. User Personas.
 
 #### Personal Técnico de Mantenimiento (Perfil Operativo):
-  <img src="/docs/images/Carlos.png" alt="User Persona Operativo" height="auto">
+  <img src="docs/images/Carlos.png" alt="User Persona Operativo" height="auto">
   
 #### Jefes de Planta y Gerentes de Operaciones (Perfil Estratégico):
-  <img src="/docs/images/Maria.png" alt="User Persona Estratégico" height="auto">
+  <img src="docs/images/Maria.png" alt="User Persona Estratégico" height="auto">
 
 ### 2.3.2 User Task Matrix
 
@@ -1176,23 +1198,23 @@ Este análisis permite identificar oportunidades de mejora para la solución Tex
 ### 2.3.3. User Journey Mapping.
 
 #### User Journey Mapping del Personal Técnico de Mantenimiento (Perfil Operativo):
-  <img src="/docs/images/Customer journey map 1.png" alt="User Journey Mapping Operativo" height="auto">
+  <img src="docs/images/Customer journey map 1.png" alt="User Journey Mapping Operativo" height="auto">
   
 #### User Journey Mapping del Jefes de Planta y Gerentes de Operaciones (Perfil Estratégico):
-  <img src="/docs/images/Customer journey map 2.png" alt="User Journey Mapping Estratégico" height="auto">
+  <img src="docs/images/Customer journey map 2.png" alt="User Journey Mapping Estratégico" height="auto">
 
 ### 2.3.4. Empathy Mapping.
 
 #### Empathy Mapping del Personal Técnico de Mantenimiento (Perfil Operativo):
-  <img src="/docs/images/Empathy map 1.png" alt="Empathy Mapping Operativo" height="auto">
+  <img src="docs/images/Empathy map 1.png" alt="Empathy Mapping Operativo" height="auto">
   
 #### Empathy Mapping del Jefes de Planta y Gerentes de Operaciones (Perfil Estratégico):
-  <img src="/docs/images/Empathy map 2.png" alt="Empathy Mapping Estratégico" height="auto">
+  <img src="docs/images/Empathy map 2.png" alt="Empathy Mapping Estratégico" height="auto">
 
 
 ## 2.4. Big Picture Event Storming.
 
-<img src="/docs/images/BigPictureEventStorming-CodeUp.png" alt="Big Picture Event Storming" style="width: 100%; border-radius: 3px; display: block;">
+<img src="docs/images/BigPictureEventStorming-CodeUp.png" alt="Big Picture Event Storming" style="width: 100%; border-radius: 3px; display: block;">
 
 ## 2.5. Ubiquitous Language.
 
@@ -1376,7 +1398,7 @@ Proceso mediante el cual el sistema se conecta con fuentes externas para recibir
 
 ## 3.2. Impact Mapping
 
-<img title="Impact mapping" alt="" src="images/ImpactmappingCodeUp.png">
+<img title="Impact mapping" alt="" src="docs/images/ImpactmappingCodeUp.png">
 
 ## 3.3. Product Backlog.
 
@@ -1467,7 +1489,7 @@ En esta sección, el equipo sienta las bases para contar con un repositorio cent
 Para el desarrollo de la identidad visual del proyecto, se ha optado por un diseño de logotipo que representa la esencia y los valores principales de la aplicación. El logotipo utiliza una tipografía moderna y clara, transmitiendo profesionalismo y confianza. El ícono busca reflejar eficiencia, innovación y facilidad de uso. La selección de colores vibrantes y equilibrados refuerza la percepción de estabilidad y dinamismo. La integración de estos elementos visuales comunica el compromiso del equipo con la excelencia y la experiencia del usuario.
 
 <div align="center">
-  <img src="images/branding-texcheck.png" alt="Logo TexCheck" width="300"/>
+  <img src="docs/images/branding-texcheck.png" alt="Logo TexCheck" width="300"/>
 </div>
 
 #### Typography
@@ -1475,7 +1497,7 @@ Para el desarrollo de la identidad visual del proyecto, se ha optado por un dise
 La tipografía seleccionada para el proyecto combina modernidad y funcionalidad. Se ha elegido una fuente principal sans-serif para los encabezados, que aporta claridad y sofisticación en entornos digitales. Para los textos de párrafo, se utiliza una fuente secundaria que favorece la legibilidad y resalta la información clave, contribuyendo a una experiencia visual atractiva y accesible.
 
 <div align="center">
-  <img src="images/tipografia_texcheck.png" alt="Tipografía TexCheck" width="350"/>
+  <img src="docs/images/tipografia_texcheck.png" alt="Tipografía TexCheck" width="350"/>
 </div>
 
 
@@ -1485,7 +1507,7 @@ La tipografía seleccionada para el proyecto combina modernidad y funcionalidad.
 La paleta de colores fue definida para transmitir confianza, eficiencia y modernidad. Los tonos principales, como azul y gris, evocan profesionalismo y claridad, mientras que acentos en colores vivos aportan dinamismo y frescura. Esta combinación refuerza la identidad visual del producto como una solución tecnológica amigable y confiable.
 
 <div align="center">
-  <img src="images/colores-texcheck.png" alt="Colores TexCheck" width="350"/>
+  <img src="docs/images/colores-texcheck.png" alt="Colores TexCheck" width="350"/>
 </div>
 
 
@@ -1587,31 +1609,31 @@ Los wireframes fueron diseñados siguiendo los principios de arquitectura de inf
 
 Hero y navegación:
 
-<img src="images/TexCheck Nav & Hero.png" width="auto">
+<img src="docs/images/TexCheck Nav & Hero.png" width="auto">
 
 Esta sección muestra la navegación principal junto con la sección hero del landing page. Aquí se presenta el logotipo de TexCheck, los enlaces de navegación y el llamado a la acción principal. El hero comunica la propuesta de valor del producto y guía al usuario hacia la exploración de la plataforma.
 
 Problema y solución:
 
-<img src="images/TexCheck Problem & Solution.png" width="auto">
+<img src="docs/images/TexCheck Problem & Solution.png" width="auto">
 
 En esta sección se presentan los principales problemas relacionados con la gestión de mantenimiento en la industria textil, así como la propuesta de solución ofrecida por TexCheck. El objetivo es explicar claramente el contexto del problema y cómo la plataforma ayuda a resolverlo.
 
 Funcionalidades y video:
 
-<img src="images/TexCheck Features & Video.png" width="auto">
+<img src="docs/images/TexCheck Features & Video.png" width="auto">
 
 Esta sección presenta las principales funcionalidades de la plataforma, organizadas en tarjetas que explican las capacidades del sistema. También incluye un espacio destinado a un video demostrativo donde se puede presentar el funcionamiento del sistema o la explicación del proyecto por parte del equipo.
 
 Beneficios y footer:
 
-<img src="images/TexCheck Benefits & Footer.png" width="auto">
+<img src="docs/images/TexCheck Benefits & Footer.png" width="auto">
 
 La sección final del landing page resume los beneficios que TexCheck ofrece a los usuarios y presenta el footer del sitio web, donde se incluyen enlaces adicionales, información de contacto y navegación secundaria.
 ### 4.3.2. Landing Page Mock-up.
 
-<img src="images/landing page mobile.png" width="auto">
-<img src="images/landing page pc.png" width="auto">
+<img src="docs/images/landing page mobile.png" width="auto">
+<img src="docs/images/landing page pc.png" width="auto">
 
 ## 4.4. Web Applications UX/UI Design.
 ### 4.4.1. Web Applications Wireframes.
@@ -1624,9 +1646,9 @@ En TexCheck, los wireframes fueron diseñados para representar las principales f
 
 <div align="center">
 
-<img src="images/Mobile Login - Wireframe.png" width="250">
-<img src="images/Mobile Dashboard - Wireframe.png" width="250">
-<img src="images/Mobile Asset List - Wireframe.png" width="250">
+<img src="docs/images/Mobile Login - Wireframe.png" width="250">
+<img src="docs/images/Mobile Dashboard - Wireframe.png" width="250">
+<img src="docs/images/Mobile Asset List - Wireframe.png" width="250">
 
 </div>
 
@@ -1640,7 +1662,7 @@ El wireflow facilita la identificación de las rutas de navegación más importa
 
 <div align="center">
 
-<img src="images/WireflowDiagram.png" width="800">
+<img src="docs/images/WireflowDiagram.png" width="800">
 </div>
 
 ---
@@ -1653,29 +1675,29 @@ A diferencia de los wireframes, los mock-ups permiten visualizar cómo se verá 
 
 <div align="center">
 
-<img src="images/Web Login - Hi-Fi.png" width="450">
+<img src="docs/images/Web Login - Hi-Fi.png" width="450">
 
-<img src="images/Web Dashboard - Hi-Fi.png" width="450">
+<img src="docs/images/Web Dashboard - Hi-Fi.png" width="450">
 
-<img src="images/Web Asset Management - Hi-Fi.png" width="450">
+<img src="docs/images/Web Asset Management - Hi-Fi.png" width="450">
 
-<img src="images/Web Maintenance Planning - Hi-Fi.png" width="450">
+<img src="docs/images/Web Maintenance Planning - Hi-Fi.png" width="450">
 
-<img src="images/Web Maintenance Execution - Hi-Fi.png" width="450">
+<img src="docs/images/Web Maintenance Execution - Hi-Fi.png" width="450">
 
-<img src="images/Web Failure Reporting - Hi-Fi.png" width="450">
+<img src="docs/images/Web Failure Reporting - Hi-Fi.png" width="450">
 
-<img src="images/Web Reports and Analytics - Hi-Fi.png" width="450">
+<img src="docs/images/Web Reports and Analytics - Hi-Fi.png" width="450">
 
 </div>
 
 <div align="center">
 
-<img src="images/Mobile Login - Hi-Fi.png" width="250">
-<img src="images/Mobile Dashboard - Hi-Fi.png" width="250">
-<img src="images/Mobile Asset List - Hi-Fi.png" width="250">
-<img src="images/Mobile Maintenance Tasks - Hi-Fi.png" width="250">
-<img src="images/Mobile Failure Reporting - Hi-Fi.png" width="250">
+<img src="docs/images/Mobile Login - Hi-Fi.png" width="250">
+<img src="docs/images/Mobile Dashboard - Hi-Fi.png" width="250">
+<img src="docs/images/Mobile Asset List - Hi-Fi.png" width="250">
+<img src="docs/images/Mobile Maintenance Tasks - Hi-Fi.png" width="250">
+<img src="docs/images/Mobile Failure Reporting - Hi-Fi.png" width="250">
 
 </div>
 
@@ -1688,7 +1710,7 @@ Los User Flow Diagrams representan el recorrido que realiza el usuario dentro de
 A través de los user flows se identifican los pasos necesarios para que un usuario pueda acceder al sistema, gestionar activos, programar mantenimientos o registrar fallas en los equipos. Este tipo de representación facilita la comprensión de la lógica de interacción y permite optimizar la experiencia del usuario.
 
 <p align="center">
-  <img src="images/UserFlow.png" width="900">
+  <img src="docs/images/UserFlow.png" width="900">
 </p>
 
 ---
@@ -1703,7 +1725,7 @@ Además, se empleará el modelo C4 Model para representar la arquitectura del so
 El Event Storming a nivel de diseño permite identificar los eventos principales del negocio, las acciones de los usuarios y las respuestas automáticas del sistema dentro del flujo de mantenimiento industrial.  
 Este diagrama ayuda a comprender cómo interactúan los actores con la plataforma y cómo se desencadenan procesos como alertas, reportes y actualizaciones del historial de mantenimiento.
 
-<img src="images/eventStorming.png" width="auto">
+<img src="docs/images/eventStorming.png" width="auto">
 
 ---
 
@@ -1714,7 +1736,7 @@ Permite identificar a los usuarios que interactúan con la plataforma y la forma
 
 Este es el diagrama de Contexto de nuestro sistema:
 
-<img src="images/diagramaContexto.jpg" width="auto">
+<img src="docs/images/diagramaContexto.jpg" width="auto">
 
 ---
 
@@ -1725,7 +1747,7 @@ Este nivel permite visualizar cómo se organiza técnicamente TexCheck y cómo s
 
 Este es el diagrama de Contenedores de nuestro sistema:
 
-<img src="images/diagramaContenedores.png" width="auto">
+<img src="docs/images/diagramaContenedores.png" width="auto">
 
 ---
 
@@ -1736,7 +1758,7 @@ Permite identificar los componentes encargados de la lógica de negocio, acceso 
 
 Este es el diagrama de Componentes de nuestro sistema:
 
-<img src="images/diagramaComponentes.png" width="auto">
+<img src="docs/images/diagramaComponentes.png" width="auto">
 
 ---
 
@@ -2193,7 +2215,7 @@ En este primer Sprint, el equipo organizó su trabajo en torno a cuatro aspectos
 #### 5.2.1.3. Sprint Backlog 1.
 
 El objetivo principal de este Sprint fue diseñar, desarrollar y desplegar la primera versión funcional del Landing Page de TexCheck, alineado con la User Story **US-01: Comprender la propuesta de valor del sistema TexCheck**. Esta historia busca que los usuarios potenciales puedan identificar claramente cómo la solución optimiza la gestión del mantenimiento de maquinaria, a través de una presentación estructurada de sus beneficios, funcionalidades clave y propuesta diferencial. A continuación, se presenta el tablero del Sprint y el detalle de los Work-items asociados.
-![Sprint Board TexCheck](./images/ClickUp.png)
+![Sprint Board TexCheck](./docs/images/ClickUp.png)
 
 <table border="1" cellpadding="8" cellspacing="0" style="border-collapse: collapse; width: 100%;">
   <thead>
@@ -2491,11 +2513,11 @@ La colaboración se estructuró siguiendo la matriz LACX (Leadership and Collabo
 El análisis de los commits muestra una distribución equilibrada del trabajo entre los miembros del equipo. La frecuencia de commits y la calidad de los mensajes demuestran un proceso de desarrollo disciplinado y bien organizado, estableciendo una base sólida para los sprints futuros.
 
 <div align="center">
-  <img src="/images/eivdence_commits.jpg" alt="Evidencia de commits y colaboración del equipo" width="600"/>
+  <img src="/docs/images/eivdence_commits.jpg" alt="Evidencia de commits y colaboración del equipo" width="600"/>
 </div>
 
 <div align="center">
-  <img src="/images/contributors_evidence.jpg" alt="Evidencia de commits y colaboración del equipo" width="600"/>
+  <img src="/docs/images/contributors_evidence.jpg" alt="Evidencia de commits y colaboración del equipo" width="600"/>
 </div>
 
 
