@@ -11,15 +11,30 @@
       El objetivo de este análisis es identificar las características de los competidores en el sector de gestión de mantenimiento industrial (CMMS) y determinar oportunidades de diferenciación para TexCheck, enfocándonos en el sector textil.
     </td>
   </tr>
+ <tr>
+  <td colspan="2" rowspan="2" valign="top">Startup y Competidores</td>
+
+  <td align="center">
+    Nuestra Startup<br>
+    <img src="images/TexCheck.png" alt="MindFlow" height="80">
+  </td>
+
+  <td align="center">
+    IBM Maximo<br>
+    <img src="images/ibm.png" alt="MindFlow" height="80">
+  </td>
+
+  <td align="center">
+    Fiix CMMS<br>
+    <img src="images/fiix.png" alt="MindFlow" height="80">
+  </td>
+
+  <td align="center">
+    UpKeep<br>
+    <img src="images/upkeep.png" alt="MindFlow" height="80">
+  </td>
+</tr>
   <tr>
-    <td colspan="2" rowspan="2" valign="top">Startup y Competidores</td>
-    <td valign="top">Nuestra Startup</td>
-    <td valign="top">IBM Maximo</td>
-    <td valign="top">Fiix CMMS</td>
-    <td valign="top">UpKeep</td>
-  </tr>
-  <tr>
-imagenes
   </tr>
   <tr>
     <td rowspan="2" valign="top">Perfil</td>
