@@ -153,20 +153,27 @@ En esta sección se detallan las actividades realizadas en el trabajo final y el
     <tr>
       <td>Comunica oralmente con efectividad a diferentes rangos de audiencia.</td>
       <td>
-        Acciones realizadas de cada uno aqui...
+        Sebastian Diaz AV1: Participó en la explicación del proceso de investigación y diseño del proyecto TexCheck, presentando los resultados de las entrevistas, el análisis de usuarios y los artefactos de diseño como User Personas, User Journey Maps y Empathy Maps. Durante la presentación explicó el problema identificado en la industria textil y cómo la solución propuesta busca mejorar la gestión del mantenimiento.<br><br>
+        Camila Cabrera AV1: Participó en la presentación de la propuesta de solución y del diseño de la interfaz del sistema. Explicó los wireframes y mockups de la landing page, describiendo la estructura del sitio, la jerarquía visual y las funcionalidades principales del sistema TexCheck.
       </td>
-      <td>Conclusiónes aquí...</td>
+      <td>
+        Sebastian Diaz AV1: La exposición permitió comunicar de manera clara el proceso de investigación con usuarios y el análisis realizado para comprender las necesidades del sector textil, facilitando que la audiencia entienda el problema y la importancia de la solución propuesta.<br><br>
+        Camila Cabrera AV1: La explicación de los wireframes y mockups permitió mostrar de forma visual cómo se tradujeron los hallazgos de la investigación en una propuesta de interfaz clara y funcional, facilitando la comprensión del diseño del sistema.
+      </td>
     </tr>
     <tr>
       <td>Comunica por escrito con efectividad a diferentes rangos de audiencia.</td>
       <td>
-        Acciones realizadas de cada uno aqui...
+        Sebastian Diaz AV1: Contribuyó en la elaboración de la documentación del proyecto, específicamente en las secciones relacionadas con la investigación de usuarios, entrevistas, análisis de resultados y desarrollo de artefactos de diseño como User Personas, User Task Matrix y Empathy Maps.<br><br>
+        Camila Cabrera AV1: Participó en la redacción de las secciones relacionadas con el diseño de la interfaz, incluyendo Style Guidelines, Information Architecture, Wireframes y Mockups de la landing page, asegurando que la información se presente de manera clara y estructurada.
       </td>
-      <td>Conclusiónes aquí...</td>
+      <td>
+        Sebastian Diaz AV1: La documentación escrita permitió estructurar de forma clara los hallazgos obtenidos en la investigación con usuarios, facilitando la comprensión del problema y justificando el desarrollo de la solución TexCheck.<br><br>
+        Camila Cabrera AV1: La redacción de las secciones de diseño permitió explicar de manera organizada las decisiones de interfaz y arquitectura de información, contribuyendo a que el documento final sea claro, coherente y fácil de comprender.
+      </td>
     </tr>
   </tbody>
 </table>
-
 ---
 
 # Capítulo I: Introducción
