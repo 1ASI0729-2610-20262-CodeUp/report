@@ -810,9 +810,57 @@ En conjunto, estos artefactos permiten obtener una visión integral del estado a
 #### Jefes de Planta y Gerentes de Operaciones (Perfil Estratégico):
   <img src="images/Maria.png" alt="User Persona Estratégico" height="auto">
 
-### 2.3.2. User Task Matrix.
+### 2.3.2 User Task Matrix
+
+El User Task Matrix permite identificar y comparar las principales tareas que realizan los diferentes segmentos de usuarios para cumplir sus objetivos dentro del proceso de mantenimiento industrial. Es importante destacar que estas tareas representan actividades que los usuarios realizan actualmente, independientemente de la existencia de una solución de software.
+
+Para este proyecto se consideran los dos segmentos identificados previamente:
+
+- Técnico de Mantenimiento (perfil operativo)
+- Jefe de Planta / Gerente de Operaciones (perfil estratégico)
+
+La matriz permite analizar la frecuencia con la que cada tarea se realiza y la importancia que tiene para cada usuario. Esto ayuda a identificar cuáles son las actividades más críticas dentro del proceso actual de gestión de mantenimiento.
+
+| Tareas | Técnico de Mantenimiento Frecuencia | Técnico de Mantenimiento Importancia | Jefe de Planta Frecuencia | Jefe de Planta Importancia |
+|------|------|------|------|------|
+| Realizar inspecciones de maquinaria | Alta | Alta | Media | Alta |
+| Detectar y reportar fallas en equipos | Alta | Alta | Media | Alta |
+| Ejecutar mantenimiento preventivo | Alta | Alta | Media | Alta |
+| Ejecutar mantenimiento correctivo | Media | Alta | Baja | Alta |
+| Registrar intervenciones de mantenimiento | Alta | Alta | Baja | Media |
+| Consultar manuales técnicos o procedimientos | Media | Media | Baja | Baja |
+| Coordinar con otros técnicos o turnos | Alta | Media | Media | Media |
+| Monitorear el estado general de la maquinaria | Media | Alta | Alta | Alta |
+| Analizar indicadores de mantenimiento | Baja | Media | Alta | Alta |
+| Planificar ciclos de mantenimiento | Baja | Media | Alta | Alta |
+| Evaluar desempeño del mantenimiento | Baja | Media | Alta | Alta |
+
+Luego de analizar la matriz de tareas se pueden identificar algunas diferencias y coincidencias entre los segmentos.
+
+En el caso del técnico de mantenimiento, las tareas más frecuentes están relacionadas con la ejecución directa del mantenimiento en planta, como la inspección de equipos, la detección de fallas y el registro de intervenciones. Estas actividades son fundamentales para garantizar el correcto funcionamiento de la maquinaria y evitar interrupciones en la producción.
+
+Por otro lado, el jefe de planta o gerente de operaciones se enfoca principalmente en tareas de supervisión y gestión estratégica, como el monitoreo del estado de los equipos, el análisis de indicadores de mantenimiento y la planificación de ciclos de mantenimiento preventivo.
+
+Ambos perfiles coinciden en la importancia de detectar fallas en equipos y asegurar el correcto funcionamiento de la maquinaria. Sin embargo, difieren en el nivel operativo y estratégico de sus responsabilidades.
+
+Este análisis permite identificar oportunidades de mejora para la solución TexCheck, especialmente en la centralización de información de mantenimiento, la automatización de registros y la generación de indicadores que permitan una mejor toma de decisiones.
+
 ### 2.3.3. User Journey Mapping.
+
+#### User Journey Mapping del Personal Técnico de Mantenimiento (Perfil Operativo):
+  <img src="images/Customer journey map 1.png" alt="User Journey Mapping Operativo" height="auto">
+  
+#### User Journey Mapping del Jefes de Planta y Gerentes de Operaciones (Perfil Estratégico):
+  <img src="images/Customer journey map 2.png" alt="User Journey Mapping Estratégico" height="auto">
+  
 ### 2.3.4. Empathy Mapping.
+
+#### Empathy Mapping del Personal Técnico de Mantenimiento (Perfil Operativo):
+  <img src="images/Empathy map 1.png" alt="Empathy Mapping Operativo" height="auto">
+  
+#### Empathy Mapping del Jefes de Planta y Gerentes de Operaciones (Perfil Estratégico):
+  <img src="images/Empathy map 2.png" alt="Empathy Mapping Estratégico" height="auto">
+  
 ## 2.4. Big Picture Event Storming.
 
 <img src="images/BigPictureEventStorming-CodeUp.png" alt="Big Picture Event Storming" style="width: 100%; border-radius: 3px; display: block;">
