@@ -190,11 +190,11 @@ La iniciativa surge a partir de la observación de un problema recurrente en las
 
 | Foto | Nombres y Apellidos | Código | Carrera | Conocimientos y Habilidades |
 | :---: | :--- | :---: | :--- | :--- |
-|  | Diaz Yurivilca, Sofia | u20241a195 | | |
-|  | Acosta Elera Abraam Bernabe | U202219199 | | |
-|  | Diaz Nuñez, Mauricio | U202411349 | | |
-|  | Diaz De La Cruz, Sebastian Gabriel | U202410421 | | |
-|  | Cabrera Sotelo, Camila Celeste | U202412462 | | |
+|  | Diaz Yurivilca, Sofia | u20241a195 |  | Trabajo en equipo, comunicación efectiva, organización de tareas |
+|  | Acosta Elera Abraam Bernabe | U202219199 |  | Resolución de problemas, análisis de información, colaboración en proyectos |
+|  | Diaz Nuñez, Mauricio | U202411349 |  | Pensamiento analítico, investigación, gestión de información |
+| <img src="images/sebasFoto.png" width="120"> | Diaz De La Cruz, Sebastian Gabriel | U202410421 | Ingeniería de Software | Programación, desarrollo web, diseño de interfaces, lógica de programación, trabajo en equipo |
+| <img src="images/camFoto.png" width="120"> | Cabrera Sotelo, Camila Celeste | U202412462 | Ingeniería de Software | Desarrollo de software, diseño UI/UX, análisis de requerimientos, trabajo colaborativo, pensamiento lógico |
 
 ---
 
