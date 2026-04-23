@@ -1215,6 +1215,7 @@ Este análisis permite identificar oportunidades de mejora para la solución Tex
 ## 2.4. Big Picture Event Storming.
 
 <img src="docs/images/BigPictureEventStorming-CodeUp.png" alt="Big Picture Event Storming" style="width: 100%; border-radius: 3px; display: block;">
+https://miro.com/app/board/uXjVGe-lBxE=/?share_link_id=673827512056
 
 ## 2.5. Ubiquitous Language.
 
