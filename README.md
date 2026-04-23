@@ -872,9 +872,127 @@ Durante el Sprint 1, el equipo se centró exclusivamente en el repositorio del L
 </table>
 
 #### 5.2.1.5. Execution Evidence for Sprint Review.
+
+El sprint culminó con la implementación exitosa de la Landing Page de TexCheck, diseñada para comunicar de manera clara y profesional la propuesta de valor de la plataforma de gestión de mantenimiento textil. Se logró una interfaz visualmente atractiva y funcional, alineada con las historias de usuario prioritarias y los objetivos definidos en el backlog.
+
+Entre los principales logros destacan:
+
+Desarrollo de una estructura informativa que presenta los servicios clave de TexCheck: gestión de activos, programación de mantenimientos y generación de reportes.
+Implementación de secciones que explican el funcionamiento de la plataforma, sus beneficios para la industria textil y testimonios de usuarios.
+Integración de botones de acceso directo para el registro de activos y la programación de mantenimientos.
+Inclusión de información de contacto y canales de soporte para los usuarios.
+Optimización para dispositivos móviles y accesibilidad para todos los segmentos objetivo.
+El equipo trabajó de manera colaborativa para desplegar la primera versión funcional de la Landing Page, asegurando una experiencia de usuario intuitiva y alineada con los requerimientos iniciales. A continuación, se presenta la evidencia visual y el enlace de acceso a la landing page desplegada:
+
+Enlace de la Landing Page: 
+
 #### 5.2.1.6. Services Documentation Evidence for Sprint Review.
+
+Para esta entrega no se han empleado APIS, por lo cuál no se he requerido hacer una documentación sobre servicios implementados durante el Sprint
+
+
+
 #### 5.2.1.7. Software Deployment Evidence for Sprint Review.
+
+Durante este Sprint, el equipo realizó el despliegue exitoso de la landing page de TexCheck utilizando GitHub Pages como plataforma de hosting. El objetivo fue asegurar que la solución estuviera disponible en línea para su revisión, validación y acceso por parte de los usuarios, estableciendo un flujo de trabajo automatizado y confiable para la entrega de nuevas funcionalidades.
+
+Estrategia de Despliegue Implementada:
+
+Se adoptó una arquitectura de despliegue moderno utilizando GitHub Pages, aprovechando su integración directa con el repositorio del proyecto y la facilidad para publicar sitios estáticos de manera gratuita y eficiente. Esta elección tecnológica permite actualizaciones rápidas, control de versiones y acceso inmediato a los cambios realizados por el equipo.
+
+Pasos realizados durante el despliegue:
+
+Se configuró el repositorio de la landing page en GitHub, asegurando la organización y versionado del código fuente.
+Se habilitó GitHub Pages en la rama principal del repositorio, seleccionando la carpeta adecuada para la publicación de archivos estáticos.
+Se verificó que la landing page estuviera accesible públicamente mediante la URL proporcionada por GitHub Pages.
+Se realizaron pruebas de acceso desde diferentes dispositivos y navegadores para garantizar la correcta visualización y experiencia de usuario.
+Se documentó la URL de acceso y se compartió con el equipo para revisión y retroalimentación.
+Esta estrategia de despliegue garantiza que la landing page de TexCheck esté siempre disponible, con la posibilidad de actualizar y mejorar el sitio de manera ágil y segura.
+
 #### 5.2.1.8. Team Collaboration Insights during Sprint.
+
+Durante este Sprint, las actividades de implementación se desarrollaron de manera colaborativa y organizada. El equipo utilizó herramientas como GitHub para la gestión de versiones y asignación de tareas, y Discord para la comunicación y coordinación diaria. Cada integrante asumió responsabilidades específicas según el backlog y los aspectos definidos en la planificación, participando activamente en el desarrollo, revisión de código y validación de entregables.
+
+Se promovió la revisión cruzada de avances, el registro de commits detallados y la documentación de los cambios realizados. Las reuniones periódicas permitieron resolver dudas, ajustar prioridades y asegurar que todos los miembros estuvieran alineados con los objetivos del Sprint. Esta dinámica facilitó la integración continua y la entrega oportuna de los resultados esperados.
+
+Metodología de Desarrollo Colaborativo
+El equipo adoptó una estrategia de desarrollo basada en Git Flow, donde cada funcionalidad se desarrolló en ramas específicas antes de ser integrada al código principal. Esta metodología garantizó la estabilidad del código base mientras permitía el desarrollo paralelo de múltiples características.
+
+Organización y Distribución del Trabajo
+La colaboración se estructuró siguiendo la matriz LACX (Leadership and Collaboration Matrix) establecida al inicio del sprint:
+
+<table>
+  <thead>
+    <tr>
+      <th>Rol</th>
+      <th>Responsable</th>
+      <th>Funciones</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Líder</td>
+      <td>Sofia Diaz Yurivilca</td>
+      <td>Coordinación general, landing page y despliegue</td>
+    </tr>
+    <tr>
+      <td>Colaboradores</td>
+      <td>Abraam Acosta, Mauricio Diaz, Sebastian Diaz, Camila Cabrera</td>
+      <td>Desarrollo de funcionalidades, revisión de código, soporte técnico</td>
+    </tr>
+  </tbody>
+</table>
+
+#### Actividades de Implementación Desarrolladas
+
+**Flujo de Trabajo con Ramas**
+- Cada desarrollador trabajó en ramas feature específicas.
+- Ramas implementadas:
+    - `feature/asset-management`
+    - `feature/maintenance-scheduling`
+    - `feature/reporting`
+- Sistema de nomenclatura consistente: `feature/[descripción-funcionalidad]`.
+- Sincronización periódica con main mediante rebase.
+
+**Proceso de Revisión de Código**
+- Todos los cambios mediante pull requests.
+- Criterios de aprobación:
+    - Mínimo una revisión de otro miembro.
+    - Verificación de estándares de código.
+    - Validación de funcionalidad.
+    - Compatibilidad con el sistema.
+
+**Comunicación y Coordinación**
+- Reuniones diarias de sincronización vía Discord.
+- Sistema de asignación de tareas claras.
+- Documentación actualizada de decisiones técnicas.
+- Registro de cambios de diseño.
+
+**Integración Continua**
+- Commits frecuentes con mensajes descriptivos.
+- Convenciones semánticas en mensajes de commit.
+- Validación previa a integración en main.
+- Despliegue automático mediante GitHub Pages.
+
+**Gestión de Conflictos y Resolución de Problemas**
+- Protocolos claros para resolución de conflictos de merge.
+- Documentación de problemas técnicos.
+- Sesiones de pair programming colaborativas.
+- Registro de lecciones aprendidas.
+
+**Conclusión**
+El análisis de los commits muestra una distribución equilibrada del trabajo entre los miembros del equipo. La frecuencia de commits y la calidad de los mensajes demuestran un proceso de desarrollo disciplinado y bien organizado, estableciendo una base sólida para los sprints futuros.
+
+<div align="center">
+  <img src="/images/eivdence_commits.jpg" alt="Evidencia de commits y colaboración del equipo" width="600"/>
+</div>
+
+<div align="center">
+  <img src="/images/contributors_evidence.jpg" alt="Evidencia de commits y colaboración del equipo" width="600"/>
+</div>
+
+
+--- 
 
 # Conclusiones
 
