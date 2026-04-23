@@ -237,17 +237,60 @@ Los técnicos de mantenimiento se ven afectados por la desorganización de órde
 **Meta:**
 ¿Cómo podemos optimizar la programación de tareas mediante una solución digital para reducir el downtime de las máquinas en un 15% durante los primeros seis meses?
 
-#### 1.2.2.2 Lean UX Assumptions
+#### 1.2.2.2. Lean UX Assumptions
 
-* **Negocio:** Creemos que las empresas textiles están dispuestas a invertir en digitalización para reducir pérdidas operativas.
-* **Usuario:** Los técnicos prefieren reportar fallas vía móvil que llenar formatos físicos de inspección.
-* **Solución:** Una arquitectura multiplataforma conectará eficientemente la gestión administrativa con la ejecución técnica en planta.
+**Feature: Sistema integral de gestión y monitoreo de mantenimiento textil**
 
-#### 1.2.2.3 Lean UX Hypothesis Statements
+* **Inventario Digital y Hoja de Vida de Activos:** Creemos que nuestros usuarios (jefes de planta y técnicos) necesitan una forma centralizada y digital de registrar la información técnica de cada máquina. Esto permitirá eliminar la dispersión de datos en papel y facilitará un seguimiento histórico preciso para cada activo.
+* **Monitoreo de Rutinas mediante Checklists Digitales:** Creemos que la implementación de listas de verificación digitales en dispositivos móviles permitirá estandarizar las inspecciones preventivas. Esto facilitará que los técnicos sigan los protocolos de seguridad y mantenimiento sin omisiones, impactando positivamente en la disponibilidad de la maquinaria.
+* **Alertas Automáticas y Notificaciones de Mantenimiento:** Creemos que los usuarios se beneficiarán al recibir alertas automáticas basadas en calendarios programados o uso de máquina. Esta integración permitirá realizar intervenciones oportunas antes de que ocurran fallas críticas, optimizando los tiempos de respuesta del equipo técnico.
+* **Dashboard de Indicadores y Análisis de Fallas:** Creemos que disponer de un registro histórico y estadísticas de mantenimiento (KPIs como MTBF o MTTR) ayudará a la gerencia a identificar patrones de falla y cuellos de botella, promoviendo una cultura de mantenimiento predictivo.
 
-* **Hipótesis 1:** Al implementar alertas automáticas, el cumplimiento del cronograma preventivo aumentará en un 30%.
-* **Hipótesis 2:** Al digitalizar el historial de activos, el gasto en repuestos de emergencia disminuirá en un 10%.
-* **Hipótesis 3:** Una interfaz móvil simplificada reducirá el tiempo de reporte de incidencias de 15 a menos de 5 minutos.
+**Business Outcomes**
+
+* Se maximizará la continuidad operativa de la planta y se reducirán las pérdidas económicas por paradas no programadas (downtime).
+* Se generarán ingresos mediante un modelo de suscripción SaaS para empresas textiles y servicios de consultoría en optimización de procesos.
+* TexCheck se posicionará como la herramienta líder en digitalización para la industria manufacturera textil, mejorando la competitividad del sector.
+
+**Users**
+
+* **Jefes de Planta y Gerentes de Operaciones:** Buscan optimizar la rentabilidad y el control de sus activos industriales.
+* **Técnicos de Mantenimiento:** Requieren herramientas móviles para agilizar sus reportes y acceder a información técnica en el campo.
+* **Personal de Calidad:** Audita el cumplimiento de normativas y estándares de seguridad industrial.
+
+**User Outcomes**
+
+* Reducir el error humano y la carga administrativa al eliminar el llenado manual de formatos físicos.
+* Acceder de forma inmediata a la "hoja de vida" y manuales de cada máquina mediante el escaneo de códigos QR.
+* Visualizar métricas de rendimiento en tiempo real para facilitar la planificación semanal y mensual.
+
+**Features**
+
+* **Módulo de Activos:** Registro detallado de maquinaria con códigos QR únicos.
+* **Checklists Digitales:** Formularios móviles para inspecciones preventivas y correctivas.
+* **Sistema de Alertas:** Notificaciones push y correos para mantenimientos vencidos o críticos.
+* **Panel de Control (Dashboard):** Visualización de métricas de disponibilidad y fallas recurrentes.
+* **Historial Técnico:** Almacenamiento centralizado de todas las intervenciones realizadas.
+
+#### 1.2.2.3. Lean UX Hypothesis Statements
+
+**Hypothesis Statement 01**
+
+* **Creemos** que la implementación de un inventario digital con códigos QR permitirá a los técnicos acceder y registrar intervenciones de forma más ágil que el sistema manual actual.
+* **Sabemos** que la hipótesis se confirma cuando se observe una reducción en el tiempo promedio de registro de incidencias reportado por el personal de planta.
+* **Cuando** al menos el 70% de los reportes técnicos se realicen directamente desde la aplicación móvil durante el primer mes de despliegue.
+
+**Hypothesis Statement 02**
+
+* **Creemos** que al ofrecer checklists estandarizados y alertas automáticas, el cumplimiento de las rutinas de mantenimiento preventivo será más estricto y efectivo.
+* **Sabemos** que la hipótesis es correcta cuando el registro de tareas preventivas completadas aumente y se registre una disminución en las solicitudes de mantenimiento correctivo de emergencia.
+* **Cuando** se logre un incremento del 30% en el cumplimiento del plan anual de mantenimiento preventivo en el primer semestre de uso.
+
+**Hypothesis Statement 03**
+
+* **Creemos** que la visualización de indicadores (KPIs) en un dashboard interactivo motivará a los jefes de planta a tomar decisiones basadas en datos para la renovación o mejora de maquinaria.
+* **Sabemos** que esto es cierto cuando los gerentes utilicen activamente los reportes de TexCheck para sustentar sus planes de inversión o cambios de procesos operativos.
+* **Cuando** el uso de la plataforma genere datos que permitan reducir el tiempo de inactividad de las máquinas (downtime) en un 15% anual.
 
 ---
 
