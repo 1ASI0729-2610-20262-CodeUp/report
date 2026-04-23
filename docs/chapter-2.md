@@ -784,7 +784,25 @@ El punto crítico es que parte del equipo técnico tiene poca experiencia con so
 La gestión del mantenimiento se realiza de forma manual y descentralizada, lo que genera pérdida de información, dificultades en la coordinación y un enfoque reactivo ante fallas. 
 Existe una alta necesidad de una herramienta digital que centralice la información, incorpore alertas preventivas y facilite la gestión de tareas. Para su adopción, será clave que sea simple, intuitiva y accesible desde dispositivos móviles.
 
-## 2.3. Needfinding.
+## 2.3. Needfinding
+
+La fase de **Needfinding** tiene como objetivo comprender profundamente a los usuarios, su contexto de trabajo y los problemas reales que enfrentan al realizar sus tareas. Este proceso es fundamental dentro del enfoque de diseño centrado en el usuario, ya que permite identificar necesidades, dificultades y oportunidades de mejora antes de proponer una solución tecnológica.
+
+Para el desarrollo de este proyecto se analizó información obtenida a partir de entrevistas, observación del contexto de trabajo y revisión de prácticas actuales relacionadas con la gestión de mantenimiento en entornos de manufactura textil. El objetivo de este análisis fue entender cómo se realizan actualmente los procesos de mantenimiento y cuáles son los principales desafíos que enfrentan los usuarios al gestionar equipos industriales.
+
+Durante este proceso se identificaron diversos problemas, entre ellos la falta de centralización de la información sobre mantenimiento de equipos, dificultades para registrar y hacer seguimiento a fallas en las máquinas, así como una limitada visibilidad del estado de los equipos y de las actividades de mantenimiento realizadas. Estas situaciones pueden generar paradas inesperadas en la producción, problemas de coordinación entre las áreas de mantenimiento y producción, y un incremento en los costos operativos.
+
+Con el fin de estructurar y representar los hallazgos obtenidos, se desarrollaron distintos artefactos de diseño centrado en el usuario. Estos artefactos permiten visualizar de manera clara los comportamientos de los usuarios, las tareas que realizan, su experiencia durante el proceso actual y los factores emocionales que influyen en su trabajo.
+
+Los artefactos presentados en esta sección son los siguientes:
+
+- **User Personas**, que representan los principales perfiles de usuarios involucrados en la gestión de mantenimiento.
+- **User Task Matrix**, que identifica las tareas que los usuarios realizan para cumplir sus objetivos.
+- **User Journey Mapping**, que describe el recorrido completo que realizan los usuarios en la situación actual (escenario As-Is).
+- **Empathy Mapping**, que permite comprender las motivaciones, percepciones, preocupaciones y necesidades de los usuarios.
+
+En conjunto, estos artefactos permiten obtener una visión integral del estado actual del proceso de mantenimiento en las plantas textiles. Este análisis constituye la base para identificar oportunidades de mejora que podrán ser abordadas mediante la plataforma **TexCheck**, orientada a optimizar la gestión del mantenimiento y reducir fallas inesperadas en los equipos de producción.
+
 ### 2.3.1. User Personas.
 ### 2.3.2. User Task Matrix.
 ### 2.3.3. User Journey Mapping.
