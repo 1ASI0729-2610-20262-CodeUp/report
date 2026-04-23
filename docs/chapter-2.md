@@ -804,6 +804,12 @@ Los artefactos presentados en esta sección son los siguientes:
 En conjunto, estos artefactos permiten obtener una visión integral del estado actual del proceso de mantenimiento en las plantas textiles. Este análisis constituye la base para identificar oportunidades de mejora que podrán ser abordadas mediante la plataforma **TexCheck**, orientada a optimizar la gestión del mantenimiento y reducir fallas inesperadas en los equipos de producción.
 
 ### 2.3.1. User Personas.
+#### Personal Técnico de Mantenimiento (Perfil Operativo):
+  <img src="images/Carlos.png" alt="User Persona Operativo" height="auto">
+  
+#### Jefes de Planta y Gerentes de Operaciones (Perfil Estratégico):
+  <img src="images/Maria.png" alt="User Persona Estratégico" height="auto">
+
 ### 2.3.2. User Task Matrix.
 ### 2.3.3. User Journey Mapping.
 ### 2.3.4. Empathy Mapping.
