@@ -447,12 +447,23 @@ A través de los user flows se identifican los pasos necesarios para que un usua
 
 ---
 
-## 4.5. Web Applications Prototyping.
 ## 4.6. Domain-Driven Software Architecture.
 ### 4.6.1. Design-Level Event Storming.
-### 4.6.2. Software Architecture Context Diagram.
-### 4.6.3. Software Architecture Container Diagrams.
-### 4.6.4. Software Architecture Components Diagrams.
+## 4.6.2. Software Architecture Context Diagram
+
+Este es el diagrama de Contexto de nuestro sistema:
+
+<img src="./assets/img/diagramaContexto.jpg" alt="Software Architecture Context Diagram">
+
+## 4.6.3. Software Architecture Container Diagram
+
+Este es el diagrama de Contenedores de nuestro sistema:
+
+<img src="./assets/img/diagramaContenedores.png" alt="Software Architecture Container Diagram">
+### 4.6.4. Software Architecture Componentes Diagrams.
+Este es el diagrama de Componentes nuestro sistema:
+
+<img src="./assets/img/diagramaComponentes.png" alt="Software Architecture Components Diagram">
 ## 4.7. Software Object-Oriented Design.
 ### 4.7.1. Class Diagrams.
 ## 4.8. Database Design.
