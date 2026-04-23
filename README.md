@@ -170,6 +170,29 @@ En esta sección se detallan las actividades realizadas en el trabajo final y el
 ---
 
 # Capítulo I: Introducción
+## 1.1. Startup Profile
+
+TexCheck es una empresa emergente con un enfoque tecnológico e industrial, orientada a la transformación digital de la gestión del mantenimiento en el sector manufacturero. Su propósito es ofrecer una plataforma de software integral (Web y Mobile) diseñada específicamente para optimizar la operatividad de las empresas textiles, permitiendo un control técnico detallado y una reducción significativa de costos operativos mediante la prevención estratégica de fallas.
+
+La iniciativa surge a partir de la observación de un problema recurrente en las plantas de producción: la ocurrencia de fallas inesperadas en equipos críticos, lo que genera elevados costos por reparaciones correctivas y una falta de trazabilidad en el historial de intervenciones técnicas. Ante esta situación, TexCheck busca convertirse en la herramienta estándar para el sector, facilitando el registro de activos, la programación automatizada de rutinas de mantenimiento y la toma de decisiones basada en datos históricos organizados.
+
+#### Misión y Visión de TexCheck
+
+| Concepto | Definición |
+| :--- | :--- |
+| **Misión** | Optimizar la gestión del mantenimiento industrial mediante una solución digital ágil y eficiente, que permita a las empresas textiles maximizar la disponibilidad de sus activos y reducir costos imprevistos a través de procesos estandarizados. |
+| **Visión** | Convertirse en la plataforma líder en gestión de mantenimiento preventivo para la industria textil a nivel nacional, impulsando la excelencia operativa y la digitalización de procesos técnicos en toda la cadena de producción. |
+
+### 1.1.1. Descripción de la Startup
+
+| Foto | Nombres y Apellidos | Código | Carrera | Conocimientos y Habilidades |
+| :---: | :--- | :---: | :--- | :--- |
+|  | Diaz Yurivilca, Sofia | u20241a195 |  | Trabajo en equipo, comunicación efectiva, organización de tareas |
+|  | Acosta Elera Abraam Bernabe | U202219199 |  | Resolución de problemas, análisis de información, colaboración en proyectos |
+|  | Diaz Nuñez, Mauricio | U202411349 |  | Pensamiento analítico, investigación, gestión de información |
+| <img src="images/sebasFoto.png" width="120"> | Diaz De La Cruz, Sebastian Gabriel | U202410421 | Ingeniería de Software | Programación, desarrollo web, diseño de interfaces, lógica de programación, trabajo en equipo |
+| <img src="images/camFoto.png" width="120"> | Cabrera Sotelo, Camila Celeste | U202412462 | Ingeniería de Software | Desarrollo de software, diseño UI/UX, análisis de requerimientos, trabajo colaborativo, pensamiento lógico |
+
 ## 1.2 Solution Profile
 
 ### 1.2.1. Antecedentes y problemática
