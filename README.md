@@ -884,7 +884,7 @@ Inclusión de información de contacto y canales de soporte para los usuarios.
 Optimización para dispositivos móviles y accesibilidad para todos los segmentos objetivo.
 El equipo trabajó de manera colaborativa para desplegar la primera versión funcional de la Landing Page, asegurando una experiencia de usuario intuitiva y alineada con los requerimientos iniciales. A continuación, se presenta la evidencia visual y el enlace de acceso a la landing page desplegada:
 
-Enlace de la Landing Page: 
+Enlace de la Landing Page:  https://1asi0729-2610-20262-codeup.github.io/texcheck-business-website/
 
 #### 5.2.1.6. Services Documentation Evidence for Sprint Review.
 
