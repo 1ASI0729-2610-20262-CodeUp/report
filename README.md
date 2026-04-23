@@ -187,7 +187,7 @@ La iniciativa surge a partir de la observación de un problema recurrente en las
 
 | Foto | Nombres y Apellidos | Código | Carrera | Conocimientos y Habilidades |
 | :---: | :--- | :---: | :--- | :--- |
-|  | Diaz Yurivilca, Sofia | u20241a195 |  | Trabajo en equipo, comunicación efectiva, organización de tareas |
+| <img src="docs/images/sofia_foto.jpeg" width="120">  | Diaz Yurivilca, Sofia | u20241a195 |  | Trabajo en equipo, comunicación efectiva, organización de tareas |
 |  | Acosta Elera Abraam Bernabe | U202219199 |  | Resolución de problemas, análisis de información, colaboración en proyectos |
 |  | Diaz Nuñez, Mauricio | U202411349 |  | Pensamiento analítico, investigación, gestión de información |
 | <img src="images/sebasFoto.png" width="120"> | Diaz De La Cruz, Sebastian Gabriel | U202410421 | Ingeniería de Software | Programación, desarrollo web, diseño de interfaces, lógica de programación, trabajo en equipo |
