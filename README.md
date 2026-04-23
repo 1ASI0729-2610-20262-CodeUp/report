@@ -330,9 +330,43 @@ El sistema de navegación de TexCheck está diseñado para guiar a los usuarios 
 - **Accesos directos:** Botones destacados para registrar activos, programar mantenimientos o generar reportes desde cualquier pantalla.
 - **Panel lateral:** En la Web Application, un panel lateral permite navegar entre módulos sin perder el contexto de trabajo.
 - **Ayuda contextual:** En cada sección, enlaces de ayuda y soporte técnico para resolver dudas o reportar incidencias.
+  
 ## 4.3. Landing Page UI Design.
+
 ### 4.3.1. Landing Page Wireframe.
+
+En esta sección se presentan los wireframes del Landing Page de TexCheck. Los wireframes permiten visualizar la estructura inicial de la página, mostrando la organización del contenido, la jerarquía visual y la distribución de los elementos antes de aplicar el diseño final.
+
+Los wireframes fueron diseñados siguiendo los principios de arquitectura de información y jerarquía visual definidos previamente. La estructura organiza el contenido en secciones claras que permiten comunicar la propuesta de valor del producto de manera progresiva.
+
+Hero y navegación:
+
+<img src="images/TexCheck Nav & Hero.png" width="auto">
+
+Esta sección muestra la navegación principal junto con la sección hero del landing page. Aquí se presenta el logotipo de TexCheck, los enlaces de navegación y el llamado a la acción principal. El hero comunica la propuesta de valor del producto y guía al usuario hacia la exploración de la plataforma.
+
+Problema y solución:
+
+<img src="images/TexCheck Problem & Solution.png" width="auto">
+
+En esta sección se presentan los principales problemas relacionados con la gestión de mantenimiento en la industria textil, así como la propuesta de solución ofrecida por TexCheck. El objetivo es explicar claramente el contexto del problema y cómo la plataforma ayuda a resolverlo.
+
+Funcionalidades y video:
+
+<img src="images/TexCheck Features & Video.png" width="auto">
+
+Esta sección presenta las principales funcionalidades de la plataforma, organizadas en tarjetas que explican las capacidades del sistema. También incluye un espacio destinado a un video demostrativo donde se puede presentar el funcionamiento del sistema o la explicación del proyecto por parte del equipo.
+
+Beneficios y footer:
+
+<img src="images/TexCheck Benefits & Footer.png" width="auto">
+
+La sección final del landing page resume los beneficios que TexCheck ofrece a los usuarios y presenta el footer del sitio web, donde se incluyen enlaces adicionales, información de contacto y navegación secundaria.
 ### 4.3.2. Landing Page Mock-up.
+
+<img src="images/landing page mobile.png" width="auto">
+<img src="images/landing page pc.png" width="auto">
+
 ## 4.4. Web Applications UX/UI Design.
 ### 4.4.1. Web Applications Wireframes.
 
