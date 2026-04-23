@@ -2,7 +2,7 @@
 
 # Universidad Peruana de Ciencias Aplicadas
 
-<img src ="images/UPC_logo_transparente.png">
+<img src ="/images/UPC_logo_transparente.png">
 
 ## Ingeniería de Software
 
