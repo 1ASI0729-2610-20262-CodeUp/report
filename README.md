@@ -316,6 +316,11 @@ Los técnicos de mantenimiento se ven afectados por la desorganización de órde
 * **Situaciones de uso:** Planificación semanal, auditorías de calidad y análisis de resultados.
 * **Mensajes clave:** "Toma el control estratégico de tu planta con datos en tiempo real."
 
+#### 1.2.2.4. Lean UX Canvas
+
+El Lean UX Canvas es una de las herramientas fundamentales que hemos utilizado para comprender a nuestros posibles usuarios y sus necesidades. Esta herramienta es ampliamente empleada en el campo del diseño centrado en el usuario y la metodología Lean, con la intención de desarrollar productos de forma eficiente y práctica. Asimismo, facilita la colaboración de equipos multidisciplinarios de forma ordenada dentro de un marco estructurado, asegurando que cada funcionalidad aporte valor real al negocio y al cliente.
+
+
 
 ---
 
