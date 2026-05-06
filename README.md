@@ -192,6 +192,7 @@ En esta sección se detallan las actividades realizadas en el trabajo final y el
 ---
 
 # Capítulo I: Introducción
+
 ## 1.1. Startup Profile
 
 TexCheck es una empresa emergente con un enfoque tecnológico e industrial, orientada a la transformación digital de la gestión del mantenimiento en el sector manufacturero. Su propósito es ofrecer una plataforma de software integral (Web y Mobile) diseñada específicamente para optimizar la operatividad de las empresas textiles, permitiendo un control técnico detallado y una reducción significativa de costos operativos mediante la prevención estratégica de fallas.
