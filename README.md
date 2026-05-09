@@ -60,6 +60,7 @@ A continuación se presentaran los commit realizados por los contribuidores:
 ---
 
 ## **Project Report Online**
+
 - [ Capítulo I: Introducción](#-capítulo-i-introducción)
     - [1.1. Startup Profile](#11-startup-profile)
         - [1.1.1. Descripción de la Startup](#111-descripción-de-la-startup)
