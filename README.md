@@ -457,7 +457,7 @@ Además, se empleará el modelo C4 Model para representar la arquitectura del so
 El Event Storming a nivel de diseño permite identificar los eventos principales del negocio, las acciones de los usuarios y las respuestas automáticas del sistema dentro del flujo de mantenimiento industrial.  
 Este diagrama ayuda a comprender cómo interactúan los actores con la plataforma y cómo se desencadenan procesos como alertas, reportes y actualizaciones del historial de mantenimiento.
 
-
+<img src="images/eventStorming.png" width="auto">
 
 ---
 
