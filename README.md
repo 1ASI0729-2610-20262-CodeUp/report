@@ -11,7 +11,7 @@
 <div align="center">
 
 **Ciclo:** 2026 - 01  
-**Curso:** Desarrollo de Aplicaciones Open Source  
+**Curso:** Desarrollo de Aplicaciones Open Source  ƒP
 **NRC:** 20262  
 **Docente:** Angel Augusto Velasquez Nuñez 
 
@@ -993,7 +993,7 @@ En conjunto, estos artefactos permiten obtener una visión integral del estado a
 ### 2.3.1. User Personas.
 
 #### Personal Técnico de Mantenimiento (Perfil Operativo):
-  <img src="/docs/images/Carlos.png" alt="User Persona Operativo" height="auto">
+  <img src="/docs/images/CarlosPersona.png" alt="User Persona Operativo" height="auto">
   
 #### Jefes de Planta y Gerentes de Operaciones (Perfil Estratégico):
   <img src="/docs/images/Maria.png" alt="User Persona Estratégico" height="auto">
