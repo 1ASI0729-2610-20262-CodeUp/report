@@ -355,49 +355,17 @@ Los usuarios esperan una plataforma simple, rápida e intuitiva, accesible desde
 ### E. Feature Assumptions
 
 * Las alertas automáticas ayudarán a detectar mantenimientos pendientes antes de que ocurran fallas críticas.
-* 
+  
 * El historial digital de mantenimiento reducirá la pérdida de información y mejorará el seguimiento de reparaciones.
-* 
+  
 * La asignación digital de tareas mejorará la coordinación entre técnicos y supervisores.
-* 
+  
 * Los reportes de mantenimiento facilitarán la supervisión de actividades y la toma de decisiones.
-* 
+  
 * El acceso móvil permitirá registrar información directamente desde planta.
 
 
 #### 1.2.2.3. Lean UX Hypothesis Statements
-
-**Hypothesis Statement 01**
-
-### 1.2.2.3. Lean UX Hypothesis Statements
-
-#### Hypothesis Statement 01: Registro digital de activos
-
-Creemos que, si TexCheck permite registrar la información técnica de las máquinas en una plataforma digital centralizada, entonces los Técnicos y Jefes de Mantenimiento podrán consultar y actualizar datos de los activos de forma más rápida y organizada. Sabremos que hemos tenido éxito cuando el tiempo promedio de búsqueda de información técnica se reduzca en al menos 40% durante el primer mes de uso piloto.
-
-#### Hypothesis Statement 02: Historial técnico de mantenimiento
-
-Creemos que, si TexCheck centraliza el historial de reparaciones e intervenciones de cada máquina, entonces los Técnicos y Jefes de Mantenimiento podrán realizar un mejor seguimiento de las fallas recurrentes y evitar la pérdida de información. Sabremos que hemos tenido éxito cuando al menos el 80% de las intervenciones realizadas durante el piloto queden registradas correctamente en el historial técnico del activo.
-
-#### Hypothesis Statement 03: Alertas preventivas de mantenimiento
-
-Creemos que, si TexCheck genera alertas preventivas sobre mantenimientos pendientes o próximos a vencer, entonces los Gerentes de Operaciones, Jefes de Planta y Jefes de Mantenimiento podrán anticiparse a fallas inesperadas y planificar mejor las intervenciones. Sabremos que hemos tenido éxito cuando las tareas de mantenimiento preventivo completadas a tiempo aumenten en al menos 30% durante los primeros tres meses de uso.
-
-#### Hypothesis Statement 04: Asignación y coordinación de tareas
-
-Creemos que, si TexCheck permite asignar tareas de mantenimiento a los técnicos y visualizar su estado de avance, entonces los Jefes de Mantenimiento podrán coordinar mejor el trabajo del equipo técnico y reducir la desorganización operativa. Sabremos que hemos tenido éxito cuando el 70% de las tareas asignadas durante el piloto sean completadas dentro del plazo establecido.
-
-#### Hypothesis Statement 05: Reportes de mantenimiento
-
-Creemos que, si TexCheck ofrece reportes claros sobre mantenimientos realizados, fallas registradas y estado de los activos, entonces los Gerentes de Operaciones y Jefes de Planta podrán tomar decisiones más informadas sobre la planificación del mantenimiento. Sabremos que hemos tenido éxito cuando al menos el 75% de los usuarios estratégicos indiquen que los reportes les ayudan a mejorar el control de la maquinaria.
-
-#### Hypothesis Statement 06: Acceso móvil desde planta
-
-Creemos que, si TexCheck permite registrar mantenimientos desde dispositivos móviles, entonces los Técnicos y Jefes de Mantenimiento podrán actualizar información directamente desde planta sin depender de registros físicos. Sabremos que hemos tenido éxito cuando al menos el 70% de los registros de mantenimiento del piloto se realicen desde dispositivos móviles.
-
-#### Hypothesis Statement 07: Plataforma simple e intuitiva
-
-Creemos que, si TexCheck ofrece una interfaz simple, rápida e intuitiva, entonces los Técnicos y Jefes de Mantenimiento podrán adoptar la plataforma sin requerir conocimientos tecnológicos avanzados. Sabremos que hemos tenido éxito cuando al menos el 80% de los usuarios del piloto complete las tareas principales sin asistencia externa después de la capacitación inicial.
 
 ---
 
