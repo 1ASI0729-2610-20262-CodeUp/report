@@ -45,6 +45,18 @@
 
 # Project Report Collaboration Insights
 
+[![GitHub](https://img.shields.io/badge/GitHub-Repositorio-181717?logo=github)](https://github.com/1ASI0729-2610-20262-CodeUp/TexCheck)
+
+A continuación se presentaran los commit realizados por los contribuidores:
+
+- ⏩ Avance del **AV1**
+
+![Contributors AV1](images/contributors.png)
+
+![Commits AV1](images/commits.png)
+
+- ⏩ Avance del **TB1**
+
 ---
 
 ## **Project Report Online**
