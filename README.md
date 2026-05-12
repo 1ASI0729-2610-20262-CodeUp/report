@@ -374,13 +374,21 @@ Los wireframes representan la estructura básica de las interfaces de la aplicac
 
 El objetivo de los wireframes es definir la distribución del contenido y validar la usabilidad del sistema antes de aplicar el diseño visual final. De esta manera, se prioriza la funcionalidad y la lógica de interacción, facilitando la identificación de posibles mejoras en la navegación y en la organización de la información.
 
-En TexCheck, los wireframes fueron diseñados para representar las principales funcionalidades del sistema, incluyendo la autenticación de usuarios, el panel principal de monitoreo, la gestión de activos y la planificación de mantenimientos.
+En TexCheck, los wireframes fueron diseñados para representar las principales funcionalidades del sistema, incluyendo la autenticación de usuarios, el panel principal de monitoreo, la gestión de activos, la planificación de mantenimientos, el registro de fallas y la visualización de reportes y analíticas.
 
 <div align="center">
 
-<img src="images/Mobile Login - Wireframe.png" width="250">
-<img src="images/Mobile Dashboard - Wireframe.png" width="250">
-<img src="images/Mobile Asset List - Wireframe.png" width="250">
+<img src="images/Web Login - Wireframe.png" width="250">
+<img src="images/Web Dashboard - Wireframe.png" width="250">
+<img src="images/Web Asset Management - Wireframe.png" width="250">
+
+</div>
+
+<div align="center">
+
+<img src="images/Web Maintenance Planning - Wireframe.png" width="250">
+<img src="images/Web Failure Reporting - Wireframe.png" width="250">
+<img src="images/Web Reports & Analytics - Wireframe.png" width="250">
 
 </div>
 
