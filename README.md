@@ -990,6 +990,7 @@ El análisis de los commits muestra una distribución equilibrada del trabajo en
 <div align="center">
   <img src="/images/contributors_evidence.jpg" alt="Evidencia de commits y colaboración del equipo" width="600"/>
 </div>
+
 ### 5.2.2. Sprint 2
 
 #### 5.2.2.1. Sprint Planning 2.
