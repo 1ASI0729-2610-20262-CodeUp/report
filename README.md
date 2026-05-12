@@ -589,7 +589,7 @@ En cuanto a su comportamiento tecnológico, utilizan principalmente Excel, regis
 
 Según PRODUCE, la industria textil y de confecciones representa un sector relevante dentro de la manufactura peruana, con participación en la producción nacional y generación de empleo. Esta relevancia evidencia la necesidad de fortalecer procesos internos que permitan mejorar la productividad y competitividad de las empresas textiles.
 
-Asimismo, los resultados de las entrevistas realizadas muestran que los perfiles vinculados con la gestión operativa reconocen que la gestión del mantenimiento todavía se apoya en herramientas manuales o básicas, como Excel, registros físicos o coordinación directa. Del mismo modo, se identificó que las fallas inesperadas generan impacto en la producción, afectando los tiempos de entrega, los costos operativos y la continuidad de la planta.
+Enlace de la Landing Page:  https://1asi0729-2610-20262-codeup.github.io/TexCheck-landing/
 
 #### Segmento objetivo 2: Personal de mantenimiento
 
@@ -1167,15 +1167,544 @@ El Class Diagram de **TexCheck** representa la estructura orientada a objetos de
 
 <img src="images/Bounded Context Identity & Access (IAM).jpeg" width="auto">
 
+### 5.2.2. Sprint 2
+
+#### 5.2.2.1. Sprint Planning 2.
+
+Para este segundo Sprint, el equipo estableció como objetivo principal el desarrollo de la primera versión funcional de la Frontend Web Application de TexCheck, además de implementar mejoras visuales, estructurales y funcionales sobre la Landing Page desarrollada durante el Sprint 1. La reunión de planificación se llevó a cabo de manera virtual, donde se definieron las nuevas User Stories, Technical Stories, el Sprint Goal y la distribución de responsabilidades entre los miembros del equipo.
+
+<table border="1" cellpadding="8" cellspacing="0" style="border-collapse: collapse; width: 100%;">
+  <tbody>
+    <tr>
+      <td colspan="2"><strong>Sprint 2</strong></td>
+    </tr>
+    <tr>
+      <td colspan="2"><strong>Sprint Planning Background</strong></td>
+    </tr>
+    <tr>
+      <td><strong>Date</strong></td>
+      <td>2026-05-03</td>
+    </tr>
+    <tr>
+      <td><strong>Time</strong></td>
+      <td>08:00 PM</td>
+    </tr>
+    <tr>
+      <td><strong>Location</strong></td>
+      <td>Reunión virtual vía Discord</td>
+    </tr>
+    <tr>
+      <td><strong>Prepared By</strong></td>
+      <td>Diaz Yurivilca, Sofia</td>
+    </tr>
+    <tr>
+      <td><strong>Attendees (to planning meeting)</strong></td>
+      <td>
+        Diaz Yurivilca, Sofia / 
+        Acosta Elera Abraam Bernabe / 
+        Diaz Nuñez, Mauricio / 
+        Diaz De La Cruz, Sebastian Gabriel / 
+        Cabrera Sotelo, Camila Celeste
+      </td>
+    </tr>
+    <tr>
+      <td><strong>Sprint 2 – 1 Review Summary</strong></td>
+      <td>Durante la revisión del Sprint 1 se identificó la necesidad de mejorar la experiencia visual y responsive del Landing Page, así como iniciar el desarrollo funcional de la Frontend Web Application para permitir interacción con módulos de mantenimiento y activos.</td>
+    </tr>
+    <tr>
+      <td><strong>Sprint 2 – 1 Retrospective Summary</strong></td>
+      <td>El equipo acordó fortalecer el uso de Git Flow, mejorar la organización de ramas feature y mantener revisiones cruzadas de código para asegurar mayor estabilidad durante el desarrollo frontend.</td>
+    </tr>
+    <tr>
+      <td colspan="2"><strong>Sprint Goal &amp; User Stories</strong></td>
+    </tr>
+    <tr>
+      <td><strong>Sprint 2 Goal</strong></td>
+      <td>
+        Our focus is on developing the first functional version of the TexCheck Frontend Web Application while improving the Landing Page based on feedback received during Sprint 1. We believe this increment delivers a more complete user experience by integrating interactive interfaces for asset management, maintenance planning, dashboards and authentication features. This will be confirmed when users can access the updated Landing Page and interact with the deployed Frontend application.
+      </td>
+    </tr>
+    <tr>
+      <td><strong>Sprint 2 Velocity</strong></td>
+      <td>16</td>
+    </tr>
+    <tr>
+      <td><strong>Sum of Story Points</strong></td>
+      <td>16</td>
+    </tr>
+  </tbody>
+</table>
+
 ---
-## 4.8. Database Design.
 
+#### 5.2.2.2. Aspect Leaders and Collaborators.
+
+Durante este Sprint, el equipo organizó el trabajo en torno al desarrollo del frontend, mejora del Landing Page, implementación de navegación, dashboards y componentes visuales. Asimismo, se realizaron validaciones técnicas y revisiones colaborativas para garantizar estabilidad y calidad en la aplicación desplegada.
+
+<table border="1" cellpadding="8" cellspacing="0" style="border-collapse: collapse; width: 100%;">
+  <thead>
+    <tr>
+      <th>Team Member (Last Name, First Name)</th>
+      <th>GitHub Username</th>
+      <th>Frontend Architecture & CI/CD<br>Leader (L) / Collaborator (C)</th>
+      <th>Dashboard and Components<br>Leader (L) / Collaborator (C)</th>
+      <th>Routing and Authentication<br>Leader (L) / Collaborator (C)</th>
+      <th>Landing Page Improvements<br>Leader (L) / Collaborator (C)</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Diaz Yurivilca, Sofia</td>
+      <td>u20241a195-cmd</td>
+      <td>L</td>
+      <td>C</td>
+      <td>C</td>
+      <td>C</td>
+    </tr>
+    <tr>
+      <td>Acosta Elera Abraam Bernabe</td>
+      <td>AbraamAcostae</td>
+      <td>C</td>
+      <td>L</td>
+      <td>C</td>
+      <td>C</td>
+    </tr>
+    <tr>
+      <td>Diaz Nuñez, Mauricio</td>
+      <td>Mauridex</td>
+      <td>C</td>
+      <td>C</td>
+      <td>L</td>
+      <td>C</td>
+    </tr>
+    <tr>
+      <td>Diaz De La Cruz, Sebastian Gabriel</td>
+      <td>tipaso07</td>
+      <td>C</td>
+      <td>L</td>
+      <td>C</td>
+      <td>L</td>
+    </tr>
+    <tr>
+      <td>Cabrera Sotelo, Camila Celeste</td>
+      <td>whcamm</td>
+      <td>C</td>
+      <td>C</td>
+      <td>C</td>
+      <td>L</td>
+    </tr>
+  </tbody>
+</table>
 
 ---
 
-### 4.8.1. Database Diagrams.
+#### 5.2.2.3. Sprint Backlog 2.
 
-<img src="images/Database Design.jpeg" width="550">
+El objetivo principal de este Sprint fue desarrollar la primera versión funcional de la Frontend Web Application de TexCheck y mejorar la Landing Page desplegada durante el Sprint 1. Para ello, el equipo trabajó con User Stories relacionadas a gestión de activos, dashboard, autenticación y navegación del sistema. Asimismo, se consideraron Technical Stories orientadas a la arquitectura frontend y consumo futuro de servicios RESTful.
+
+![Sprint Board TexCheck Sprint 2](./images/sprint2_board.png)
+
+<table border="1" cellpadding="8" cellspacing="0" style="border-collapse: collapse; width: 100%;">
+  <thead>
+    <tr>
+      <th colspan="8">Sprint # Sprint 2</th>
+    </tr>
+    <tr>
+      <th colspan="2">User Story</th>
+      <th colspan="6">Work-Item / Task</th>
+    </tr>
+    <tr>
+      <th>Id</th>
+      <th>Title</th>
+      <th>Id</th>
+      <th>Title</th>
+      <th>Description</th>
+      <th>Estimation (Hours)</th>
+      <th>Assigned To</th>
+      <th>Status</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>US-43</td>
+      <td>Understand value proposition</td>
+      <td>T-07</td>
+      <td>Improve Landing Page sections</td>
+      <td>Actualizar contenido visual, mejorar diseño responsive y optimizar estructura del Landing Page.</td>
+      <td>3</td>
+      <td>Cabrera Sotelo, Camila Celeste</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>US-45</td>
+      <td>View main features</td>
+      <td>T-08</td>
+      <td>Implement features section redesign</td>
+      <td>Mejorar visualización de funcionalidades principales y beneficios del sistema.</td>
+      <td>2</td>
+      <td>Acosta Elera Abraam Bernabe</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>US-50</td>
+      <td>Authenticate registered user</td>
+      <td>T-09</td>
+      <td>Implement login interface</td>
+      <td>Desarrollar la vista de autenticación y validación visual de acceso.</td>
+      <td>4</td>
+      <td>Diaz Nuñez, Mauricio</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>US-54</td>
+      <td>View asset summary</td>
+      <td>T-10</td>
+      <td>Create dashboard summary</td>
+      <td>Implementar dashboard principal mostrando indicadores y resumen de activos.</td>
+      <td>4</td>
+      <td>Diaz De La Cruz, Sebastian Gabriel</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>US-55</td>
+      <td>View pending maintenance activities</td>
+      <td>T-11</td>
+      <td>Create maintenance cards</td>
+      <td>Implementar componentes visuales para actividades pendientes de mantenimiento.</td>
+      <td>3</td>
+      <td>Diaz De La Cruz, Sebastian Gabriel</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>US-59</td>
+      <td>View indicators by production area</td>
+      <td>T-12</td>
+      <td>Implement charts and indicators</td>
+      <td>Desarrollar componentes gráficos para indicadores operacionales.</td>
+      <td>3</td>
+      <td>Acosta Elera Abraam Bernabe</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>TS-01</td>
+      <td>Implement industrial asset service</td>
+      <td>T-13</td>
+      <td>Frontend asset module structure</td>
+      <td>Configurar estructura frontend para gestión de activos y futuras integraciones API.</td>
+      <td>3</td>
+      <td>Diaz Yurivilca, Sofia</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>TS-10</td>
+      <td>Implement users, roles, and authorization service</td>
+      <td>T-14</td>
+      <td>Implement role-based navigation</td>
+      <td>Implementar navegación dinámica basada en autenticación y roles.</td>
+      <td>3</td>
+      <td>Diaz Nuñez, Mauricio</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>TS-09</td>
+      <td>Implement maintenance report service</td>
+      <td>T-15</td>
+      <td>Create report visualization UI</td>
+      <td>Desarrollar interfaz visual para reportes e indicadores de mantenimiento.</td>
+      <td>3</td>
+      <td>Acosta Elera Abraam Bernabe</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>US-47</td>
+      <td>Access segment-based call to action</td>
+      <td>T-16</td>
+      <td>Deploy frontend application</td>
+      <td>Realizar despliegue de la primera versión funcional del Frontend Web Application.</td>
+      <td>2</td>
+      <td>Diaz Yurivilca, Sofia</td>
+      <td>Done</td>
+    </tr>
+
+  </tbody>
+</table>
+
+#### 5.2.2.4. Development Evidence for Sprint Review.
+
+Durante el Sprint 2, el equipo trabajó en dos frentes principales: la mejora de la Landing Page previamente desplegada y el desarrollo de la primera versión funcional de la Frontend Web Application de TexCheck. Se realizaron commits relacionados con la configuración inicial del frontend, creación de componentes, implementación de navegación, vistas principales, dashboard, autenticación visual y despliegue de la aplicación.
+
+<table border="1" cellpadding="8" cellspacing="0" style="border-collapse: collapse; width: 100%;">
+  <thead>
+    <tr>
+      <th>Repository</th>
+      <th>Branch</th>
+      <th>Commit Id</th>
+      <th>Commit Message</th>
+      <th>Commit Message Body</th>
+      <th>Committed on (Date)</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>TexCheck/frontend-web-app</td>
+      <td>main</td>
+      <td>init012</td>
+      <td>Initial frontend project setup</td>
+      <td>Creación inicial del proyecto Frontend Web Application con estructura base.</td>
+      <td>2026-05-03</td>
+    </tr>
+    <tr>
+      <td>TexCheck/frontend-web-app</td>
+      <td>develop</td>
+      <td>feat013</td>
+      <td>feat: add login view</td>
+      <td>Implementación de la primera vista de autenticación para usuarios registrados.</td>
+      <td>2026-05-04</td>
+    </tr>
+    <tr>
+      <td>TexCheck/frontend-web-app</td>
+      <td>develop</td>
+      <td>feat014</td>
+      <td>feat: implement dashboard layout</td>
+      <td>Desarrollo del dashboard principal con indicadores generales del sistema.</td>
+      <td>2026-05-05</td>
+    </tr>
+    <tr>
+      <td>TexCheck/frontend-web-app</td>
+      <td>feature/navigation</td>
+      <td>feat015</td>
+      <td>feat: configure app routing</td>
+      <td>Configuración de rutas internas y navegación entre vistas principales.</td>
+      <td>2026-05-05</td>
+    </tr>
+    <tr>
+      <td>TexCheck/frontend-web-app</td>
+      <td>feature/components</td>
+      <td>feat016</td>
+      <td>feat: create maintenance cards</td>
+      <td>Creación de componentes visuales para actividades de mantenimiento pendientes.</td>
+      <td>2026-05-06</td>
+    </tr>
+    <tr>
+      <td>TexCheck/frontend-web-app</td>
+      <td>feature/assets</td>
+      <td>feat017</td>
+      <td>feat: add asset summary module</td>
+      <td>Implementación del módulo visual de resumen de activos industriales.</td>
+      <td>2026-05-06</td>
+    </tr>
+    <tr>
+      <td>TexCheck/landing-page</td>
+      <td>develop</td>
+      <td>fix018</td>
+      <td>fix: improve landing page responsive design</td>
+      <td>Mejora del diseño responsive, estilos visuales y secciones informativas del Landing Page.</td>
+      <td>2026-05-07</td>
+    </tr>
+    <tr>
+      <td>TexCheck/frontend-web-app</td>
+      <td>main</td>
+      <td>deploy019</td>
+      <td>deploy: publish frontend web application</td>
+      <td>Despliegue de la primera versión funcional de la Frontend Web Application.</td>
+      <td>2026-05-08</td>
+    </tr>
+  </tbody>
+</table>
+
+---
+
+#### 5.2.2.5. Execution Evidence for Sprint Review.
+
+El Sprint 2 culminó con la implementación de la primera versión funcional de la Frontend Web Application de TexCheck y una nueva versión mejorada del Landing Page. La aplicación frontend permitió representar visualmente los principales módulos del sistema, incluyendo autenticación, dashboard, resumen de activos, actividades de mantenimiento e indicadores operacionales.
+
+Entre los principales logros destacan:
+
+- Implementación de la estructura base de la Frontend Web Application.
+- Desarrollo de la vista inicial de autenticación de usuarios.
+- Creación del dashboard principal con indicadores de activos y mantenimiento.
+- Implementación de componentes reutilizables para tarjetas, módulos e información operativa.
+- Configuración de navegación interna entre vistas.
+- Mejora visual y responsive del Landing Page.
+- Corrección y optimización de artefactos previamente presentados.
+- Despliegue de una nueva versión del Landing Page.
+- Despliegue de la primera versión funcional de la Frontend Web Application.
+
+Enlace de la Landing Page actualizada:  
+https://1asi0729-2610-20262-codeup.github.io/texcheck-business-website/
+
+Enlace de la Frontend Web Application:  
+URL_DEL_FRONTEND_WEB_APPLICATION
+
+---
+
+#### 5.2.2.6. Services Documentation Evidence for Sprint Review.
+
+Durante este Sprint, la Frontend Web Application fue desarrollada como una primera versión funcional orientada a la presentación de interfaces, navegación y componentes visuales. No se realizó integración completa con servicios backend productivos; sin embargo, se consideró una estructura preparada para futuras conexiones con servicios RESTful asociados a gestión de activos, mantenimiento, usuarios, roles e indicadores.
+
+Por ello, la documentación de servicios se mantiene en una versión preliminar, considerando los siguientes módulos técnicos planificados:
+
+<table border="1" cellpadding="8" cellspacing="0" style="border-collapse: collapse; width: 100%;">
+  <thead>
+    <tr>
+      <th>Technical Story</th>
+      <th>Service</th>
+      <th>Purpose</th>
+      <th>Status</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>TS-01</td>
+      <td>Industrial Asset Service</td>
+      <td>Gestionar registro, consulta y actualización de activos industriales.</td>
+      <td>Planned</td>
+    </tr>
+    <tr>
+      <td>TS-02</td>
+      <td>Maintenance Planning Service</td>
+      <td>Gestionar programación y reprogramación de mantenimientos preventivos.</td>
+      <td>Planned</td>
+    </tr>
+    <tr>
+      <td>TS-09</td>
+      <td>Maintenance Report Service</td>
+      <td>Generar reportes e indicadores de mantenimiento.</td>
+      <td>Planned</td>
+    </tr>
+    <tr>
+      <td>TS-10</td>
+      <td>Users, Roles and Authorization Service</td>
+      <td>Gestionar autenticación, usuarios, roles y permisos.</td>
+      <td>Planned</td>
+    </tr>
+  </tbody>
+</table>
+
+En esta etapa, los servicios fueron considerados a nivel de diseño y preparación de interfaz, quedando su integración técnica completa para próximos Sprints.
+
+---
+
+#### 5.2.2.7. Software Deployment Evidence for Sprint Review.
+
+Durante el Sprint 2, el equipo realizó el despliegue de dos entregables principales: la nueva versión del Landing Page y la primera versión funcional de la Frontend Web Application. Ambos despliegues permitieron validar el avance del producto desde una perspectiva visual, funcional y accesible para revisión.
+
+Estrategia de Despliegue Implementada:
+
+Se mantuvo el uso de GitHub Pages como plataforma de despliegue para el Landing Page, asegurando continuidad con el Sprint anterior. Para la Frontend Web Application, se configuró un entorno de publicación que permite acceder a la aplicación desde un enlace público y validar sus principales vistas.
+
+Pasos realizados durante el despliegue:
+
+- Se actualizaron los cambios del Landing Page en el repositorio correspondiente.
+- Se corrigieron estilos, secciones responsive y contenido visual.
+- Se configuró la estructura de build de la Frontend Web Application.
+- Se validó que la aplicación frontend cargue correctamente desde el navegador.
+- Se verificó la navegación entre vistas principales.
+- Se revisó la visualización en dispositivos desktop y mobile.
+- Se documentaron los enlaces de acceso para revisión del Sprint.
+
+Enlace de la Landing Page actualizada:  
+https://1asi0729-2610-20262-codeup.github.io/TexCheck-landing/
+
+Enlace de la Frontend Web Application:  
+URL_DEL_FRONTEND_WEB_APPLICATION
+
+Esta estrategia de despliegue permitió evidenciar el incremento funcional del producto, pasando de una Landing Page informativa a una primera versión de aplicación web con interfaces de interacción.
+
+---
+
+#### 5.2.2.8. Team Collaboration Insights during Sprint.
+
+Durante el Sprint 2, el equipo fortaleció su dinámica de trabajo colaborativo mediante el uso de GitHub, Discord y una distribución más clara de responsabilidades. A diferencia del Sprint anterior, este Sprint requirió mayor coordinación técnica debido al desarrollo paralelo de la Landing Page y la Frontend Web Application.
+
+El equipo aplicó una estrategia de trabajo basada en ramas feature, revisiones cruzadas y commits semánticos para mantener el orden del repositorio y facilitar la integración de avances. Además, se reforzó la comunicación entre integrantes para validar decisiones de diseño, estructura de componentes y navegación del sistema.
+
+Metodología de Desarrollo Colaborativo
+
+El equipo mantuvo una metodología basada en Git Flow, trabajando con ramas específicas antes de integrar cambios a la rama principal. Esta dinámica permitió reducir conflictos, organizar mejor las funcionalidades y asegurar una entrega más estable.
+
+Organización y Distribución del Trabajo
+
+<table border="1" cellpadding="8" cellspacing="0" style="border-collapse: collapse; width: 100%;">
+  <thead>
+    <tr>
+      <th>Rol</th>
+      <th>Responsable</th>
+      <th>Funciones</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Líder de Sprint</td>
+      <td>Diaz Yurivilca, Sofia</td>
+      <td>Coordinación general, estructura frontend, validación de despliegue y seguimiento de entregables.</td>
+    </tr>
+    <tr>
+      <td>Frontend Development</td>
+      <td>Diaz De La Cruz, Sebastian Gabriel / Acosta Elera Abraam Bernabe</td>
+      <td>Desarrollo de dashboard, componentes visuales, tarjetas de mantenimiento e indicadores.</td>
+    </tr>
+    <tr>
+      <td>Routing and Authentication</td>
+      <td>Diaz Nuñez, Mauricio</td>
+      <td>Configuración de navegación, vistas principales y autenticación visual.</td>
+    </tr>
+    <tr>
+      <td>Landing Page Review</td>
+      <td>Cabrera Sotelo, Camila Celeste</td>
+      <td>Corrección de contenido, mejora visual y revisión de coherencia del Landing Page.</td>
+    </tr>
+  </tbody>
+</table>
+
+#### Actividades de Implementación Desarrolladas
+
+**Flujo de Trabajo con Ramas**
+- Cada integrante trabajó en ramas específicas según la funcionalidad asignada.
+- Ramas implementadas:
+    - `feature/frontend-setup`
+    - `feature/login-view`
+    - `feature/dashboard`
+    - `feature/navigation`
+    - `feature/asset-summary`
+    - `feature/landing-improvements`
+- Se realizaron integraciones progresivas hacia `develop` y posteriormente hacia `main`.
+
+**Proceso de Revisión de Código**
+- Se revisaron los cambios antes de integrarlos a la rama principal.
+- Se validó la coherencia visual de los componentes.
+- Se verificó que las vistas mantengan una estructura ordenada.
+- Se corrigieron detalles de estilos, navegación y responsive design.
+
+**Comunicación y Coordinación**
+- Coordinación constante vía Discord.
+- Revisión grupal de avances del frontend.
+- Validación de entregables antes del despliegue.
+- Ajustes colaborativos sobre el Landing Page y la Web Application.
+
+**Integración Continua**
+- Commits frecuentes con mensajes descriptivos.
+- Separación de responsabilidades por módulos.
+- Validación previa al despliegue.
+- Registro de evidencias para el Sprint Review.
+
+**Gestión de Problemas**
+- Corrección de errores de navegación.
+- Ajustes en la estructura visual del dashboard.
+- Revisión de rutas y carga de componentes.
+- Optimización responsive del Landing Page.
+
+**Conclusión**
+
+El Sprint 2 permitió consolidar un avance importante en el producto TexCheck, ya que el equipo no solo mejoró los artefactos previamente presentados, sino que también desarrolló y desplegó la primera versión funcional de la Frontend Web Application. La colaboración fue más organizada, técnica y orientada a resultados, fortaleciendo la base del proyecto para los siguientes Sprints.
+
+<div align="center">
+  <img src="./images/sprint2_commits.png" alt="Evidencia de commits Sprint 2" width="600"/>
+</div>
+
+<div align="center">
+  <img src="./images/sprint2_contributors.png" alt="Evidencia de colaboración Sprint 2" width="600"/>
+</div>
 
 --- 
 
