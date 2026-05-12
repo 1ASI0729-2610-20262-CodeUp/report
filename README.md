@@ -470,6 +470,8 @@ Este diagrama ayuda a comprender cómo interactúan los actores con la plataform
 
 <img src="images/event storming.jfif" width="auto">
 
+https://miro.com/app/board/uXjVGe-lBxE=/
+
 ---
 
 ## 4.6.2. Software Architecture Context Diagram
