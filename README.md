@@ -517,11 +517,13 @@ El Class Diagram de **TexCheck** representa la estructura orientada a objetos de
 
 ---
 ## 4.8. Database Design.
-<img src="images/Database Design.jpeg" width="550">
+
 
 ---
 
 ### 4.8.1. Database Diagrams.
+
+<img src="images/Database Design.jpeg" width="550">
 
 --- 
 
