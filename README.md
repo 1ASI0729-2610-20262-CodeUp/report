@@ -392,6 +392,9 @@ En TexCheck, los wireframes fueron diseñados para representar las principales f
 
 </div>
 
+Los wireframes completos y editables pueden visualizarse en el prototipo desarrollado en Figma:
+https://www.figma.com/design/K7X1UxoGOVLGb2aa3IIK41/TexTCheck-Wireframes-Mockups?t=4Tp22yuMeaoHiIDM-1
+
 ---
 
 ### 4.4.2. Web Applications Wireflow Diagrams.
