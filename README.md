@@ -450,7 +450,7 @@ Los User Flow Diagrams representan el recorrido que realiza el usuario dentro de
 A través de los user flows se identifican los pasos necesarios para que un usuario pueda acceder al sistema, gestionar activos, programar mantenimientos o registrar fallas en los equipos. Este tipo de representación facilita la comprensión de la lógica de interacción y permite optimizar la experiencia del usuario.
 
 <p align="center">
-  <img src="images/UserFlow.png" width="900">
+  <img src="images/userflow1.jpeg" width="900">
 </p>
 
 ---
