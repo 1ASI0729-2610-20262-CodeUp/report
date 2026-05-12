@@ -203,8 +203,6 @@ En esta sección se detallan las actividades realizadas en el trabajo final y el
 ---
 
 # Capítulo III: Requirements Specification
-## 3.1. User Stories.
-
 ## 3.1. User Stories
 
 User Stories describe system requirements from the end-user perspective, prioritizing the functionality and value that each action provides. In the TexCheck project, the stories were formulated based on the needs identified during the user analysis, interviews, and Lean UX process, focusing on the two main target segments: Operational Leaders and Maintenance Staff.
