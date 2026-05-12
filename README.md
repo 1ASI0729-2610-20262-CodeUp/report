@@ -39,85 +39,84 @@
 
 | Versión  | Fecha          | Autor                 | Descripción de modificación |
 | :------: | :------------: | :-------------------: | :-------------------------: |
-| AV1      | 02 / 04 / 2026 | Todos los integrantes | Primera versión             |
+|       | |  |            |
 
 </div>
 
 # Project Report Collaboration Insights
 
-[![GitHub](https://img.shields.io/badge/GitHub-Repositorio-181717?logo=github)](https://github.com/1ASI0729-2610-20262-CodeUp/TexCheck)
-
-A continuación se presentaran los commit realizados por los contribuidores:
-
-- ⏩ Avance del **AV1**
-
-![Contributors AV1](images/contributors.png)
-
-![Commits AV1](images/commits.png)
-
-- ⏩ Avance del **TB1**
 
 ---
 
 ## **Project Report Online**
 
-- [ Capítulo I: Introducción](#-capítulo-i-introducción)
-    - [1.1. Startup Profile](#11-startup-profile)
-        - [1.1.1. Descripción de la Startup](#111-descripción-de-la-startup)
-        - [1.1.2. Perfiles de integrantes del equipo](#112-perfiles-de-integrantes-del-equipo)
-    - [1.2. Solution Profile](#12-solution-profile)
-        - [1.2.1 Antecedentes y problemática](#121-antecedentes-y-problemática)
-        - [1.2.2 Lean UX Process](#122-lean-ux-process)
-            - [1.2.2.1. Lean UX Problem Statements](#1221-lean-ux-problem-statements)
-            - [1.2.2.2. Lean UX Assumptions](#1222-lean-ux-assumptions)
-            - [1.2.2.3. Lean UX Hypothesis Statements](#1223-lean-ux-hypothesis-statements)
-            - [1.2.2.4. Lean UX Canvas](#1224-lean-ux-canvas)
-    - [1.3. Segmentos objetivo](#13-segmentos-objetivo)
-- [Capítulo II: Requirements Elicitation & Analysis](#-capítulo-ii-requirements-elicitation--analysis)
-    - [2.1. Competidores](#21-competidores)
-        - [2.1.1. Análisis competitivo](#211-análisis-competitivo)
-        - [2.1.2. Estrategias y tácticas frente a competidores](#212-estrategias-y-tácticas-frente-a-competidores)
-    - [2.2. Entrevistas](#22-entrevistas)
-        - [2.2.1. Diseño de entrevistas](#221-diseño-de-entrevistas)
-        - [2.2.2. Registro de entrevistas](#222-registro-de-entrevistas)
-        - [2.2.3. Análisis de entrevistas](#223-análisis-de-entrevistas)
-    - [2.3. Needfinding](#23-needfinding)
-        - [2.3.1. User Personas](#231-user-personas)
-        - [2.3.2. User Task Matrix](#232-user-task-matrix)
-        - [2.3.3. User Journey Mapping](#233-user-journey-mapping)
-        - [2.3.4. Empathy Mapping](#234-empathy-mapping)
-    - [2.4. Big Picture EventStorming](#24-big-picture-eventstorming)
-    - [2.5. Ubiquitous Language](#25-ubiquitous-language)
-- [Capítulo III: Requirements Specification](#-capítulo-iii-requirements-specification)
-    - [3.1. User Stories](#31-user-stories)
-    - [3.2. Impact Mapping](#32-impact-mapping)
-    - [3.3. Product Backlog](#33-product-backlog)
-- [ Capítulo IV: Product Design](#-capítulo-iv-product-design)
-    - [4.1. Style Guidelines](#41-style-guidelines)
-    - [4.2. Information Architecture](#42-information-architecture)
-    - [4.3. Landing Page UI Design](#43-landing-page-ui-design)
-    - [4.4. Web Applications UX/UI Design](#44-web-applications-uxui-design)
-    - [4.5. Web Applications Prototyping](#45-web-applications-prototyping)
-    - [4.6. Domain-Driven Software Architecture](#46-domain-driven-software-architecture)
-    - [4.7. Software Object-Oriented Design](#47-software-object-oriented-design)
-    - [4.8. Database Design](#48-database-design)
-- [🛠 Capítulo V: Product Implementation, Validation & Deployment](#-capítulo-v-product-implementation-validation--deployment)
-    - [5.1. Software Configuration Management](#51-software-configuration-management)
-    - [5.2. Landing Page, Services & Applications Implementation](#52-landing-page-services--applications-implementation)
-        - [5.2.1. Sprint 1](#521-sprint-1)
-            - [5.2.1.1. Sprint Planning 1](#5211-sprint-planning-1)
-            - [5.2.1.2. Aspect Leaders and Collaborators](#5212-aspect-leaders-and-collaborators)
-            - [5.2.1.3. Sprint Backlog 1](#5213-sprint-backlog-1)
-            - [5.2.1.4. Development Evidence for Sprint Review](#5214-development-evidence-for-sprint-review)
-            - [5.2.1.5. Execution Evidence for Sprint Review](#5215-execution-evidence-for-sprint-review)
-            - [5.2.1.6. Services Documentation Evidence for Sprint Review](#5216-services-documentation-evidence-for-sprint-review)
-            - [5.2.1.7. Software Deployment Evidence for Sprint Review](#5217-software-deployment-evidence-for-sprint-review)
-            - [5.2.1.8. Team Collaboration Insights during Sprint](#5218-team-collaboration-insights-during-sprint)
-    - [5.3. Validation Interviews](#53-validation-interviews)
-    - [5.4. Video About-the-Product](#54-video-about-the-product)
-- [ Conclusiones](#-conclusiones)
-- [ Bibliografía](#-bibliografía)
-- [ Anexos](#-anexos)
+- [Universidad Peruana de Ciencias Aplicadas](#universidad-peruana-de-ciencias-aplicadas)
+  - [Ingeniería de Software](#ingeniería-de-software)
+- [Registro de Versiones del Informe](#registro-de-versiones-del-informe)
+- [Project Report Collaboration Insights](#project-report-collaboration-insights)
+  - [**Project Report Online**](#project-report-online)
+- [Student Outcome](#student-outcome)
+- [Capítulo I: Introducción](#capítulo-i-introducción)
+  - [1.1. Startup Profile](#11-startup-profile)
+    - [1.1.1. Descripción de Startup](#111-descripción-de-startup)
+  - [1.2 Solution Profile](#12-solution-profile)
+  - [1.2.1. Antecedentes y problemática](#121-antecedentes-y-problemática)
+    - [1.2.2. Lean UX Process](#122-lean-ux-process)
+    - [1.2.2.1. Lean UX Problem Statements](#1221-lean-ux-problem-statements)
+      - [1.2.2.2. Lean UX Assumptions](#1222-lean-ux-assumptions)
+      - [1.2.2.3. Lean UX Hypothesis Statements](#1223-lean-ux-hypothesis-statements)
+    - [1.2.2.3. Lean UX Hypothesis Statements](#1223-lean-ux-hypothesis-statements-1)
+      - [1.2.2.4. Lean UX Canvas](#1224-lean-ux-canvas)
+    - [1.3. Segmentos Objetivo.](#13-segmentos-objetivo)
+- [Capítulo II: Requirements Elicitation \& Analysis](#capítulo-ii-requirements-elicitation--analysis)
+  - [2.1. Competidores.](#21-competidores)
+    - [2.1.1. Análisis competitivo.](#211-análisis-competitivo)
+    - [2.1.2. Estrategias y tácticas frente a competidores.](#212-estrategias-y-tácticas-frente-a-competidores)
+  - [2.2. Entrevistas.](#22-entrevistas)
+    - [2.2.1. Diseño de entrevistas.](#221-diseño-de-entrevistas)
+    - [2.2.2. Registro de entrevistas.](#222-registro-de-entrevistas)
+    - [2.2.3. Análisis de entrevistas.](#223-análisis-de-entrevistas)
+  - [2.3. Needfinding.](#23-needfinding)
+    - [2.3.1. User Personas.](#231-user-personas)
+    - [2.3.2 User Task Matrix](#232-user-task-matrix)
+    - [2.3.3. User Journey Mapping.](#233-user-journey-mapping)
+    - [2.3.4. Empathy Mapping.](#234-empathy-mapping)
+  - [2.4. Big Picture Event Storming.](#24-big-picture-event-storming)
+  - [2.5. Ubiquitous Language.](#25-ubiquitous-language)
+- [Capítulo III: Requirements Specification](#capítulo-iii-requirements-specification)
+  - [3.1. User Stories.](#31-user-stories)
+  - [3.2. Impact Mapping](#32-impact-mapping)
+  - [3.3. Product Backlog.](#33-product-backlog)
+- [Capítulo IV: Product Design](#capítulo-iv-product-design)
+  - [4.1. Style Guidelines.](#41-style-guidelines)
+    - [4.1.1. General Style Guidelines](#411-general-style-guidelines)
+    - [4.1.2. Web Style Guidelines.](#412-web-style-guidelines)
+  - [4.2. Information Architecture.](#42-information-architecture)
+    - [4.2.1. Organization Systems.](#421-organization-systems)
+    - [4.2.2. Labeling Systems.](#422-labeling-systems)
+    - [4.2.3. SEO Tags and Meta Tags](#423-seo-tags-and-meta-tags)
+    - [4.2.4. Searching Systems.](#424-searching-systems)
+    - [4.2.5. Navigation Systems.](#425-navigation-systems)
+  - [4.3. Landing Page UI Design.](#43-landing-page-ui-design)
+    - [4.3.1. Landing Page Wireframe.](#431-landing-page-wireframe)
+    - [4.3.2. Landing Page Mock-up.](#432-landing-page-mock-up)
+  - [4.4. Web Applications UX/UI Design.](#44-web-applications-uxui-design)
+    - [4.4.1. Web Applications Wireframes.](#441-web-applications-wireframes)
+    - [4.4.2. Web Applications Wireflow Diagrams.](#442-web-applications-wireflow-diagrams)
+    - [4.4.3. Web Applications Mock-ups.](#443-web-applications-mock-ups)
+    - [4.4.4. Web Applications User Flow Diagrams](#444-web-applications-user-flow-diagrams)
+  - [4.6. Domain-Driven Software Architecture.](#46-domain-driven-software-architecture)
+    - [4.6.1. Design-Level Event Storming.](#461-design-level-event-storming)
+  - [4.6.2. Software Architecture Context Diagram](#462-software-architecture-context-diagram)
+  - [4.6.3. Software Architecture Container Diagram](#463-software-architecture-container-diagram)
+    - [4.6.4. Software Architecture Components Diagrams.](#464-software-architecture-components-diagrams)
+  - [4.7. Software Object-Oriented Design.](#47-software-object-oriented-design)
+    - [4.7.1. Class Diagrams.](#471-class-diagrams)
+  - [4.8. Database Design.](#48-database-design)
+    - [4.8.1. Database Diagrams.](#481-database-diagrams)
+- [Capítulo V: Product Implementation, Validation \& Deployment.](#capítulo-v-product-implementation-validation--deployment)
+- [Conclusiones](#conclusiones)
+- [Bibliografía](#bibliografía)
 
 --- 
 # Student Outcome
@@ -177,38 +176,9 @@ En esta sección se detallan las actividades realizadas en el trabajo final y el
 ---
 
 # Capítulo I: Introducción
-
 ## 1.1. Startup Profile
-
-TexCheck es una startup tecnológica orientada a la digitalización de la gestión del mantenimiento industrial dentro del sector manufacturero textil. Su propósito es ofrecer una plataforma digital integral, disponible en entornos Web y Mobile, diseñada para optimizar la operatividad de las empresas textiles mediante un control técnico más organizado, centralizado y eficiente de sus activos industriales.
-
-La iniciativa surge a partir de la identificación de un problema recurrente dentro de las plantas de producción textiles: la ocurrencia de fallas inesperadas en maquinaria crítica, la dependencia de registros manuales y la falta de trazabilidad en el historial de mantenimiento. Estas situaciones generan interrupciones en la producción, incremento de costos operativos y dificultades para realizar mantenimiento preventivo de forma adecuada.
-
-Frente a esta problemática, TexCheck propone una solución digital que permita centralizar la información técnica de los activos, automatizar la programación de mantenimientos preventivos, registrar intervenciones técnicas y facilitar la toma de decisiones basada en información histórica y métricas operativas.
-
-Asimismo, la plataforma busca adaptarse a las necesidades de pequeñas y medianas empresas textiles, ofreciendo una solución accesible, intuitiva y orientada a mejorar la continuidad operativa y la eficiencia de los procesos de mantenimiento industrial.
-
-#### Misión, Visión y Valores de TexCheck
-
-| Concepto | Definición |
-| :--- | :--- |
-| **Misión** | Optimizar la gestión del mantenimiento industrial mediante una solución digital ágil, accesible y eficiente, que permita a las empresas textiles maximizar la disponibilidad de sus activos, reducir costos operativos y mejorar la organización de sus procesos técnicos mediante mantenimiento preventivo y monitoreo centralizado. |
-| **Visión** | Posicionarse como una plataforma referente en gestión de mantenimiento preventivo para la industria textil peruana, impulsando la digitalización de procesos industriales y promoviendo una toma de decisiones basada en datos para mejorar la continuidad operativa y la eficiencia productiva. |
-| **Valores** | **Innovación:** promover soluciones digitales orientadas a mejorar los procesos industriales.<br><br>**Compromiso:** brindar una plataforma confiable enfocada en las necesidades reales de las empresas textiles.<br><br>**Eficiencia:** optimizar los procesos de mantenimiento para reducir tiempos muertos y costos operativos.<br><br>**Accesibilidad:** desarrollar herramientas intuitivas y fáciles de usar para distintos perfiles de usuarios.<br><br>**Mejora continua:** fomentar la actualización constante de procesos y tecnologías para garantizar un servicio de calidad. |
-
-
-### 1.1.1. Descripción de la Startup
-
-|                     Foto                     | Nombres y Apellidos | Código | Carrera                | Conocimientos y Habilidades                                                                                                                                                                                                                                                                                                                                                                                         |
-|:--------------------------------------------:| :--- | :---: |:-----------------------|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| <img src="images/sofiaFoto.png" width="120"> | Diaz Yurivilca, Sofia | u20241a195 | Ingenieria de Software | Trabajo en equipo, comunicación efectiva, organización y planificación de tareas, responsabilidad en la elaboración de documentación académica, análisis de requerimientos, redacción de informes técnicos, manejo básico de herramientas de diseño UX/UI, conocimientos en programación orientada a objetos con C++, desarrollo de interfaces en consola y Windows Forms, colaboración en proyectos de software.   |
-|                                              | Acosta Elera Abraam Bernabe | U202219199 |                        | Resolución de problemas, análisis de información, colaboración en proyectos                                                                                                                                                                                                                                                                                                                                         |
-|                                              | Diaz Nuñez, Mauricio | U202411349 |                        | Pensamiento analítico, investigación, gestión de información                                                                                                                                                                                                                                                                                                                                                        |
-| <img src="images/sebasFoto.png" width="120"> | Diaz De La Cruz, Sebastian Gabriel | U202410421 | Ingeniería de Software | Programación, desarrollo web, diseño de interfaces, lógica de programación, trabajo en equipo                                                                                                                                                                                                                                                                                                                       |
-|  <img src="images/camFoto.png" width="120">  | Cabrera Sotelo, Camila Celeste | U202412462 | Ingeniería de Software | Desarrollo de software, diseño UI/UX, análisis de requerimientos, trabajo colaborativo, pensamiento lógico                                                                                                                                                                                                                                                                                                          |
-
+### 1.1.1. Descripción de Startup                                                                                        
 ## 1.2 Solution Profile
-
 ## 1.2.1. Antecedentes y problemática
 
 La industria textil y de confecciones representa uno de los sectores manufactureros más importantes del Perú debido a su impacto económico y generación de empleo. Según el Ministerio de la Producción (PRODUCE, 2025), este sector aportó aproximadamente el 7.3% del PBI manufacturero y el 0.9% del PBI nacional durante el año 2024. Asimismo, la Sociedad Nacional de Industrias señala que la industria textil peruana genera alrededor de 400 mil empleos directos cada año, siendo las pequeñas y medianas empresas una parte importante de la actividad productiva del sector (SNI, 2021).
@@ -314,7 +284,6 @@ Para los Líderes operativos, el valor principal se encuentra en mejorar la cont
 Para el Personal de mantenimiento, el valor principal se encuentra en acceder rápidamente al historial técnico de las máquinas, registrar información de forma organizada, recibir alertas oportunas y coordinar tareas de mantenimiento de manera más eficiente.
 
 ### 1.2.2. Lean UX Process
-
 ### 1.2.2.1. Lean UX Problem Statements
 
 La industria textil en Perú enfrenta constantes problemas en la gestión del mantenimiento de maquinaria debido a la dependencia de procesos manuales y herramientas poco especializadas. Muchas empresas continúan utilizando registros físicos, hojas de cálculo y coordinación informal mediante llamadas o aplicaciones de mensajería, lo que dificulta el seguimiento del mantenimiento, la detección temprana de fallas y la conservación del historial técnico de los activos.
@@ -702,52 +671,6 @@ En síntesis, TexCheck enfrentará a sus competidores mediante una estrategia ba
 
 ## 2.2. Entrevistas.
 ### 2.2.1. Diseño de entrevistas.
-
-<p style="text-align: justify;">
-Las entrevistas fueron diseñadas con el objetivo de comprender las necesidades, problemas y expectativas de los distintos actores involucrados en la gestión del mantenimiento a través de herramientas digitales como TexCheck. Se utilizaron preguntas abiertas para obtener información detallada.
-</p>
-
-### Preguntas introductorias
-
-Antes de comenzar, me gustaría conocer un poco más sobre ti para poder entender mejor tus respuestas dentro de tu contexto de trabajo.
-
-- “¿Podrías indicarme tu nombre completo, edad y el distrito que resides?”
--  “¿Cuál es tu ocupación o cargo dentro de la empresa?”
-- “¿Cuántos años de experiencia tienes en este rubro?”
-
-### Segmento #1: Directores y Gerentes de Producción / Dueños (Los Decisores)
-
-1. “¿Cómo gestionan actualmente el mantenimiento de su maquinaria?”
-2. “¿Qué problemas enfrentan con las fallas inesperadas?”
-3. “¿Cuánto impacto económico generan las paradas de máquina?”
-4. “¿Qué herramientas o sistemas utilizan hoy para el mantenimiento?”
-5. “¿Qué tan importante es para usted tener un historial de mantenimiento?”
-6. “¿Ha considerado implementar un software de gestión? ¿Por qué?”
-7. “¿Qué factores influyen más en su decisión de compra (precio, eficiencia y facilidad)?”
-8. “¿Qué tan frecuente ocurren fallas que afectan la producción?”
-9. “¿Qué nivel de control le gustaría tener sobre el mantenimiento?”
-10. “¿Qué características considera indispensables en una solución como TexCheck?”
-
-### Cierre de entrevista
-
-- “Esto sería todo, gracias por tomarse el tiempo para esta entrevista.”
-
-### Segmento 2: Jefes de Mantenimiento y Técnicos (Usuarios)
-
-1. ¿Cómo registran actualmente el mantenimiento de las máquinas?
-2. ¿Qué dificultades tienen al momento de hacer seguimiento a reparaciones?
-3. ¿Han perdido información importante de mantenimiento?
-4. ¿Qué tan fácil o difícil es coordinar tareas de mantenimiento?
-5. ¿Qué herramientas usan en su trabajo diario (papel, Excel, apps)?
-6. ¿Qué problemas tienen al detectar fallas a tiempo?
-7. ¿Qué tan útil sería recibir alertas sobre mantenimiento?
-8. ¿Qué funciones les gustaría tener en una herramienta digital?
-9. ¿Qué tan cómodo se sienten usando software en su trabajo?
-10. ¿Qué haría que realmente usen una herramienta como TexCheck todos los días?
-
-### Finalización:
-- “Esto sería todo, gracias por tomarte el tiempo para esta entrevista, ¡Hasta pronto! ”
-
 ### 2.2.2. Registro de entrevistas.
 
 ### Segmento #1: Directores y Gerentes de Producción / Dueños (Los Decisores)
@@ -1138,6 +1061,13 @@ Finalmente, resalta que para garantizar su uso, el sistema debe ser sencillo, r�
 </div>
 
 ### 2.2.3. Análisis de entrevistas.
+## 2.3. Needfinding.
+### 2.3.1. User Personas.
+### 2.3.2 User Task Matrix
+### 2.3.3. User Journey Mapping.
+### 2.3.4. Empathy Mapping.
+## 2.4. Big Picture Event Storming.
+## 2.5. Ubiquitous Language.
 
 # Segmento 1: Directores y Gerentes de Producción / Dueños
 
@@ -2723,7 +2653,3 @@ El Sprint 2 permitió consolidar un avance importante en el producto TexCheck, y
 ---
 
 # Bibliografía
-
----
-
-# Anexos
