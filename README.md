@@ -396,15 +396,15 @@ En TexCheck, los wireframes fueron diseñados para representar las principales f
 
 ### 4.4.2. Web Applications Wireflow Diagrams.
 
-Los wireflow diagrams combinan wireframes con diagramas de flujo para representar cómo los usuarios navegan entre las diferentes pantallas de la aplicación. Este tipo de representación permite comprender visualmente la secuencia de interacción dentro del sistema y las acciones que desencadenan cada transición entre interfaces.
+Los wireflow diagrams combinan wireframes con diagramas de flujo para representar cómo los usuarios navegan entre las diferentes pantallas de la aplicación TexCheck. Este tipo de representación permite comprender visualmente la secuencia de interacción dentro del sistema y las acciones que desencadenan cada transición entre interfaces.
 
 El wireflow facilita la identificación de las rutas de navegación más importantes dentro de la plataforma, mostrando cómo los usuarios acceden desde la pantalla de inicio de sesión hacia el panel principal y posteriormente hacia los distintos módulos del sistema.
 
 <div align="center">
 
-<img src="images/WireflowDiagram.png" width="800">
-</div>
+<img src="images/wireflow diagram.png" width="800">
 
+</div>
 ---
 
 ### 4.4.3. Web Applications Mock-ups.
