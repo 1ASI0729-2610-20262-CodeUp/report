@@ -325,38 +325,41 @@ Aunque existen plataformas CMMS en el mercado, muchas de ellas están orientadas
 
 El desafío no consiste únicamente en digitalizar registros, sino en encontrar una forma eficiente de mejorar la coordinación, el control y la planificación del mantenimiento preventivo dentro de entornos industriales con recursos limitados y distintos niveles de adaptación tecnológica.
 
-TexCheck busca responder a este desafío mediante una plataforma digital accesible e intuitiva, orientada a dos segmentos principales: Líderes operativos y Personal de mantenimiento. Los Líderes operativos requieren visibilidad sobre el estado de la maquinaria, indicadores claros y reportes que les permitan tomar decisiones oportunas. El Personal de mantenimiento necesita registrar activos, ejecutar intervenciones, atender fallas, recibir alertas y consultar el historial técnico de las máquinas de forma rápida y ordenada.
+En TexCheck, los wireframes fueron diseñados para representar las principales funcionalidades del sistema, incluyendo la autenticación de usuarios, el panel principal de monitoreo, la gestión de activos, la planificación de mantenimientos, el registro de fallas y la visualización de reportes y analíticas.
 
 Sabremos que estamos avanzando correctamente cuando las empresas logren reducir fallas inesperadas, mejorar la organización del mantenimiento, disminuir la pérdida de información técnica y reducir el downtime mediante el uso de una plataforma digital accesible, especializada e intuitiva.
 
-#### 1.2.2.2. Lean UX Assumptions
+<img src="images/Web Login - Wireframe.png" width="250">
+<img src="images/Web Dashboard - Wireframe.png" width="250">
+<img src="images/Web Asset Management - Wireframe.png" width="250">
 
 ### A. Business Assumptions
 
-1. Creemos que nuestros clientes, principalmente pequeñas y medianas empresas textiles, necesitan reducir las pérdidas ocasionadas por fallas inesperadas, retrasos en producción, pérdida de información técnica y desorganización en la gestión del mantenimiento industrial.
-2. Estas necesidades se resuelven con una plataforma digital accesible que centralice el registro de activos industriales, facilite la planificación del mantenimiento preventivo, permita registrar intervenciones técnicas y brinde trazabilidad sobre el historial de cada máquina.
-3. Nuestros primeros clientes serán pequeñas y medianas empresas textiles ubicadas en Lima Metropolitana y Callao, debido a la concentración de actividad manufacturera y a la necesidad de mejorar procesos internos de mantenimiento.
-4. Valor esperado #1: reducción del downtime y mejora del control del mantenimiento preventivo.
-5. Beneficios adicionales: reducción de errores en registros manuales, mejor coordinación entre áreas operativas y personal técnico, acceso rápido al historial de mantenimiento, detección temprana de fallas y mayor trazabilidad de las intervenciones realizadas.
-6. Adquisición: referencias del sector industrial, demostraciones prácticas, contacto directo con empresas textiles, networking empresarial y marketing digital B2B.
-7. Ingresos: modelo de suscripción SaaS mensual, escalado según la cantidad de usuarios, activos registrados y funcionalidades contratadas.
-8. Principal competencia: plataformas CMMS como Fiix, UpKeep e IBM Maximo.
-9. Ventaja competitiva: enfoque especializado en empresas textiles, facilidad de uso, rápida implementación, costos accesibles para pymes y adaptación a usuarios con distintos niveles de experiencia tecnológica.
-10. Principal riesgo del producto: baja adopción debido a la resistencia al cambio tecnológico y a la costumbre de trabajar con registros físicos, hojas de cálculo o comunicación informal.
-11. Mitigación: incorporación guiada, capacitación básica, soporte inicial, interfaz intuitiva y una versión inicial enfocada en beneficios rápidos como registro de activos, alertas y consulta de historial técnico.
-12. Otras suposiciones críticas: disponibilidad de dispositivos móviles o computadoras dentro de planta, conectividad suficiente para registrar información, disposición de las empresas a digitalizar sus procesos de mantenimiento y compromiso del personal para mantener actualizados los registros.
+<div align="center">
+
+<img src="images/Web Maintenance Planning - Wireframe.png" width="250">
+<img src="images/Web Failure Reporting - Wireframe.png" width="250">
+<img src="images/Web Reports & Analytics - Wireframe.png" width="250">
+
+</div>
+
+Los wireframes completos y editables pueden visualizarse en el prototipo desarrollado en Figma:
+https://www.figma.com/design/K7X1UxoGOVLGb2aa3IIK41/TexTCheck-Wireframes-Mockups?t=4Tp22yuMeaoHiIDM-1
+
+---
 
 ### B. User Assumptions
 
-* ¿Quién es el usuario?
+Los wireflow diagrams combinan wireframes con diagramas de flujo para representar cómo los usuarios navegan entre las diferentes pantallas de la aplicación TexCheck. Este tipo de representación permite comprender visualmente la secuencia de interacción dentro del sistema y las acciones que desencadenan cada transición entre interfaces.
 
 Los usuarios principales son los Líderes operativos y el Personal de mantenimiento de pequeñas y medianas empresas textiles. Los Líderes operativos supervisan la continuidad de producción, revisan indicadores y toman decisiones sobre el estado de la maquinaria. El Personal de mantenimiento registra activos, ejecuta mantenimientos, atiende fallas y actualiza el historial técnico de las máquinas.
 
 * ¿Dónde encaja el producto?
 
-TexCheck encaja en las operaciones diarias de producción y mantenimiento industrial dentro de plantas textiles. La plataforma se utiliza durante la supervisión del estado de la maquinaria, la planificación de mantenimientos preventivos, la ejecución de intervenciones técnicas, la atención de fallas y la consulta de reportes e indicadores.
+<img src="images/wireflow diagram.png" width="800">
 
-* Problema a resolver: fallas inesperadas en maquinaria crítica, pérdida de información técnica, baja trazabilidad de intervenciones, mantenimiento reactivo, registros manuales dispersos y dificultad para coordinar tareas entre las áreas operativas y el personal técnico.
+</div>
+---
 
 * Uso típico: registrar activos industriales, consultar fichas técnicas, programar mantenimientos preventivos, asignar responsables, registrar observaciones técnicas, reportar fallas, recibir alertas, consultar historial de máquinas y generar reportes de mantenimiento.
 
@@ -396,7 +399,9 @@ TexCheck encaja en las operaciones diarias de producción y mantenimiento indust
 
 ### E. Feature Assumptions
 
-* El registro digital de activos permitirá centralizar la información técnica de cada máquina y reducirá la dependencia de registros físicos o archivos dispersos.
+<p align="center">
+  <img src="images/userflow1.jpeg" width="900">
+</p>
 
 * La ficha técnica por activo facilitará la consulta de datos importantes antes de realizar una intervención de mantenimiento.
 
@@ -408,7 +413,9 @@ TexCheck encaja en las operaciones diarias de producción y mantenimiento indust
 
 * La gestión de fallas permitirá clasificar incidentes por criticidad, generar órdenes correctivas y registrar soluciones técnicas.
 
-* El historial técnico digital reducirá la pérdida de información y permitirá hacer seguimiento a reparaciones, fallas recurrentes e intervenciones anteriores.
+<img src="images/event storming.jfif" width="auto">
+
+https://miro.com/app/board/uXjVGe-lBxE=/
 
 * Los reportes y dashboards permitirán a los Líderes operativos tomar decisiones basadas en datos sobre el estado de la maquinaria y el cumplimiento del mantenimiento.
 
@@ -418,7 +425,7 @@ TexCheck encaja en las operaciones diarias de producción y mantenimiento indust
 
 #### 1.2.2.3. Lean UX Hypothesis Statements
 
-Las hipótesis de TexCheck se formulan a partir de los business outcomes, los segmentos objetivo, los beneficios esperados para el usuario y las posibles soluciones definidas en el Lean UX Canvas. Para esta sección, se utiliza la estructura propuesta por Lean UX:
+<img src="images/Software Architecture Context Diagram.jpeg" width="auto">
 
 Creemos que lograremos [resultado de negocio] si [persona/segmento] obtiene [beneficio o resultado del usuario] con [funcionalidad o solución].
 
@@ -448,19 +455,7 @@ Creemos que lograremos mejorar la toma de decisiones operativas si los Líderes 
 
 #### Hypothesis Statement 07: Coordinación entre áreas operativas y mantenimiento
 
-Creemos que lograremos mejorar la coordinación entre Líderes operativos y Personal de mantenimiento si ambos segmentos obtienen información centralizada sobre tareas asignadas, estado de activos, alertas y avances de mantenimiento con una plataforma digital compartida.
-
-#### Hypothesis Statement 08: Acceso desde planta
-
-Creemos que lograremos aumentar la actualización oportuna de registros técnicos si el Personal de mantenimiento obtiene la posibilidad de registrar observaciones, evidencias, tiempos de intervención y cierre de tareas directamente desde planta con una plataforma accesible desde dispositivos móviles y computadoras.
-
-#### Hypothesis Statement 09: Interfaz simple e intuitiva
-
-Creemos que lograremos que el 70% de los usuarios registrados utilicen activamente la plataforma cada semana si los Líderes operativos y el Personal de mantenimiento obtienen una experiencia simple, rápida e intuitiva con una interfaz organizada por módulos, alertas visuales claras y acceso rápido a las funciones principales.
-
-#### Hypothesis Statement 10: Adopción en empresas textiles
-
-Creemos que lograremos la adopción de TexCheck en al menos 20 empresas textiles durante el primer año si los Líderes operativos y el Personal de mantenimiento reconocen que la plataforma ayuda a reducir fallas inesperadas, mejorar la trazabilidad y ordenar la gestión del mantenimiento mediante una solución digital accesible y especializada para el sector textil.
+<img src="images/Software Architecture Container Diagrams.jpeg" width="auto">
 
 ---
 
@@ -1165,9 +1160,22 @@ Las funcionalidades de mayor prioridad operativa incluyen la gestión de activos
 ### 4.6.3. Software Architecture Container Diagrams.
 ### 4.6.4. Software Architecture Components Diagrams.
 ## 4.7. Software Object-Oriented Design.
+
 ### 4.7.1. Class Diagrams.
+
+El Class Diagram de **TexCheck** representa la estructura orientada a objetos del sistema, mostrando las clases principales, sus atributos, métodos y relaciones. Este diseño permite organizar los módulos del sistema y definir la interacción entre los componentes para la gestión del mantenimiento textil.
+
+<img src="images/Bounded Context Identity & Access (IAM).jpeg" width="auto">
+
+---
 ## 4.8. Database Design.
+
+
+---
+
 ### 4.8.1. Database Diagrams.
+
+<img src="images/Database Design.jpeg" width="550">
 
 --- 
 
