@@ -465,7 +465,7 @@ Además, se empleará el modelo C4 Model para representar la arquitectura del so
 El Event Storming a nivel de diseño permite identificar los eventos principales del negocio, las acciones de los usuarios y las respuestas automáticas del sistema dentro del flujo de mantenimiento industrial.  
 Este diagrama ayuda a comprender cómo interactúan los actores con la plataforma y cómo se desencadenan procesos como alertas, reportes y actualizaciones del historial de mantenimiento.
 
-<img src="images/eventStorming.png" width="auto">
+<img src="images/event storming.jfif" width="auto">
 
 ---
 
@@ -476,7 +476,7 @@ Permite identificar a los usuarios que interactúan con la plataforma y la forma
 
 Este es el diagrama de Contexto de nuestro sistema:
 
-<img src="images/diagramaContexto.jpg" width="auto">
+<img src="images/Software Architecture Context Diagram.jpeg" width="auto">
 
 ---
 
@@ -487,7 +487,7 @@ Este nivel permite visualizar cómo se organiza técnicamente TexCheck y cómo s
 
 Este es el diagrama de Contenedores de nuestro sistema:
 
-<img src="images/diagramaContenedores.png" width="auto">
+<img src="images/Software Architecture Container Diagrams.jpeg" width="auto">
 
 ---
 
@@ -503,7 +503,12 @@ Este es el diagrama de Componentes de nuestro sistema:
 ---
 
 ## 4.7. Software Object-Oriented Design.
+
 ### 4.7.1. Class Diagrams.
+
+El Class Diagram de **TexCheck** representa la estructura orientada a objetos del sistema, mostrando las clases principales, sus atributos, métodos y relaciones. Este diseño permite organizar los módulos del sistema y definir la interacción entre los componentes para la gestión del mantenimiento textil.
+
+<img src="images/Bounded Context Identity & Access (IAM).jpeg" width="auto">
 ## 4.8. Database Design.
 ### 4.8.1. Database Diagrams.
 
