@@ -514,7 +514,13 @@ Este es el diagrama de Componentes de nuestro sistema:
 El Class Diagram de **TexCheck** representa la estructura orientada a objetos del sistema, mostrando las clases principales, sus atributos, métodos y relaciones. Este diseño permite organizar los módulos del sistema y definir la interacción entre los componentes para la gestión del mantenimiento textil.
 
 <img src="images/Bounded Context Identity & Access (IAM).jpeg" width="auto">
+
+---
 ## 4.8. Database Design.
+<img src="images/Database Design.jpeg" width="550">
+
+---
+
 ### 4.8.1. Database Diagrams.
 
 --- 
