@@ -186,233 +186,86 @@ En esta sección se detallan las actividades realizadas en el trabajo final y el
 
 # Capítulo II: Requirements Elicitation & Analysis
 ## 2.1. Competidores.
-### 2.1.1. Análisis competitivo.
+## 2.1.1. Análisis competitivo.
 
-<table>
-  <tr>
-    <th colspan="6" valign="top">Competitive Analysis Landscape</th>
-  </tr>
-  <tr>
-    <td colspan="2" valign="top">¿Por qué llevar a cabo este análisis?</td>
-    <td colspan="4" valign="top">
-      El objetivo de este análisis es identificar las características de los competidores en el sector de gestión de mantenimiento industrial (CMMS) y determinar oportunidades de diferenciación para TexCheck, enfocándonos en el sector textil.
-    </td>
-  </tr>
- <tr>
-  <td colspan="2" rowspan="2" valign="top">Startup y Competidores</td>
+| Elemento | TexCheck<br>![Logo TexCheck](ruta/logo-texcheck.png) | Fiix CMMS<br>![Logo Fiix](ruta/logo-fiix.png) | UpKeep<br>![Logo UpKeep](ruta/logo-upkeep.png) | IBM Maximo Application Suite<br>![Logo IBM Maximo](ruta/logo-ibm-maximo.png) |
+|---|---|---|---|---|
+| **¿Por qué llevar a cabo este análisis?** | El análisis se realiza para determinar cómo TexCheck puede diferenciarse dentro del mercado de soluciones de mantenimiento industrial, considerando que existen plataformas CMMS consolidadas, pero muchas de ellas están orientadas a empresas grandes, poseen costos elevados o no están especializadas en el sector textil peruano. La pregunta principal es: **¿cómo puede TexCheck posicionarse como una alternativa accesible, especializada e intuitiva para pequeñas y medianas empresas textiles que necesitan digitalizar su mantenimiento industrial sin asumir la complejidad de plataformas empresariales globales?** | Se analiza Fiix porque es una plataforma CMMS reconocida internacionalmente, enfocada en ayudar a las empresas a planificar, rastrear y optimizar el mantenimiento mediante gestión de activos, órdenes de trabajo, reportes, integraciones y herramientas basadas en IA. Su presencia permite comparar a TexCheck frente a una solución madura, de enfoque general y orientada a múltiples industrias. | Se analiza UpKeep porque es una plataforma CMMS mobile-first orientada a equipos de mantenimiento que necesitan crear órdenes de trabajo, automatizar mantenimientos preventivos, usar checklists y acceder a información desde cualquier dispositivo. Su enfoque móvil la convierte en un competidor importante frente a TexCheck, especialmente para técnicos que trabajan directamente en planta. | Se analiza IBM Maximo porque es una suite EAM/CMMS empresarial de alto nivel, orientada a la gestión avanzada de activos, mantenimiento preventivo, predictivo, inspecciones, inventario, analítica e integración con tecnologías empresariales. Representa la competencia más robusta y compleja dentro del mercado de gestión de activos industriales. |
+| **Perfil — Overview** | TexCheck es una startup tecnológica orientada a la digitalización de la gestión del mantenimiento industrial en el sector manufacturero textil. Su propósito es ofrecer una plataforma Web y Mobile que permita registrar activos, programar mantenimientos preventivos, reportar fallas, consultar historial técnico, generar alertas y visualizar indicadores operativos. Su enfoque nace de una problemática identificada en empresas textiles: fallas inesperadas en maquinaria crítica, dependencia de registros manuales, uso de Excel, comunicación por WhatsApp y falta de trazabilidad técnica. | Fiix CMMS es una plataforma de mantenimiento basada en la nube que permite planificar, rastrear y optimizar operaciones de mantenimiento. Ofrece gestión de activos, órdenes de trabajo, mantenimiento preventivo, inventario, reportes, integraciones y herramientas de IA. Su propuesta está orientada a empresas que buscan centralizar sus operaciones de mantenimiento y mejorar el rendimiento de sus activos. | UpKeep es una plataforma CMMS impulsada por IA y diseñada con enfoque mobile-first. Su propuesta busca que los equipos de mantenimiento completen órdenes de trabajo desde cualquier dispositivo, agreguen fotos, utilicen checklists, actualicen información en tiempo real y automaticen tareas preventivas. La empresa indica que su plataforma busca pasar de operaciones reactivas a operaciones proactivas. | IBM Maximo Application Suite es una plataforma empresarial de gestión de activos que integra mantenimiento, inspección, monitoreo, inventario, analítica, gestión de campo y capacidades de IA. IBM la presenta como una solución para mejorar el desempeño de activos, programar trabajos, completar órdenes con acceso móvil y detectar anomalías mediante imágenes, video, sensores o datos operativos. |
+| **Ventaja competitiva** | La ventaja competitiva de TexCheck se basa en su **especialización en el sector textil peruano**, su enfoque en pequeñas y medianas empresas, su facilidad de uso y su modelo accesible frente a plataformas globales. A diferencia de soluciones generales, TexCheck se adapta a flujos reales de mantenimiento textil: registro de máquinas, historial técnico, planificación preventiva, fallas recurrentes, alertas, checklists y reportes pensados para líderes operativos y personal de mantenimiento. Además, su propuesta responde a un mercado donde el 99.4% de empresas textiles formales son MYPE y donde el 66% se concentra en Lima, lo cual facilita una estrategia inicial de entrada local. | Su ventaja competitiva está en ser una plataforma CMMS madura, cloud-based, con funcionalidades amplias para mantenimiento, gestión de activos, inventario, reportes e integraciones. También cuenta con herramientas de IA y una propuesta orientada a optimizar activos en distintos sectores industriales. Su fortaleza principal es la experiencia acumulada y la capacidad de cubrir procesos de mantenimiento de manera integral. | Su ventaja competitiva está en su enfoque mobile-first. UpKeep facilita que técnicos puedan crear, completar y actualizar órdenes de trabajo desde cualquier dispositivo, con fotos, checklists y actualizaciones en tiempo real. Esta orientación resulta atractiva para equipos operativos que trabajan fuera de oficina o directamente en planta. | Su ventaja competitiva está en su robustez empresarial, escalabilidad, analítica avanzada, integración con gestión de activos, inventario, inspecciones, mantenimiento predictivo y ecosistema IBM. Es una solución preparada para grandes organizaciones con procesos complejos, múltiples sedes, altos volúmenes de activos y necesidades avanzadas de confiabilidad operacional. |
+| **¿Qué valor ofrece a los clientes?** | TexCheck ofrece valor al permitir que las empresas textiles reduzcan la pérdida de información técnica, mejoren la trazabilidad de las intervenciones, organicen el mantenimiento preventivo y disminuyan las interrupciones por fallas inesperadas. Para los líderes operativos, ofrece visibilidad sobre activos, fallas, mantenimientos pendientes y reportes. Para el personal de mantenimiento, ofrece una herramienta práctica para registrar intervenciones, consultar historiales, recibir alertas y coordinar tareas. Este valor es importante porque el downtime no planificado puede generar pérdidas relevantes en entornos industriales. | Fiix ofrece valor mediante la centralización de activos, órdenes de trabajo, inventario, mantenimiento preventivo y reportes. Su objetivo es que las empresas dejen de gestionar activos “a ciegas” y puedan observar, rastrear y optimizar el rendimiento de sus equipos. También permite mejorar la organización del mantenimiento y reducir tiempos administrativos. | UpKeep ofrece valor al permitir que los equipos de mantenimiento gestionen órdenes de trabajo desde cualquier lugar, automaticen tareas preventivas, usen checklists y mantengan visibilidad en tiempo real. Su propuesta se enfoca en reducir trabajo administrativo, acelerar respuestas y facilitar el trabajo del técnico en campo. | IBM Maximo ofrece valor a empresas intensivas en activos al integrar mantenimiento, gestión de activos, inspecciones, inventario, analítica, automatización y capacidades predictivas. Su valor se centra en optimizar el ciclo de vida de los activos, mejorar la confiabilidad, reducir riesgos operativos y apoyar decisiones complejas basadas en datos. |
+| **Perfil de Marketing — Mercado objetivo** | TexCheck se dirige principalmente a pequeñas y medianas empresas textiles ubicadas en Lima Metropolitana y Callao, especialmente aquellas que todavía gestionan mantenimiento con Excel, registros físicos y comunicación informal. Sus usuarios principales son líderes operativos, jefes de planta, supervisores de producción, jefes de mantenimiento y técnicos. El mercado objetivo es atractivo porque PRODUCE registró más de **46 mil empresas formales** en la industria textil y confecciones en 2023, con fuerte concentración en Lima y predominio de micro y pequeñas empresas. | Fiix se dirige a empresas de múltiples sectores que necesitan profesionalizar la gestión de mantenimiento. Su mercado objetivo incluye empresas manufactureras, plantas industriales, operaciones con activos físicos, equipos de mantenimiento y organizaciones que buscan una solución CMMS en la nube. No está limitado a un sector específico. | UpKeep se dirige a equipos de mantenimiento que requieren movilidad, rapidez y gestión operativa desde campo. Su mercado objetivo incluye manufactura, facilities, servicios, logística, operaciones de campo y empresas con técnicos que necesitan actualizar órdenes de trabajo desde celulares o tablets. | IBM Maximo se dirige principalmente a grandes empresas, corporaciones y organizaciones intensivas en activos. Su mercado incluye manufactura avanzada, energía, minería, transporte, utilities, petróleo y gas, infraestructura, aeropuertos, salud y empresas con necesidades complejas de mantenimiento, confiabilidad, inventario y gestión de activos empresariales. |
+| **Perfil de Marketing — Estrategias de marketing** | TexCheck debe aplicar una estrategia B2B enfocada en nicho. Sus acciones principales pueden ser: demostraciones directas a empresas textiles, visitas a plantas, pruebas piloto, casos de uso con reducción de fallas, contenido educativo sobre mantenimiento preventivo, campañas en LinkedIn, alianzas con gremios textiles, contacto con jefes de planta y mantenimiento, y mensajes centrados en “dejar Excel y papel sin complicar el trabajo diario”. También puede usar datos del sector para reforzar su propuesta: crecimiento de producción textil y confecciones de **+10.1% en 2024** y concentración empresarial en Lima. | Fiix utiliza marketing digital B2B, demostraciones de producto, contenido educativo sobre mantenimiento, casos de éxito, SEO para búsquedas relacionadas con CMMS, recursos descargables y posicionamiento como solución cloud de mantenimiento. Su mensaje se orienta a mejorar organización, uptime, gestión de activos y eficiencia del equipo. | UpKeep utiliza una estrategia basada en producto mobile-first, demostraciones, contenido educativo, comparativas de software CMMS, casos de uso y comunicación orientada a técnicos y equipos de campo. Su marketing destaca rapidez, facilidad, IA y gestión desde cualquier dispositivo. | IBM Maximo utiliza marketing empresarial, ventas consultivas, partners tecnológicos, eventos corporativos, documentación técnica, casos de éxito, integración con el ecosistema IBM y posicionamiento en transformación digital industrial. Su estrategia se dirige a tomadores de decisión de grandes organizaciones y áreas de operaciones, TI, mantenimiento y confiabilidad. |
+| **Perfil de Producto — Productos & Servicios** | TexCheck ofrece una plataforma Web y Mobile con módulos de registro de activos, ficha técnica de maquinaria, historial técnico, programación de mantenimiento preventivo, checklists, alertas automáticas, gestión de fallas, asignación de responsables, reportes, dashboards e indicadores como cumplimiento preventivo, activos fuera de servicio, fallas activas y mantenimientos vencidos. También puede incluir servicios de capacitación, onboarding, soporte inicial y configuración básica para empresas textiles. | Fiix ofrece gestión de activos, órdenes de trabajo, mantenimiento preventivo, inventario, reportes, integraciones y herramientas de IA. Su plataforma permite a las empresas planificar, rastrear y optimizar tareas de mantenimiento, además de mejorar la visibilidad del rendimiento de activos. | UpKeep ofrece CMMS, gestión de órdenes de trabajo, mantenimiento preventivo, checklists, seguimiento de tiempo y costos, inventario, lecturas de medidores, códigos de barras, reportes, analítica, funcionalidades offline en planes superiores y herramientas de IA como Nova y Smart Checklist Builder. | IBM Maximo ofrece módulos de mantenimiento, gestión de activos, inspección visual, field service management, inventario MRO, monitoreo, mantenimiento predictivo, movilidad, integraciones, analítica e inteligencia artificial. IBM indica que su CMMS ayuda a automatizar órdenes de trabajo, flujos, programación laboral y gestión de materiales. |
+| **Perfil de Producto — Precios & Costos** | TexCheck puede aplicar un modelo SaaS mensual accesible y escalable según número de máquinas, usuarios y funcionalidades. Una propuesta inicial podría ser: **Plan Básico** para microempresas textiles con registro de activos, historial y alertas básicas; **Plan Pro** para pequeñas empresas con mantenimiento preventivo, checklists, fallas y reportes; **Plan Enterprise** para empresas con múltiples sedes, roles avanzados, dashboards e integraciones. Su ventaja es ofrecer precios más adaptados a pymes textiles peruanas que plataformas globales con costos por usuario en dólares. | Fiix maneja planes por suscripción. Sus planes suelen ser flexibles, con suscripción mensual o anual y posibilidad de avanzar a planes superiores según el crecimiento de la operación. Referencialmente, algunas plataformas de comparación reportan precios desde aproximadamente **USD 45 por usuario al mes**, aunque estos precios pueden variar según plan, país y condiciones comerciales. | UpKeep ofrece precios por usuario y por mes. Referencialmente, algunas plataformas de comparación muestran planes desde aproximadamente **USD 45 por usuario/mes** y planes profesionales desde aproximadamente **USD 75 por usuario/mes**, aunque también existen fuentes que reportan precios de entrada menores según modalidad o plan consultado. Por ello, el costo debe considerarse referencial y sujeto a variación. | IBM Maximo no se presenta como una solución de precio simple por usuario para pymes. Su modelo se basa en paquetes client-managed o SaaS y utiliza un sistema de licenciamiento por créditos llamado **AppPoints**, que permite agregar funcionalidades y usuarios según el consumo. Esto lo vuelve flexible para grandes organizaciones, pero más complejo para pequeñas empresas que buscan costos simples y previsibles. |
+| **Perfil de Producto — Canales de distribución Web y/o Móvil** | TexCheck se distribuirá mediante una plataforma Web para líderes operativos y jefes de mantenimiento, y una versión Mobile o responsive para técnicos en planta. La versión Web permitirá dashboards, reportes, programación y administración de activos. La versión móvil permitirá registrar intervenciones, subir evidencias, completar checklists, recibir alertas y consultar historial desde la zona de producción. | Fiix funciona como plataforma cloud/web y cuenta con capacidades orientadas a la gestión digital de mantenimiento. Su propuesta se centra en el acceso a información, reportes, activos y órdenes de trabajo mediante una plataforma digital integrada. | UpKeep tiene una orientación claramente mobile-first. Su plataforma permite crear y completar órdenes de trabajo desde cualquier dispositivo, agregar fotos, completar checklists y actualizar información en tiempo real. Además, su página de precios menciona funciones móviles offline en planes superiores. | IBM Maximo ofrece acceso Web y móvil. Maximo Mobile se integra con Maximo Manage para ofrecer aplicaciones de inspección, órdenes de trabajo de técnicos, activos e inventario en dispositivos Android, iOS y Windows. |
+| **Análisis SWOT — Fortalezas** | Especialización en empresas textiles peruanas. Plataforma pensada para usuarios con distintos niveles de experiencia tecnológica. Enfoque en pymes, con menor complejidad que soluciones empresariales. Módulos alineados con necesidades reales: activos, historial, mantenimiento preventivo, checklists, alertas, fallas y reportes. Mayor cercanía al mercado local. Posibilidad de capacitación directa y soporte personalizado. Propuesta de valor alineada con un sector donde predominan micro y pequeñas empresas. | Marca reconocida dentro del mercado CMMS. Plataforma cloud madura. Funcionalidades amplias para mantenimiento, activos, inventario, reportes e integraciones. Presencia internacional. Herramientas de IA y enfoque en optimización de activos. | Enfoque mobile-first fuerte. Buena adaptación para técnicos en campo. Funcionalidades prácticas como fotos, checklists, órdenes de trabajo, mantenimiento preventivo y actualizaciones en tiempo real. Posicionamiento claro hacia equipos operativos. | Alta robustez empresarial. Integración con el ecosistema IBM. Capacidades avanzadas de mantenimiento predictivo, inspecciones, inventario, analítica e IA. Adecuado para organizaciones grandes y operaciones críticas. |
+| **Análisis SWOT — Debilidades** | Al ser una startup, TexCheck todavía no cuenta con reconocimiento de marca, casos de éxito consolidados ni base amplia de clientes. Puede enfrentar dificultades iniciales de adopción por resistencia al cambio en empresas acostumbradas a Excel, papel o WhatsApp. También puede tener limitaciones iniciales en integraciones avanzadas, IA predictiva o conexión con sensores industriales. | Puede resultar costoso para empresas pequeñas si se cobra por usuario en dólares. Su enfoque generalista no necesariamente responde a particularidades del sector textil peruano. Puede requerir mayor configuración para adaptarse a procesos específicos. | Su costo por usuario puede crecer al aumentar el equipo. Algunas funciones avanzadas, como analítica completa, offline, dashboards personalizados o integraciones, pueden depender de planes superiores. No está especializado en textiles peruanas. | Puede ser demasiado complejo y costoso para pymes textiles. Su modelo de AppPoints puede ser difícil de comprender para empresas que buscan una solución simple. Requiere mayor inversión, capacitación, configuración e integración tecnológica. |
+| **Análisis SWOT — Oportunidades** | Crecimiento del mercado CMMS a nivel global. Necesidad de digitalización en pymes industriales. Alta concentración de empresas textiles en Lima, lo que facilita pilotos y ventas B2B locales. Oportunidad de reemplazar Excel, papel y WhatsApp por una herramienta especializada. Potencial de integrar progresivamente IA, IoT o analítica predictiva. El sector textil peruano mostró recuperación en 2024, con crecimiento de **+10.1%** en producción textil y confecciones frente a 2023. | Puede expandirse a más industrias que buscan digitalizar mantenimiento. El crecimiento global del CMMS favorece su adopción. También puede aprovechar la demanda de IA, reportes y mantenimiento preventivo. | Puede crecer en empresas que priorizan movilidad y rapidez operativa. La tendencia a gestionar mantenimiento desde dispositivos móviles favorece su propuesta. La adopción de IA también puede fortalecer su posicionamiento. | Puede aprovechar la demanda de grandes empresas por mantenimiento predictivo, monitoreo avanzado, gestión de activos críticos, IA e integración empresarial. También puede beneficiarse de proyectos de transformación digital industrial. |
+| **Análisis SWOT — Amenazas** | Competencia de plataformas globales con mayor presupuesto, funcionalidades avanzadas y reconocimiento. Resistencia al cambio de empresas textiles que prefieren procesos manuales. Posible dificultad para demostrar retorno de inversión en etapas iniciales. Riesgo de que competidores internacionales reduzcan precios o lancen planes para pymes. Dependencia de la conectividad y disposición tecnológica dentro de planta. | Competidores mobile-first como UpKeep pueden captar usuarios que priorizan facilidad operativa. Soluciones empresariales como IBM Maximo pueden captar empresas grandes. Startups locales podrían competir con precios más bajos o mayor adaptación regional. | Competidores con mayor profundidad empresarial pueden atraer a empresas grandes. Soluciones locales pueden ofrecer precios más bajos. También enfrenta presión por diferenciación, ya que varias plataformas CMMS ya ofrecen movilidad, checklists y órdenes de trabajo. | Soluciones más simples y económicas pueden captar pymes que no necesitan una suite empresarial completa. La complejidad del producto puede alejar a empresas medianas o pequeñas. También enfrenta competencia de plataformas CMMS más ágiles y especializadas. |
 
-  <td align="center">
-    Nuestra Startup<br>
-    <img src="/docs/images/TexCheck.png" alt="MindFlow" height="80">
-  </td>
+## Análisis SWOT detallado
 
-  <td align="center">
-    IBM Maximo<br>
-    <img src="/docs/images/ibm.png" alt="MindFlow" height="80">
-  </td>
-
-  <td align="center">
-    Fiix CMMS<br>
-    <img src="/docs/images/fiix.png" alt="MindFlow" height="80">
-  </td>
-
-  <td align="center">
-    UpKeep<br>
-    <img src="/docs/images/upkeep.png" alt="MindFlow" height="80">
-  </td>
-</tr>
-  <tr>
-  </tr>
-  <tr>
-    <td rowspan="2" valign="top">Perfil</td>
-    <td valign="top">Overview</td>
-    <td valign="top">
-      Plataforma digital enfocada en la gestión de mantenimiento preventivo en la industria textil, con control de activos, programación automatizada y reportes en tiempo real.
-    </td>
-    <td valign="top">
-      Sistema avanzado de gestión de activos empresariales (EAM) orientado a grandes corporaciones con analítica compleja.
-    </td>
-    <td valign="top">
-      Software CMMS basado en la nube que permite gestionar órdenes de trabajo, activos y mantenimiento preventivo.
-    </td>
-    <td valign="top">
-      Aplicación móvil de mantenimiento enfocada en técnicos para gestionar tareas y reportes rápidamente.
-    </td>
-  </tr>
-  <tr>
-    <td valign="top">Ventaja competitiva ¿Qué valor ofrece a los clientes?</td>
-    <td valign="top">
-      Especialización en el sector textil, facilidad de uso, implementación rápida y enfoque en reducción de downtime mediante mantenimiento preventivo.
-    </td>
-    <td valign="top">
-      Alta capacidad de personalización, escalabilidad y analítica avanzada.
-    </td>
-    <td valign="top">
-      Interfaz amigable y rápida implementación en la nube.
-    </td>
-    <td valign="top">
-      Enfoque mobile-first y facilidad de uso para técnicos operativos.
-    </td>
-  </tr>
-  <tr>
-    <td rowspan="2" valign="top">Perfil de Marketing</td>
-    <td valign="top">Mercado objetivo</td>
-    <td valign="top">
-      Empresas textiles pequeñas y medianas que buscan digitalizar su mantenimiento.
-    </td>
-    <td valign="top">
-      Grandes empresas industriales con alta complejidad operativa.
-    </td>
-    <td valign="top">
-      Empresas medianas que buscan soluciones CMMS accesibles.
-    </td>
-    <td valign="top">
-      Técnicos y equipos de mantenimiento en diversas industrias.
-    </td>
-  </tr>
-  <tr>
-    <td valign="top">Estrategias de marketing</td>
-    <td valign="top">
-      Enfoque en nicho textil, demostraciones prácticas, contenido educativo sobre mantenimiento preventivo.
-    </td>
-    <td valign="top">
-      Ventas corporativas, consultoría especializada y alianzas estratégicas.
-    </td>
-    <td valign="top">
-      Marketing digital, pruebas gratuitas y contenido educativo.
-    </td>
-    <td valign="top">
-      Promoción en apps móviles, enfoque en facilidad de uso y rapidez.
-    </td>
-  </tr>
-  <tr>
-    <td rowspan="3" valign="top">Perfil de Producto</td>
-    <td valign="top">Productos & Servicios</td>
-    <td valign="top">
-      Gestión de activos, mantenimiento preventivo, alertas en tiempo real, reportes y dashboards.
-    </td>
-    <td valign="top">
-      Gestión integral de activos empresariales y analítica avanzada.
-    </td>
-    <td valign="top">
-      Gestión de mantenimiento, órdenes de trabajo y reportes.
-    </td>
-    <td valign="top">
-      Gestión de tareas, checklists y reportes móviles.
-    </td>
-  </tr>
-  <tr>
-    <td valign="top">Precios & Costos</td>
-    <td valign="top">
-      Modelo accesible por suscripción mensual orientado a pymes.
-    </td>
-    <td valign="top">
-      Alto costo de implementación y licencias empresariales.
-    </td>
-    <td valign="top">
-      Planes escalables según funcionalidades.
-    </td>
-    <td valign="top">
-      Suscripción mensual con enfoque en equipos pequeños.
-    </td>
-  </tr>
-  <tr>
-    <td valign="top">Canales de distribución</td>
-    <td valign="top">
-      Web y aplicación móvil multiplataforma.
-    </td>
-    <td valign="top">
-      Software empresarial implementado con soporte especializado.
-    </td>
-    <td valign="top">
-      Plataforma web en la nube.
-    </td>
-    <td valign="top">
-      Aplicación móvil y web.
-    </td>
-  </tr>
-  <tr>
-    <td rowspan="4" valign="top">Análisis SWOT</td>
-    <td valign="top">Fortalezas</td>
-    <td valign="top">
-      Especialización en textil, facilidad de uso, implementación rápida.
-    </td>
-    <td valign="top">
-      Alta escalabilidad y robustez.
-    </td>
-    <td valign="top">
-      Interfaz intuitiva y rápida adopción.
-    </td>
-    <td valign="top">
-      Uso sencillo y enfoque mobile.
-    </td>
-  </tr>
-  <tr>
-    <td valign="top">Debilidades</td>
-    <td valign="top">
-      Nueva en el mercado, menor reconocimiento de marca.
-    </td>
-    <td valign="top">
-      Complejidad y alto costo.
-    </td>
-    <td valign="top">
-      Funcionalidades limitadas en planes básicos.
-    </td>
-    <td valign="top">
-      Limitada personalización.
-    </td>
-  </tr>
-  <tr>
-    <td valign="top">Oportunidades</td>
-    <td valign="top">
-      Crecimiento de la digitalización en pymes textiles.
-    </td>
-    <td valign="top">
-      Expansión en mercados globales.
-    </td>
-    <td valign="top">
-      Captar empresas en transición digital.
-    </td>
-    <td valign="top">
-      Expansión en nuevas industrias.
-    </td>
-  </tr>
-  <tr>
-    <td valign="top">Amenazas</td>
-    <td valign="top">
-      Competencia de soluciones consolidadas.
-    </td>
-    <td valign="top">
-      Competidores más accesibles.
-    </td>
-    <td valign="top">
-      Saturación de herramientas CMMS.
-    </td>
-    <td valign="top">
-      Nuevas apps con mayor funcionalidad.
-    </td>
-  </tr>
-</table>
-
+| Startup / Competidor | Fortalezas | Debilidades | Oportunidades | Amenazas |
+|---|---|---|---|---|
+| **TexCheck** | TexCheck cuenta con una propuesta especializada en el sector textil peruano, lo cual le permite diseñar flujos de mantenimiento ajustados a la realidad de pequeñas y medianas empresas textiles. Su principal fortaleza es que no busca ser un CMMS genérico, sino una solución enfocada en registrar maquinaria textil, programar mantenimientos preventivos, gestionar fallas, mantener historial técnico y emitir alertas comprensibles para líderes operativos y técnicos. Además, puede ofrecer una experiencia más simple y cercana que las plataformas internacionales, con capacitación local, precios adaptados al mercado peruano y soporte directo. | Su principal debilidad es que, al ser una startup en etapa inicial, todavía no cuenta con reconocimiento de marca, historial de clientes, casos de éxito, integraciones avanzadas o capacidades predictivas consolidadas. También puede enfrentar limitaciones presupuestarias frente a competidores globales. Otra debilidad es que la adopción dependerá de la disposición de empresas textiles a abandonar registros físicos, Excel y coordinación informal. | Existe una oportunidad clara en el sector textil peruano, donde PRODUCE registró 46,693 empresas formales en 2023, con 95.4% microempresas y 4.0% pequeñas empresas. Esto muestra un mercado amplio de empresas que podrían necesitar soluciones accesibles y menos complejas que las plataformas empresariales globales. Además, el mercado global de CMMS crecería de USD 1.29 mil millones en 2024 a USD 2.41 mil millones en 2030, lo cual confirma una tendencia favorable hacia la digitalización del mantenimiento. | TexCheck enfrenta amenazas como la entrada de competidores internacionales con más recursos, la resistencia al cambio tecnológico, la baja formalización de algunos procesos industriales, la sensibilidad al precio en pymes y la posibilidad de que empresas sigan prefiriendo Excel o WhatsApp por costumbre. También puede verse afectada si competidores consolidados lanzan versiones más económicas para pequeñas empresas. |
+| **Fiix CMMS** | Fiix tiene como fortaleza ser una plataforma CMMS cloud reconocida, con herramientas para gestión de activos, órdenes de trabajo, mantenimiento preventivo, inventario, reportes, integraciones e IA. Su madurez funcional le permite atender empresas de distintos sectores y tamaños. Además, su comunicación comercial está orientada a mejorar la organización del mantenimiento y optimizar el rendimiento de activos. | Su debilidad frente a TexCheck es que no está especializada en el sector textil peruano. Puede resultar más generalista y requerir configuración adicional para adaptarse a procesos específicos de plantas textiles. Además, sus precios referenciales en dólares pueden ser una barrera para pymes locales, especialmente si se calculan por usuario. | Puede aprovechar el crecimiento del mercado CMMS y la necesidad global de reducir downtime. También tiene oportunidad de fortalecer sus capacidades con IA, integraciones y reportes avanzados. El crecimiento de la digitalización industrial puede aumentar su adopción en empresas que buscan dejar procesos manuales. | Puede enfrentar presión de competidores mobile-first, soluciones más económicas, plataformas EAM empresariales y startups especializadas por industria. En mercados como Perú, una solución local con menor costo y mayor adaptación puede ser más atractiva para pymes. |
+| **UpKeep** | UpKeep tiene una fortaleza clara en movilidad. Su plataforma permite que los técnicos creen y completen órdenes de trabajo desde cualquier dispositivo, adjunten fotos, usen checklists y actualicen información en tiempo real. Esta orientación mobile-first resulta muy útil para equipos de mantenimiento que trabajan en planta o en campo. Además, incorpora IA y automatización para reducir tareas administrativas. | Su debilidad es que, aunque facilita el trabajo operativo, no está enfocada específicamente en empresas textiles peruanas. Su costo por usuario puede aumentar a medida que crece el equipo. Además, funciones como reportes avanzados, modo offline, dashboards personalizados o integraciones pueden depender de planes superiores. | Tiene oportunidad de crecer en empresas que buscan soluciones móviles y rápidas para mantenimiento. La tendencia hacia trabajo operativo desde celulares y tablets fortalece su propuesta. También puede beneficiarse del interés por IA aplicada a mantenimiento y automatización. | Sus amenazas incluyen competidores con funciones similares, soluciones locales más económicas y plataformas empresariales más completas. También puede tener dificultades en mercados donde las pymes buscan precios más bajos, soporte local o adaptación sectorial específica. |
+| **IBM Maximo Application Suite** | IBM Maximo tiene como fortaleza su robustez empresarial, escalabilidad y profundidad funcional. Integra mantenimiento, gestión de activos, inventario, inspecciones, field service, analítica, IA y mantenimiento predictivo. También cuenta con el respaldo de IBM y un ecosistema tecnológico amplio. Es una solución adecuada para empresas con operaciones críticas, múltiples activos, integración empresarial y necesidades avanzadas de confiabilidad. | Su principal debilidad frente a TexCheck es la complejidad. Para una pyme textil, IBM Maximo puede ser demasiado amplio, costoso y difícil de implementar. Su modelo de licenciamiento por AppPoints puede ser flexible para grandes empresas, pero menos comprensible para organizaciones que buscan una suscripción simple y accesible. | Puede aprovechar la transformación digital industrial, el crecimiento del mantenimiento predictivo y la necesidad de grandes empresas por integrar activos, datos, sensores, inspecciones y reportes en un solo ecosistema. También puede beneficiarse de la creciente preocupación por el costo del downtime, que Siemens estima en USD 1.4 billones anuales para las 500 empresas más grandes del mundo. | Sus amenazas son las soluciones CMMS más simples, económicas y rápidas de implementar. Para empresas medianas o pequeñas, plataformas como TexCheck pueden ser más atractivas por su facilidad de uso, precio accesible y adaptación local. También puede perder oportunidades en nichos donde no se requiere una suite empresarial completa. |
 
 ### 2.1.2. Estrategias y tácticas frente a competidores.
 
-**Estrategias**
 
-- Diferenciarnos mediante la **especialización en la industria textil**, ofreciendo una solución adaptada a sus procesos y necesidades específicas.
-- Priorizar la **facilidad de uso y rápida adopción**, especialmente para técnicos de mantenimiento que requieren herramientas prácticas en campo.
-- Posicionarnos como una alternativa **más accesible frente a soluciones complejas y costosas**, facilitando la digitalización en pymes.
-- Enfocarnos en una experiencia **mobile-first**, optimizando el uso en celulares y tablets dentro de planta.
-- Generar valor a través de la **prevención de fallas y reducción del downtime**, utilizando datos organizados y alertas en tiempo real.
+A partir del análisis competitivo realizado, TexCheck identifica como competidores indirectos a plataformas CMMS consolidadas como Fiix CMMS, UpKeep e IBM Maximo Application Suite. Estas soluciones cuentan con mayor trayectoria, reconocimiento internacional y funcionalidades avanzadas; sin embargo, también presentan limitaciones para pequeñas y medianas empresas textiles peruanas, debido a sus costos, complejidad de implementación o enfoque generalista.
 
-**Tácticas**
+Frente a este contexto, TexCheck plantea una estrategia competitiva basada en la **especialización en el sector textil peruano**, la **accesibilidad para pymes** y la **facilidad de adopción tecnológica**. La finalidad no es competir directamente con plataformas empresariales de gran escala, sino posicionarse como una alternativa práctica, cercana e intuitiva para empresas que actualmente gestionan sus mantenimientos mediante Excel, registros físicos, WhatsApp o procesos poco trazables.
 
-- Implementar **checklists digitales estandarizados** para la ejecución de mantenimiento preventivo.
-- Desarrollar un sistema de **alertas automáticas y notificaciones en tiempo real** para tareas programadas.
-- Crear un proceso de **onboarding simple y guiado** para nuevos usuarios (técnicos y jefes de planta).
-- Diseñar dashboards con **indicadores clave (KPIs)** para monitorear el estado de los activos.
-- Permitir el **registro rápido de incidencias desde dispositivos móviles**, reduciendo tiempos operativos.
-- Incorporar mejoras continuas basadas en **feedback directo de los usuarios** en planta.
+### Estrategia de diferenciación especializada
+
+TexCheck buscará diferenciarse mediante una propuesta enfocada en las necesidades reales de las empresas textiles. A diferencia de Fiix, UpKeep e IBM Maximo, que son soluciones orientadas a múltiples industrias, TexCheck se centrará en procesos propios de plantas textiles, como el registro de maquinaria, la programación de mantenimientos preventivos, la gestión de fallas recurrentes y el historial técnico de cada activo.
+
+Como táctica, la plataforma incluirá módulos y flujos adaptados a maquinaria textil, tales como máquinas de confección, remalladoras, bordadoras, cortadoras y equipos industriales. Además, usará un lenguaje claro para líderes operativos y personal de mantenimiento, evitando una experiencia demasiado técnica o compleja.
+
+### Estrategia de accesibilidad económica
+
+TexCheck aprovechará la debilidad de sus competidores relacionada con costos elevados o modelos de licenciamiento complejos. Para ello, aplicará un modelo SaaS accesible y escalable, según la cantidad de usuarios, máquinas registradas y funcionalidades requeridas.
+
+Como táctica, se plantean planes diferenciados para micro, pequeñas y medianas empresas textiles. También se podrán ofrecer demostraciones, pruebas piloto y periodos de validación para que las empresas comprueben el valor de la plataforma antes de contratar un plan completo.
+
+### Estrategia de facilidad de uso e implementación rápida
+
+Una amenaza importante para TexCheck es la resistencia al cambio tecnológico, ya que muchas empresas textiles aún utilizan registros manuales, hojas de cálculo o comunicación informal. Por ello, la plataforma debe ser sencilla, intuitiva y rápida de implementar.
+
+Como táctica, TexCheck organizará su interfaz en módulos claros: activos, mantenimientos, fallas, alertas, historial y reportes. Asimismo, se incluirán tutoriales básicos, mensajes de ayuda y acompañamiento inicial para facilitar la adopción por parte de usuarios con distintos niveles de experiencia tecnológica.
+
+### Estrategia móvil para el trabajo en planta
+
+Frente a competidores como UpKeep, que destacan por su enfoque mobile-first, TexCheck deberá fortalecer su acceso móvil o responsive. Esto permitirá que el personal de mantenimiento registre información directamente desde la planta, sin depender de una computadora fija.
+
+Como táctica, la versión móvil permitirá reportar fallas, completar checklists, registrar observaciones, subir evidencias, actualizar estados y cerrar intervenciones desde un celular o tablet. Se priorizarán formularios cortos, botones visibles y alertas claras para facilitar el uso durante la operación diaria.
+
+### Estrategia de comunicación basada en valor operativo
+
+TexCheck comunicará su propuesta no solo como un software de mantenimiento, sino como una herramienta para reducir desorden, evitar pérdida de información, mejorar la trazabilidad y anticipar fallas. Esta estrategia permitirá que los usuarios comprendan mejor el beneficio directo de adoptar la plataforma.
+
+Como táctica, se usarán mensajes comerciales concretos como: “consulta el historial de una máquina en segundos”, “recibe alertas antes de que venza un mantenimiento” o “organiza las tareas del equipo técnico desde una sola plataforma”. Estos mensajes estarán dirigidos a jefes de planta, líderes operativos, supervisores y técnicos de mantenimiento.
+
+### Estrategia de entrada al mercado local
+
+TexCheck iniciará su posicionamiento en Lima Metropolitana y Callao, debido a la concentración de empresas textiles y manufactureras en estas zonas. Esta estrategia facilitará las visitas comerciales, demostraciones presenciales y validaciones iniciales con empresas reales.
+
+Como táctica, se buscará contactar pymes textiles, realizar pilotos controlados, participar en espacios relacionados con el sector industrial y recopilar testimonios de los primeros usuarios. Esto permitirá construir confianza y diferenciar a TexCheck frente a soluciones internacionales.
+
+### Estrategia de mejora continua
+
+Aunque TexCheck iniciará con funcionalidades esenciales, deberá evolucionar progresivamente para reducir la brecha frente a competidores más avanzados. En una primera etapa, se priorizarán funciones como registro de activos, historial técnico, planificación preventiva, alertas y gestión de fallas.
+
+Posteriormente, se podrán incorporar dashboards avanzados, indicadores como MTBF y MTTR, reportes descargables, roles personalizados, integración con sensores IoT y analítica predictiva básica. Esta evolución permitirá que TexCheck mantenga su simplicidad inicial, pero aumente su valor competitivo con el tiempo.
+
+### Conclusión
+
+En síntesis, TexCheck enfrentará a sus competidores mediante una estrategia basada en especialización, accesibilidad, simplicidad y cercanía al mercado local. La plataforma aprovechará las debilidades de las soluciones globales, como su enfoque generalista, costos elevados y complejidad, para posicionarse como una alternativa más adecuada para pequeñas y medianas empresas textiles peruanas que buscan digitalizar su gestión de mantenimiento industrial.
+
 
 ## 2.2. Entrevistas.
 ### 2.2.1. Diseño de entrevistas.
@@ -475,7 +328,7 @@ Antes de comenzar, me gustaría conocer un poco más sobre ti para poder entende
 
   <!-- Imagen de la captura de pantalla -->
   <div style="background-color: #138dffa4; padding: 12px 16px 16px;">
-    <img src="/docs/images/Carlos.png" alt="Captura de entrevista" style="width: 100%; border-radius: 3px; display: block;">
+    <img src="../images/Carlos.png" alt="Captura de entrevista" style="width: 100%; border-radius: 3px; display: block;">
   </div>
 
   <!-- Datos en dos columnas -->
@@ -511,7 +364,8 @@ Antes de comenzar, me gustaría conocer un poco más sobre ti para poder entende
     <tr>
       <td style="padding: 7px 14px; border: 1px solid #138dffa4;">
         <strong>Link de la entrevista:</strong>
-        <a href="https://youtu.be/4l_g1qi_1jA" style="color: #138dffa4;">https://youtu.be/4l_g1qi_1jA</a>
+        <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u20241a649_upc_edu_pe/IQCYkT4CzK0aTI93vswRka05AXao4RtU9u95Nk0_dNoNJcs?e=XTqIwh
+" style="color: #138dffa4;">https://youtu.be/4l_g1qi_1jA</a>
       </td>
     </tr>
   </table>
@@ -539,7 +393,7 @@ Antes de comenzar, me gustaría conocer un poco más sobre ti para poder entende
 
   <!-- Imagen de la captura de pantalla -->
   <div style="background-color: #138dffa4; padding: 12px 16px 16px;">
-    <img src="/docs/images/Claudia.png" alt="Captura de entrevista" style="width: 100%; border-radius: 3px; display: block;">
+    <img src="../images/Claudia.png" alt="Captura de entrevista" style="width: 100%; border-radius: 3px; display: block;">
   </div>
 
   <!-- Datos en dos columnas -->
@@ -575,7 +429,8 @@ Antes de comenzar, me gustaría conocer un poco más sobre ti para poder entende
     <tr>
       <td style="padding: 7px 14px; border: 1px solid #138dffa4;">
         <strong>Link de la entrevista:</strong>
-        <a href="https://youtu.be/EEKWHsld94o" style="color: #138dffa4;">https://youtu.be/EEKWHsld94o</a>
+        <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u20241a649_upc_edu_pe/IQCYa-KL9X3aT7zog-URlgdVAfWCY2df825KCcm_VuoMdTE?e=qUbEr5
+" style="color: #138dffa4;">https://youtu.be/EEKWHsld94o</a>
       </td>
     </tr>
   </table>
@@ -602,7 +457,7 @@ Antes de comenzar, me gustaría conocer un poco más sobre ti para poder entende
 
   <!-- Imagen de la captura de pantalla -->
   <div style="background-color: #138dffa4; padding: 12px 16px 16px;">
-    <img src="/docs/images/Carolina.png" alt="Captura de entrevista" style="width: 100%; border-radius: 3px; display: block;">
+    <img src="../images/Carolina.png" alt="Captura de entrevista" style="width: 100%; border-radius: 3px; display: block;">
   </div>
 
   <!-- Datos en dos columnas -->
@@ -638,7 +493,8 @@ Antes de comenzar, me gustaría conocer un poco más sobre ti para poder entende
     <tr>
       <td style="padding: 7px 14px; border: 1px solid #138dffa4;">
         <strong>Link de la entrevista:</strong>
-        <a href="https://youtu.be/YHS-4NJCxK0" style="color: #138dffa4;">https://youtu.be/YHS-4NJCxK0</a>
+        <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u20241a649_upc_edu_pe/IQDAxURxpfPdTJN_hZCLpeuPAfostEz5mK8vOuC94QKYsHs?e=q2fdik
+" style="color: #138dffa4;">https://youtu.be/YHS-4NJCxK0</a>
       </td>
     </tr>
   </table>
@@ -665,7 +521,7 @@ Ante esta situación, la empresa considera necesario implementar un software de 
 
   <!-- Imagen de la captura de pantalla -->
   <div style="background-color: #138dffa4; padding: 12px 16px 16px;">
-    <img src="/docs/images/SebastianC.png" alt="Captura de entrevista" style="width: 100%; border-radius: 3px; display: block;">
+    <img src="../images/SebastianC.png" alt="Captura de entrevista" style="width: 100%; border-radius: 3px; display: block;">
   </div>
 
   <!-- Datos en dos columnas -->
@@ -701,7 +557,8 @@ Ante esta situación, la empresa considera necesario implementar un software de 
     <tr>
       <td style="padding: 7px 14px; border: 1px solid #138dffa4;">
         <strong>Link de la entrevista:</strong>
-        <a href="https://youtu.be/vAGy0cUlMiA" style="color: #138dffa4;">https://youtu.be/vAGy0cUlMiA</a>
+        <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u20241a649_upc_edu_pe/IQBr1j564p_XTJ2XARgapQSDAcck1Gk81ARgcZiPatHpQv4?e=jBhi6r
+" style="color: #138dffa4;">https://youtu.be/vAGy0cUlMiA</a>
       </td>
     </tr>
   </table>
@@ -730,7 +587,7 @@ Ante esta situación, la empresa considera necesario implementar un software de 
 
   <!-- Imagen de la captura de pantalla -->
   <div style="background-color: #138dffa4; padding: 12px 16px 16px;">
-    <img src="/docs/images/fernando.png" alt="Captura de entrevista" style="width: 100%; border-radius: 3px; display: block;">
+    <img src="../images/fernando.png" alt="Captura de entrevista" style="width: 100%; border-radius: 3px; display: block;">
   </div>
 
   <!-- Datos en dos columnas -->
@@ -766,7 +623,8 @@ Ante esta situación, la empresa considera necesario implementar un software de 
     <tr>
       <td style="padding: 7px 14px; border: 1px solid #138dffa4;">
         <strong>Link de la entrevista:</strong>
-        <a href="https://youtu.be/F4Qqx1uudzY" style="color: #138dffa4;">https://youtu.be/F4Qqx1uudzY</a>
+        <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u20241a649_upc_edu_pe/IQDknWtBn86jRbvaFKn9OBjSAZe-V2SoeFhUzmvsWCH4hrU?e=vbC7RF
+" style="color: #138dffa4;">https://youtu.be/F4Qqx1uudzY</a>
       </td>
     </tr>
   </table>
@@ -793,7 +651,7 @@ Frente a ello, el entrevistado considera necesaria la implementación de una her
 
   <!-- Imagen de la captura de pantalla -->
   <div style="background-color: #138dffa4; padding: 12px 16px 16px;">
-    <img src="/docs/images/carlosm.png" alt="Captura de entrevista" style="width: 100%; border-radius: 3px; display: block;">
+    <img src="../images/carlosm.png" alt="Captura de entrevista" style="width: 100%; border-radius: 3px; display: block;">
   </div>
 
   <!-- Datos en dos columnas -->
@@ -829,7 +687,7 @@ Frente a ello, el entrevistado considera necesaria la implementación de una her
     <tr>
       <td style="padding: 7px 14px; border: 1px solid #138dffa4;">
         <strong>Link de la entrevista:</strong>
-        <a href="https://youtu.be/lcjoVHlBCKM" style="color: #138dffa4;">https://youtu.be/lcjoVHlBCKM</a>
+        <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u20241a649_upc_edu_pe/IQBwdZcKJQzrTpODSZngeRVTAWlN7lmZLehqVHTcSGHQ_B8?e=vsktM4 " style="color: #138dffa4;">https://youtu.be/lcjoVHlBCKM</a>
       </td>
     </tr>
   </table>
@@ -848,130 +706,356 @@ Finalmente, resalta que para garantizar su uso, el sistema debe ser sencillo, r�
 
 ### 2.2.3. Análisis de entrevistas.
 
-En esta fase se realizaron 6 entrevistas semiestructuradas a profesionales del sector textil, incluyendo Directores y Gerentes de Producción / Dueños (Los Decisores) y Jefes de Mantenimiento y Técnicos (Usuarios). El objetivo fue identificar dificultades en la gestión del mantenimiento y analizar el uso de herramientas en su entorno laboral.
+# Segmento 1: Directores y Gerentes de Producción / Dueños
 
-El análisis permitió detectar patrones comunes como el uso de métodos manuales, la falta de sistemas centralizados y la ausencia de un enfoque preventivo. Asimismo, se identificó la necesidad de implementar soluciones digitales que optimicen el control, la organización y la eficiencia de los procesos.
+El primer segmento está conformado por tres entrevistados: Carlos Antonio Geldres Cortés, Claudia Sánchez y Carolina Andrea Palma Flores. Este grupo representa a los usuarios decisores, ya que ocupan roles vinculados a la dirección, gerencia, propiedad o gestión operativa dentro de empresas textiles. Sus respuestas se relacionan principalmente con la continuidad de la producción, el impacto económico de las fallas, la toma de decisiones y la necesidad de mayor control sobre el estado de la maquinaria.
 
-### Segmento #1: Directores y Gerentes de Producción / Dueños (Los Decisores):
+## 1. Datos generales del segmento
 
-**Hallazgos**
+| Característica | Resultado | Porcentaje |
+|---|---:|---:|
+| Total de entrevistados | 3 personas | 100% |
+| Entrevistados hombres | 1 persona | 33.3% |
+| Entrevistadas mujeres | 2 personas | 66.7% |
+| Edad entre 27 y 30 años | 3 personas | 100% |
+| Residencia en San Miguel | 2 personas | 66.7% |
+| Residencia en Callao | 1 persona | 33.3% |
+| Experiencia aproximada de 5 años en el rubro | 2 personas | 66.7% |
+| Ocupan cargos de decisión o dirección | 3 personas | 100% |
 
-- El 100% de los entrevistados indicó que la gestión del mantenimiento se realiza de forma manual, lo que evidencia la falta de digitalización en los procesos.
-- El 100% señaló que las fallas en las máquinas generan un impacto alto en la producción, afectando directamente los tiempos de entrega y los costos operativos.
-- El 100% manifestó su interés en implementar un software de gestión, lo que refleja una clara disposición hacia la adopción de soluciones tecnológicas.
-- El 100% prioriza funcionalidades como alertas preventivas, control en tiempo real y generación de reportes, lo que define las características esenciales que debe tener la solución.
-- El 100% prioriza funcionalidades como alertas preventivas, historial de mantenimiento y control en tiempo real. El 67% también mencionó acceso remoto y generación de reportes como características deseables.
+## 2. Herramientas actuales usadas para gestionar mantenimiento
 
-**Gestión del mantenimiento realizada de forma manual**
+| Herramienta o método mencionado | Entrevistados que lo mencionan | Porcentaje |
+|---|---:|---:|
+| Uso de Excel u hojas de cálculo | 3 de 3 | 100% |
+| Uso de registros físicos o manuales | 2 de 3 | 66.7% |
+| Coordinación directa con el equipo técnico | 2 de 3 | 66.7% |
+| Ausencia de un sistema centralizado especializado | 3 de 3 | 100% |
+| Dependencia de la experiencia del equipo técnico | 2 de 3 | 66.7% |
 
-  <img src="/docs/images/hallazgo1-s1.png" alt="Gestión del mantenimiento realizada de forma manual"/>
+Los resultados muestran que el **100% de los decisores entrevistados** utiliza herramientas básicas como Excel u hojas de cálculo para gestionar el mantenimiento. Esto evidencia que las empresas ya realizan algún tipo de registro, pero no cuentan con una plataforma especializada que centralice la información, permita monitoreo en tiempo real o facilite la toma de decisiones.
 
-El 100% de los entrevistados gestiona el mantenimiento con Excel, libretas o cuadernillas. Ninguno cuenta con un sistema digital especializado. La coordinación depende del seguimiento personal del equipo técnico, lo que genera desorden y falta de trazabilidad.
+Además, el **66.7%** depende de registros físicos o coordinación directa con el equipo técnico, lo cual genera riesgo de pérdida de información, desorden operativo y dificultad para consultar el historial de las máquinas.
 
-**Fallas en máquinas con alto impacto en producción y costos**
+## 3. Problemas identificados en la gestión actual
 
-  <img src="/docs/images/hallazgo2-s2.png" alt="Fallas en máquinas con alto impacto en producción y costos"/>
+| Problema identificado | Entrevistados que lo mencionan | Porcentaje |
+|---|---:|---:|
+| Fallas inesperadas en maquinaria | 3 de 3 | 100% |
+| Interrupciones en la producción | 3 de 3 | 100% |
+| Impacto económico significativo | 3 de 3 | 100% |
+| Pérdida de producción | 2 de 3 | 66.7% |
+| Incremento de costos operativos | 2 de 3 | 66.7% |
+| Incumplimiento de plazos o retrasos en pedidos | 2 de 3 | 66.7% |
+| Desorganización en la gestión del mantenimiento | 2 de 3 | 66.7% |
+| Falta de información en tiempo real | 2 de 3 | 66.7% |
+| Falta de visión integral del estado de las máquinas | 2 de 3 | 66.7% |
 
-El 100% reportó que las fallas inesperadas detienen la producción, desorganizan la planificación y generan presión sobre el equipo. Esto se traduce en retrasos en pedidos, horas extra, costos adicionales de reparación y riesgo de incumplimiento con clientes.
+El problema más representativo de este segmento es la interrupción de la producción causada por fallas inesperadas, ya que fue mencionado por el **100% de los entrevistados**. Esto confirma que la continuidad operativa es una preocupación central para los decisores.
 
-**Interés en implementar un software de gestión de mantenimiento**
+Asimismo, el **100%** reconoce que las fallas tienen un impacto económico significativo. Este impacto se expresa en pérdida de producción, costos adicionales, horas extras, retrasos en pedidos o incumplimientos con clientes.
 
-  <img src="/docs/images/hallazgo3-s1.png" alt="Gestión del mantenimiento realizada de forma manual"/>
+## 4. Necesidades detectadas en el segmento
 
-El 100% ha considerado adoptar un software. Las razones principales son: necesidad de mayor orden, prevención de fallas, reducción de errores humanos y mejora en la toma de decisiones basada en datos. La principal barrera es encontrar una solución simple que no genere carga adicional al equipo.
+| Necesidad identificada | Entrevistados que la mencionan | Porcentaje |
+|---|---:|---:|
+| Contar con historial de mantenimiento | 3 de 3 | 100% |
+| Mejorar la trazabilidad de las intervenciones | 3 de 3 | 100% |
+| Implementar un software de gestión | 3 de 3 | 100% |
+| Recibir alertas preventivas o automatizadas | 3 de 3 | 100% |
+| Tener mayor visibilidad del estado de las máquinas | 2 de 3 | 66.7% |
+| Acceder a reportes personalizados | 1 de 3 | 33.3% |
+| Monitoreo en tiempo real | 2 de 3 | 66.7% |
+| Acceso remoto a la información | 1 de 3 | 33.3% |
+| Integración con otros sistemas | 1 de 3 | 33.3% |
 
-**Factores clave en la decisión de compra**
+El **100% de los entrevistados** considera necesario contar con un historial de mantenimiento, lo cual demuestra que la trazabilidad es una necesidad clave para este segmento. Para los decisores, el historial permite conocer intervenciones anteriores, analizar patrones de fallas y mejorar la toma de decisiones.
 
-  <img src="/docs/images/hallazgo4-s1.png" alt="Gestión del mantenimiento realizada de forma manual"/>
+También se observa que el **100%** muestra interés en implementar un software de gestión. Sin embargo, este interés está condicionado a que la herramienta sea eficiente, sencilla y no genere carga adicional en la operación.
 
-El 100% pone la facilidad de uso y la eficiencia como prioridad absoluta. Si el sistema es complicado, el equipo no lo adoptará. El 67% también considera el precio, pero lo evalúa en función del valor que aporta — si genera resultados, pasa a segundo plano.
+## 5. Criterios de decisión para adoptar una solución digital
 
-**Funcionalidades esenciales que debe tener la solución**
+| Criterio de decisión | Entrevistados que lo mencionan | Porcentaje |
+|---|---:|---:|
+| Facilidad de uso | 3 de 3 | 100% |
+| Eficiencia operativa | 3 de 3 | 100% |
+| Buen valor o relación costo-beneficio | 1 de 3 | 33.3% |
+| Que no genere carga adicional | 1 de 3 | 33.3% |
+| Interfaz intuitiva | 2 de 3 | 66.7% |
+| Control y visibilidad en tiempo real | 2 de 3 | 66.7% |
 
-  <img src="/docs/images/hallazgo5-s1.png" alt="Gestión del mantenimiento realizada de forma manual"/>
+El principal criterio de adopción es la facilidad de uso, mencionada por el **100% de los entrevistados**. Esto indica que TexCheck debe evitar una experiencia compleja, ya que los decisores buscan una plataforma que mejore el control operativo sin complicar el trabajo diario.
 
-El 100% exige alertas preventivas, control en tiempo real e historial de mantenimiento por máquina.
-El 67% añade acceso remoto y generación de reportes. 
-La facilidad de uso es transversal a todos: si no es intuitivo, no se usa.
+Además, el **100%** prioriza la eficiencia, lo que significa que la solución debe demostrar beneficios concretos: reducción de errores, mejor planificación, alertas oportunas y mayor control sobre las máquinas.
 
----
+## 6. Características subjetivas del segmento
 
-## Conclusiones:
+| Característica subjetiva | Evidencia en entrevistas | Porcentaje |
+|---|---|---:|
+| Preocupación por la continuidad operativa | Relacionan las fallas con interrupciones, retrasos y presión sobre el equipo | 100% |
+| Interés en prevenir fallas | Solicitan alertas, programación y monitoreo | 100% |
+| Necesidad de mayor control | Buscan visibilidad, trazabilidad y reportes | 100% |
+| Búsqueda de eficiencia | Desean reducir errores, optimizar seguimiento y mejorar decisiones | 100% |
+| Rechazo a soluciones complejas | Priorizan facilidad de uso y baja carga operativa | 100% |
+| Preocupación por costos e impacto económico | Mencionan pérdidas, horas extras o incumplimientos | 100% |
 
-Los decisores del sector textil gestionan el mantenimiento de forma completamente manual, sin herramientas digitales especializadas, lo que genera fallas recurrentes que impactan directamente la producción, los costos y la relación con los clientes. 
-El 100% ya ha considerado implementar un software, pero la clave está en que sea simple y genere valor desde el primer uso.
-Esto valida la propuesta que da una solución con alertas preventivas, historial de mantenimiento y control en tiempo real, diseñada para resolver el problema exacto que este segmento enfrenta hoy.
+Desde una perspectiva subjetiva, los decisores muestran una fuerte preocupación por evitar interrupciones en la producción. Para ellos, una falla de maquinaria no representa solo un problema técnico, sino una amenaza directa para la rentabilidad, los tiempos de entrega y la relación con los clientes.
+
+Por ello, este segmento necesita una solución que transmita control, seguridad y eficiencia. TexCheck debe responder a esta expectativa mediante reportes claros, alertas preventivas, historial técnico y una interfaz que facilite la supervisión.
+
+## 7. Síntesis estadística del segmento 1
+
+| Aspecto clave | Resultado principal |
+|---|---|
+| Herramienta más usada actualmente | Excel u hojas de cálculo: 100% |
+| Problema más frecuente | Fallas inesperadas e interrupciones de producción: 100% |
+| Necesidad más importante | Historial de mantenimiento y trazabilidad: 100% |
+| Funcionalidad más valorada | Alertas preventivas y software de gestión: 100% |
+| Criterio de adopción más importante | Facilidad de uso y eficiencia: 100% |
+| Mayor preocupación | Impacto económico de las fallas: 100% |
+
+## 8. Conclusión del segmento 1
+
+El segmento de Directores, Gerentes de Producción y Dueños se caracteriza por priorizar la continuidad operativa, el control de costos y la toma de decisiones basada en información confiable. El análisis evidencia que el **100%** de los entrevistados reconoce problemas relacionados con fallas inesperadas, interrupciones de producción, impacto económico y falta de una solución centralizada.
+
+Por ello, este segmento representa al usuario decisor de TexCheck. Su principal expectativa es contar con una plataforma que permita mejorar la visibilidad del estado de las máquinas, consultar historiales, recibir alertas preventivas y tomar decisiones oportunas. Para lograr su adopción, TexCheck debe ser eficiente, intuitivo y demostrar valor operativo desde sus primeras funcionalidades.
+
 
 --- 
 
 ### Segmento 2: Jefes de Mantenimiento y Técnicos (Usuarios)
 
-1. El 100% registra el mantenimiento de forma manual usando Excel, cuadernos o papel, sin un sistema centralizado, lo que genera información dispersa y desactualizada.
-2. El 100% ha perdido información importante de mantenimiento en algún momento, ya sea por archivos mal guardados, hojas extraviadas o fallas en el registro.
-3. El 100% señala que coordinar tareas es difícil porque dependen de comunicación verbal o WhatsApp, sin una herramienta formal que organice y asigne trabajos.
-4. El 100% detecta fallas de forma reactiva, es decir, solo actúan cuando la máquina ya presenta el problema, debido a la falta de alertas y monitoreo preventivo.
-5. El 100% considera que recibir alertas automáticas sería muy útil para anticiparse a fallas y pasar de un mantenimiento correctivo a uno preventivo.
-6. El 100% coincide en las funcionalidades que desearían: alertas automáticas, historial de mantenimiento por máquina y asignación de tareas. El 67% también añade reportes y acceso desde celular o tablet.
-7. El 100% adoptaría la herramienta si es fácil de usar, rápida y les ahorra tiempo, considerando que parte del equipo técnico tiene poca experiencia con software.
+# Segmento 2: Jefes de Mantenimiento y Técnicos
 
-**Registro manual del mantenimiento sin sistema centralizado**
+El segundo segmento está conformado por tres entrevistados: Sebastián Curay, Fernando Sebastián Villar Suárez y Carlos Mendoza. Este grupo representa a los usuarios operativos de TexCheck, ya que se encargan directamente de ejecutar, coordinar y registrar actividades de mantenimiento preventivo y correctivo en empresas textiles o industriales.
 
-  <img src="/docs/images/hallazgo1-s2.png" alt="Gestión del mantenimiento realizada de forma manual"/>
+## 1. Datos generales del segmento
 
-Los 3 jefes de mantenimiento usan Excel, cuadernos o papel para registrar el mantenimiento. 
-Cada técnico lleva su propio registro por separado, lo que genera información dispersa, desactualizada y difícil de consultar.
+| Característica | Resultado | Porcentaje |
+|---|---:|---:|
+| Total de entrevistados | 3 personas | 100% |
+| Entrevistados hombres | 3 personas | 100% |
+| Edad entre 25 y 27 años | 3 personas | 100% |
+| Residencia en San Miguel | 2 personas | 66.7% |
+| Residencia en San Martín de Porres | 1 persona | 33.3% |
+| Experiencia entre 5 y 7 años en mantenimiento | 3 personas | 100% |
+| Ocupan rol de jefe de mantenimiento o técnico | 3 personas | 100% |
 
-**Pérdida de información importante de mantenimiento**
+## 2. Herramientas actuales usadas para mantenimiento
 
-  <img src="/docs/images/hallazgo2-s2.png" alt="Gestión del mantenimiento realizada de forma manual"/>
+| Herramienta o método mencionado | Entrevistados que lo mencionan | Porcentaje |
+|---|---:|---:|
+| Uso de Excel | 3 de 3 | 100% |
+| Uso de registros en papel o cuadernos | 3 de 3 | 100% |
+| Uso de WhatsApp | 3 de 3 | 100% |
+| Comunicación verbal o informal | 2 de 3 | 66.7% |
+| Ausencia de plataforma centralizada | 3 de 3 | 100% |
 
-Los 3 han perdido registros en algún momento: archivos mal guardados, hojas extraviadas o fallas en el sistema.
-Esto les hace perder el historial de las máquinas y en algunos casos afecta directamente la operación.
+El **100% de los entrevistados** utiliza Excel, registros en papel y WhatsApp para gestionar actividades de mantenimiento. Esto evidencia que el trabajo técnico depende de herramientas dispersas, no integradas y poco adecuadas para el seguimiento de reparaciones.
 
-**Coordinación de tareas difícil por falta de herramienta formal**
+La ausencia de una plataforma centralizada también fue mencionada por el **100%**, lo cual confirma que TexCheck puede resolver una necesidad concreta: unificar la información técnica en un solo entorno digital.
 
-  <img src="/docs/images/hallazgos3-s2.png" alt="Gestión del mantenimiento realizada de forma manual"/>
+## 3. Problemas identificados en la gestión actual
 
-Los 3 coordinan por WhatsApp o de forma verbal. 
-No existe ninguna plataforma donde se puedan ver las tareas asignadas, su estado o quién las atiende, lo que genera confusión especialmente en cambios de turno o urgencias.
+| Problema identificado | Entrevistados que lo mencionan | Porcentaje |
+|---|---:|---:|
+| Información dispersa | 3 de 3 | 100% |
+| Falta de historial ordenado | 3 de 3 | 100% |
+| Dificultad para conocer intervenciones anteriores | 3 de 3 | 100% |
+| Pérdida de información importante | 3 de 3 | 100% |
+| Registros incompletos o mal gestionados | 2 de 3 | 66.7% |
+| Duplicación de trabajo | 1 de 3 | 33.3% |
+| Dificultades de coordinación | 3 de 3 | 100% |
+| Problemas en cambios de turno o urgencias | 1 de 3 | 33.3% |
+| Falta de seguimiento de reparaciones | 3 de 3 | 100% |
 
-**Detección de fallas reactiva por falta de monitoreo preventivo**
+Los resultados muestran que el principal problema del segmento operativo es la dispersión de información, mencionada por el **100%** de los entrevistados. Esta situación afecta el seguimiento de reparaciones, la consulta de intervenciones anteriores y la organización de tareas.
 
-  <img src="/docs/images/hallazgo4-s2.png" alt="Gestión del mantenimiento realizada de forma manual"/>
+Además, el **100%** señaló que existe pérdida de información importante o dificultad para acceder a datos técnicos previos. Esto representa una oportunidad directa para TexCheck, ya que el historial de mantenimiento por máquina puede reducir errores, duplicación de trabajo y tiempos de búsqueda.
 
-Los 3 actúan de forma reactiva: no hay monitoreo constante ni alertas, por lo que solo se enteran de un problema cuando la máquina ya falló. 
-No existe un proceso de prevención establecido.
+## 4. Coordinación y comunicación del trabajo técnico
 
-**Las alertas automáticas serían muy útiles para prevenir fallas**
+| Aspecto de coordinación | Entrevistados que lo mencionan | Porcentaje |
+|---|---:|---:|
+| Coordinación mediante WhatsApp | 3 de 3 | 100% |
+| Coordinación verbal o informal | 2 de 3 | 66.7% |
+| Dificultad para asignar tareas | 2 de 3 | 66.7% |
+| Dificultad para monitorear actividades | 2 de 3 | 66.7% |
+| Problemas por cambios de turno | 1 de 3 | 33.3% |
+| Falta de una plataforma para seguimiento | 3 de 3 | 100% |
 
-  <img src="/docs/images/hallazgo5-s2.png" alt="Gestión del mantenimiento realizada de forma manual"/>
+El **100% de los entrevistados** indicó que la coordinación se realiza mediante WhatsApp o canales informales. Aunque estas herramientas son rápidas, no permiten llevar un control adecuado de tareas, responsables, fechas, estados o evidencias.
 
-Los 3 coinciden en que recibir alertas les permitiría anticiparse a las fallas y planificar mejor, pasando de un mantenimiento correctivo a uno preventivo. 
-Lo consideran la mejora más importante que podría tener una herramienta.
+Esto demuestra que TexCheck debe incluir funciones de asignación de tareas, seguimiento de estados y notificaciones, ya que estas funcionalidades responden a una necesidad operativa real del segmento.
 
-**Funcionalidades deseadas en una herramienta digital**
+## 5. Falta de enfoque preventivo
 
-  <img src="/docs/images/hallazgo6-s2.png" alt="Gestión del mantenimiento realizada de forma manual"/>
+| Aspecto preventivo identificado | Entrevistados que lo mencionan | Porcentaje |
+|---|---:|---:|
+| Las fallas se detectan tarde o cuando ya ocurren | 3 de 3 | 100% |
+| No cuentan con alertas automáticas | 3 de 3 | 100% |
+| Dependen de revisiones manuales | 2 de 3 | 66.7% |
+| Falta de monitoreo constante | 2 de 3 | 66.7% |
+| Necesidad de prevenir fallas | 3 de 3 | 100% |
 
-Los 3 piden alertas automáticas, historial por máquina y asignación de tareas. 
-El 67% (2 de 3) además quiere reportes y acceso desde celular o tablet. 
-Todo apunta a una herramienta que organice, registre y notifique en un solo lugar.
+El **100% de los entrevistados** indicó que no cuentan con alertas automáticas ni mecanismos suficientes para detectar fallas de forma preventiva. Esta situación genera un mantenimiento principalmente reactivo, donde el equipo técnico actúa cuando la falla ya ocurrió.
 
-**Condiciones para adoptar la herramienta en el día a día**
+Por esta razón, TexCheck debe priorizar funcionalidades como alertas preventivas, programación de mantenimientos, checklists y seguimiento del estado de las máquinas.
 
-  <img src="/docs/images/hallazgo7-s2.png" alt="Gestión del mantenimiento realizada de forma manual"/>
+## 6. Funcionalidades esperadas en TexCheck
 
-Los 3 adoptarían la herramienta si es fácil de usar y les ahorra tiempo real. 
-El 67% también pide acceso desde el celular. 
-El punto crítico es que parte del equipo técnico tiene poca experiencia con software, por lo que la simplicidad no es opcional.
+| Funcionalidad esperada | Entrevistados que la mencionan | Porcentaje |
+|---|---:|---:|
+| Alertas automáticas o preventivas | 3 de 3 | 100% |
+| Historial de mantenimiento por máquina | 3 de 3 | 100% |
+| Asignación o gestión de tareas | 3 de 3 | 100% |
+| Acceso desde distintos dispositivos | 2 de 3 | 66.7% |
+| Reportes de mantenimiento | 1 de 3 | 33.3% |
+| Centralización de información | 3 de 3 | 100% |
+| Registro de fallas | 3 de 3 | 100% |
+| Seguimiento de reparaciones | 3 de 3 | 100% |
+
+Las funcionalidades más valoradas por este segmento son las alertas automáticas, el historial de mantenimiento, la centralización de información y la gestión de tareas. Todas ellas fueron mencionadas por el **100% de los entrevistados**.
+
+Esto confirma que TexCheck debe priorizar un MVP enfocado en resolver los problemas operativos más urgentes: registrar información, consultar historial, asignar tareas y anticipar fallas.
+
+## 7. Condiciones para la adopción de la herramienta
+
+| Condición para usar TexCheck diariamente | Entrevistados que la mencionan | Porcentaje |
+|---|---:|---:|
+| Que sea sencilla | 3 de 3 | 100% |
+| Que sea intuitiva | 3 de 3 | 100% |
+| Que sea rápida | 3 de 3 | 100% |
+| Que permita ahorrar tiempo | 2 de 3 | 66.7% |
+| Que no complique el trabajo | 2 de 3 | 66.7% |
+| Que sea accesible desde varios dispositivos | 2 de 3 | 66.7% |
+| Que ayude a mejorar la productividad | 1 de 3 | 33.3% |
+
+El **100% de los entrevistados** considera que la herramienta debe ser sencilla, intuitiva y rápida. Esto demuestra que la adopción de TexCheck dependerá directamente de la experiencia de usuario.
+
+Si la plataforma toma demasiado tiempo o resulta difícil de aprender, el personal técnico podría continuar usando Excel, papel o WhatsApp. Por ello, TexCheck debe diseñarse con formularios simples, botones claros, navegación directa y flujos rápidos.
+
+## 8. Características subjetivas del segmento
+
+| Característica subjetiva | Evidencia en entrevistas | Porcentaje |
+|---|---|---:|
+| Preocupación por la pérdida de información | Mencionan registros incompletos, dispersos o mal gestionados | 100% |
+| Frustración por la falta de historial | Señalan dificultad para conocer intervenciones anteriores | 100% |
+| Necesidad de ahorrar tiempo | Buscan una herramienta que no complique el trabajo | 66.7% |
+| Interés en mejorar la coordinación | Requieren asignar y monitorear tareas | 100% |
+| Preocupación por la adaptación tecnológica | Mencionan que algunos trabajadores pueden tener dificultad con nuevas herramientas | 33.3% |
+| Valoración de la simplicidad | Solicitan una solución sencilla, rápida e intuitiva | 100% |
+
+Desde una perspectiva subjetiva, los jefes de mantenimiento y técnicos muestran frustración por la desorganización de la información. La falta de historial, la pérdida de datos y la coordinación informal afectan directamente su trabajo diario.
+
+Este segmento no busca una solución compleja, sino una herramienta práctica que le permita ahorrar tiempo, evitar errores y registrar información de forma más ordenada.
+
+## 9. Síntesis estadística del segmento 2
+
+| Aspecto clave | Resultado principal |
+|---|---|
+| Herramientas más usadas actualmente | Excel, papel y WhatsApp: 100% |
+| Problema más frecuente | Información dispersa y falta de historial: 100% |
+| Necesidad más importante | Centralización de información: 100% |
+| Funcionalidades más valoradas | Alertas, historial y gestión de tareas: 100% |
+| Condición de adopción más importante | Sencillez, rapidez e intuición: 100% |
+| Mayor preocupación | Pérdida de información y mala coordinación: 100% |
+
+# Comparación general entre segmentos
+
+## 1. Comparación de características objetivas
+
+| Característica | Segmento 1: Decisores | Segmento 2: Usuarios técnicos |
+|---|---|---|
+| Total de entrevistados | 3 personas | 3 personas |
+| Edad predominante | 27 a 30 años | 25 a 27 años |
+| Experiencia predominante | Aproximadamente 5 años | Entre 5 y 7 años |
+| Rol principal | Dirección, gerencia o toma de decisiones | Ejecución y coordinación del mantenimiento |
+| Zona de residencia principal | San Miguel y Callao | San Miguel y San Martín de Porres |
+| Relación con TexCheck | Deciden o influyen en la compra | Usan la plataforma diariamente |
+
+## 2. Comparación de herramientas actuales
+
+| Herramienta o método | Segmento 1 | Segmento 2 |
+|---|---:|---:|
+| Excel u hojas de cálculo | 100% | 100% |
+| Registros físicos o papel | 66.7% | 100% |
+| WhatsApp | No se menciona como principal | 100% |
+| Coordinación directa o informal | 66.7% | 100% |
+| Sistema centralizado especializado | 0% | 0% |
+
+## 3. Comparación de problemas principales
+
+| Problema | Segmento 1 | Segmento 2 |
+|---|---:|---:|
+| Fallas inesperadas | 100% | 100% |
+| Interrupciones en producción | 100% | 66.7% |
+| Impacto económico | 100% | 33.3% |
+| Información dispersa | 66.7% | 100% |
+| Falta de historial ordenado | 100% | 100% |
+| Pérdida de información | 66.7% | 100% |
+| Problemas de coordinación | 66.7% | 100% |
+| Falta de alertas preventivas | 100% | 100% |
+
+## 4. Comparación de necesidades
+
+| Necesidad | Segmento 1: Decisores | Segmento 2: Usuarios técnicos |
+|---|---:|---:|
+| Historial de mantenimiento | 100% | 100% |
+| Alertas preventivas | 100% | 100% |
+| Software de gestión | 100% | 100% |
+| Centralización de información | 100% | 100% |
+| Reportes | 33.3% | 33.3% |
+| Visibilidad en tiempo real | 66.7% | 33.3% |
+| Asignación de tareas | 33.3% | 100% |
+| Acceso desde distintos dispositivos | 33.3% | 66.7% |
+
+## 5. Comparación de criterios de adopción
+
+| Criterio de adopción | Segmento 1 | Segmento 2 |
+|---|---:|---:|
+| Facilidad de uso | 100% | 100% |
+| Rapidez | 66.7% | 100% |
+| Intuitividad | 66.7% | 100% |
+| Eficiencia | 100% | 66.7% |
+| Que no genere carga adicional | 33.3% | 66.7% |
+| Que permita ahorrar tiempo | 33.3% | 66.7% |
+| Que tenga buen valor costo-beneficio | 33.3% | 33.3% |
+
+## 6. Comparación de motivaciones
+
+| Motivación | Segmento 1: Decisores | Segmento 2: Usuarios técnicos |
+|---|---|---|
+| Principal motivación | Mantener la continuidad operativa y reducir pérdidas económicas. | Ahorrar tiempo, ordenar tareas y evitar pérdida de información. |
+| Enfoque del problema | Estratégico y económico. | Operativo y técnico. |
+| Resultado esperado | Mayor control, reportes, visibilidad y prevención. | Registro rápido, historial claro, alertas y coordinación. |
+| Mayor preocupación | Paradas de producción, costos y retrasos con clientes. | Información dispersa, mala coordinación y duplicación de trabajo. |
+
+
+# Hallazgos principales del análisis
+
+| Hallazgo | Sustento estadístico | Relación con TexCheck |
+|---|---:|---|
+| Las empresas aún dependen de herramientas básicas para mantenimiento. | 100% de ambos segmentos usa Excel, papel, registros físicos o WhatsApp. | TexCheck debe centralizar la información técnica en una plataforma Web y Mobile. |
+| Existe una necesidad clara de historial de mantenimiento. | 100% de ambos segmentos considera importante el historial por máquina. | TexCheck debe priorizar el módulo de historial técnico de activos. |
+| Las fallas inesperadas afectan la operación. | 100% de decisores y 100% de técnicos mencionan fallas o detección tardía. | TexCheck debe incluir alertas preventivas y planificación de mantenimiento. |
+| La falta de centralización genera problemas. | 100% de técnicos y 66.7% de decisores evidencian información dispersa o desorganizada. | TexCheck debe funcionar como repositorio único de activos, fallas e intervenciones. |
+| La facilidad de uso es una condición clave. | 100% de ambos segmentos solicita una herramienta fácil, sencilla o intuitiva. | TexCheck debe tener una interfaz simple, clara y rápida de aprender. |
+| La coordinación actual es informal. | 100% de técnicos y 66.7% de decisores mencionan coordinación directa, verbal o WhatsApp. | TexCheck debe permitir asignación de tareas, estados y responsables. |
+| Los usuarios valoran las alertas preventivas. | 100% de ambos segmentos solicita alertas o prevención. | TexCheck debe incluir alertas de mantenimientos próximos, vencidos y fallas críticas. |
 
 ---
+# Conclusión general del análisis de entrevistas
 
-## Conclusiones
-La gestión del mantenimiento se realiza de forma manual y descentralizada, lo que genera pérdida de información, dificultades en la coordinación y un enfoque reactivo ante fallas. 
-Existe una alta necesidad de una herramienta digital que centralice la información, incorpore alertas preventivas y facilite la gestión de tareas. Para su adopción, será clave que sea simple, intuitiva y accesible desde dispositivos móviles.
+El análisis de entrevistas evidencia que los dos segmentos objetivo comparten una problemática central: la gestión actual del mantenimiento industrial depende de herramientas manuales, archivos dispersos y comunicación informal. Sin embargo, cada segmento experimenta el problema desde una perspectiva diferente.
 
-## 2.3. Needfinding.
+Los **Directores, Gerentes de Producción y Dueños** se enfocan en el impacto estratégico de las fallas. Para ellos, los principales problemas son la interrupción de la producción, las pérdidas económicas, los retrasos en pedidos y la falta de visibilidad para tomar decisiones. Por ello, necesitan reportes, historial técnico, alertas preventivas y control del estado de las máquinas.
+
+Los **Jefes de Mantenimiento y Técnicos** se enfocan en el trabajo operativo diario. Sus principales problemas son la pérdida de información, la falta de historial ordenado, la coordinación informal, la duplicación de trabajo y la detección tardía de fallas. Por ello, necesitan una plataforma sencilla, rápida e intuitiva que les permita registrar intervenciones, consultar información y coordinar tareas desde distintos dispositivos.
+
+En conclusión, los resultados respaldan la necesidad de desarrollar TexCheck como una plataforma digital Web y Mobile orientada a centralizar la información técnica, mejorar la trazabilidad, programar mantenimientos preventivos, generar alertas y facilitar la coordinación entre los responsables de producción y mantenimiento.
+
+## 2.3. Needfinding
 
 La fase de **Needfinding** tiene como objetivo comprender profundamente a los usuarios, su contexto de trabajo y los problemas reales que enfrentan al realizar sus tareas. Este proceso es fundamental dentro del enfoque de diseño centrado en el usuario, ya que permite identificar necesidades, dificultades y oportunidades de mejora antes de proponer una solución tecnológica.
 
@@ -991,12 +1075,11 @@ Los artefactos presentados en esta sección son los siguientes:
 En conjunto, estos artefactos permiten obtener una visión integral del estado actual del proceso de mantenimiento en las plantas textiles. Este análisis constituye la base para identificar oportunidades de mejora que podrán ser abordadas mediante la plataforma **TexCheck**, orientada a optimizar la gestión del mantenimiento y reducir fallas inesperadas en los equipos de producción.
 
 ### 2.3.1. User Personas.
-
 #### Personal Técnico de Mantenimiento (Perfil Operativo):
-  <img src="/docs/images/CarlosPersona.png" alt="User Persona Operativo" height="auto">
+  <img src="images/Carlos.png" alt="User Persona Operativo" height="auto">
   
 #### Jefes de Planta y Gerentes de Operaciones (Perfil Estratégico):
-  <img src="/docs/images/Maria.png" alt="User Persona Estratégico" height="auto">
+  <img src="images/Maria.png" alt="User Persona Estratégico" height="auto">
 
 ### 2.3.2 User Task Matrix
 
@@ -1036,26 +1119,24 @@ Este análisis permite identificar oportunidades de mejora para la solución Tex
 ### 2.3.3. User Journey Mapping.
 
 #### User Journey Mapping del Personal Técnico de Mantenimiento (Perfil Operativo):
-  <img src="/docs/images/Customer journey map 1.png" alt="User Journey Mapping Operativo" height="auto">
+  <img src="images/Customer journey map 1.png" alt="User Journey Mapping Operativo" height="auto">
   
 #### User Journey Mapping del Jefes de Planta y Gerentes de Operaciones (Perfil Estratégico):
-  <img src="/docs/images/Customer journey map 2.png" alt="User Journey Mapping Estratégico" height="auto">
-
+  <img src="images/Customer journey map 2.png" alt="User Journey Mapping Estratégico" height="auto">
+  
 ### 2.3.4. Empathy Mapping.
 
 #### Empathy Mapping del Personal Técnico de Mantenimiento (Perfil Operativo):
-  <img src="/docs/images/Empathy map 1.png" alt="Empathy Mapping Operativo" height="auto">
+  <img src="images/Empathy map 1.png" alt="Empathy Mapping Operativo" height="auto">
   
 #### Empathy Mapping del Jefes de Planta y Gerentes de Operaciones (Perfil Estratégico):
-  <img src="/docs/images/Empathy map 2.png" alt="Empathy Mapping Estratégico" height="auto">
-
-
+  <img src="images/Empathy map 2.png" alt="Empathy Mapping Estratégico" height="auto">
+  
 ## 2.4. Big Picture Event Storming.
 
-<img src="/docs/images/BigPictureEventStorming-CodeUp.png" alt="Big Picture Event Storming" style="width: 100%; border-radius: 3px; display: block;">
+<img src="images/BigPictureEventStorming-CodeUp.png" alt="Big Picture Event Storming" style="width: 100%; border-radius: 3px; display: block;">
 
 ## 2.5. Ubiquitous Language.
-
 ## Core del negocio:
 ### 1. Asset (Activo)
 Equipo o maquinaria utilizada en el proceso de producción textil que requiere monitoreo y mantenimiento.
@@ -1111,7 +1192,6 @@ Seguimiento continuo del estado de un activo mediante datos actualizados constan
 
 ### 3. Integration (Integración)
 Proceso mediante el cual el sistema se conecta con fuentes externas para recibir o enviar información.
-
 
 ---
 
