@@ -61,63 +61,137 @@ A continuación se presentaran los commit realizados por los contribuidores:
 
 ## **Project Report Online**
 
-- [ Capítulo I: Introducción](#-capítulo-i-introducción)
-    - [1.1. Startup Profile](#11-startup-profile)
-        - [1.1.1. Descripción de la Startup](#111-descripción-de-la-startup)
-        - [1.1.2. Perfiles de integrantes del equipo](#112-perfiles-de-integrantes-del-equipo)
-    - [1.2. Solution Profile](#12-solution-profile)
-        - [1.2.1 Antecedentes y problemática](#121-antecedentes-y-problemática)
-        - [1.2.2 Lean UX Process](#122-lean-ux-process)
-            - [1.2.2.1. Lean UX Problem Statements](#1221-lean-ux-problem-statements)
-            - [1.2.2.2. Lean UX Assumptions](#1222-lean-ux-assumptions)
-            - [1.2.2.3. Lean UX Hypothesis Statements](#1223-lean-ux-hypothesis-statements)
-            - [1.2.2.4. Lean UX Canvas](#1224-lean-ux-canvas)
-    - [1.3. Segmentos objetivo](#13-segmentos-objetivo)
-- [Capítulo II: Requirements Elicitation & Analysis](#-capítulo-ii-requirements-elicitation--analysis)
-    - [2.1. Competidores](#21-competidores)
-        - [2.1.1. Análisis competitivo](#211-análisis-competitivo)
-        - [2.1.2. Estrategias y tácticas frente a competidores](#212-estrategias-y-tácticas-frente-a-competidores)
-    - [2.2. Entrevistas](#22-entrevistas)
-        - [2.2.1. Diseño de entrevistas](#221-diseño-de-entrevistas)
-        - [2.2.2. Registro de entrevistas](#222-registro-de-entrevistas)
-        - [2.2.3. Análisis de entrevistas](#223-análisis-de-entrevistas)
-    - [2.3. Needfinding](#23-needfinding)
-        - [2.3.1. User Personas](#231-user-personas)
-        - [2.3.2. User Task Matrix](#232-user-task-matrix)
-        - [2.3.3. User Journey Mapping](#233-user-journey-mapping)
-        - [2.3.4. Empathy Mapping](#234-empathy-mapping)
-    - [2.4. Big Picture EventStorming](#24-big-picture-eventstorming)
-    - [2.5. Ubiquitous Language](#25-ubiquitous-language)
-- [Capítulo III: Requirements Specification](#-capítulo-iii-requirements-specification)
-    - [3.1. User Stories](#31-user-stories)
-    - [3.2. Impact Mapping](#32-impact-mapping)
-    - [3.3. Product Backlog](#33-product-backlog)
-- [ Capítulo IV: Product Design](#-capítulo-iv-product-design)
-    - [4.1. Style Guidelines](#41-style-guidelines)
-    - [4.2. Information Architecture](#42-information-architecture)
-    - [4.3. Landing Page UI Design](#43-landing-page-ui-design)
-    - [4.4. Web Applications UX/UI Design](#44-web-applications-uxui-design)
-    - [4.5. Web Applications Prototyping](#45-web-applications-prototyping)
-    - [4.6. Domain-Driven Software Architecture](#46-domain-driven-software-architecture)
-    - [4.7. Software Object-Oriented Design](#47-software-object-oriented-design)
-    - [4.8. Database Design](#48-database-design)
-- [🛠 Capítulo V: Product Implementation, Validation & Deployment](#-capítulo-v-product-implementation-validation--deployment)
-    - [5.1. Software Configuration Management](#51-software-configuration-management)
-    - [5.2. Landing Page, Services & Applications Implementation](#52-landing-page-services--applications-implementation)
-        - [5.2.1. Sprint 1](#521-sprint-1)
-            - [5.2.1.1. Sprint Planning 1](#5211-sprint-planning-1)
-            - [5.2.1.2. Aspect Leaders and Collaborators](#5212-aspect-leaders-and-collaborators)
-            - [5.2.1.3. Sprint Backlog 1](#5213-sprint-backlog-1)
-            - [5.2.1.4. Development Evidence for Sprint Review](#5214-development-evidence-for-sprint-review)
-            - [5.2.1.5. Execution Evidence for Sprint Review](#5215-execution-evidence-for-sprint-review)
-            - [5.2.1.6. Services Documentation Evidence for Sprint Review](#5216-services-documentation-evidence-for-sprint-review)
-            - [5.2.1.7. Software Deployment Evidence for Sprint Review](#5217-software-deployment-evidence-for-sprint-review)
-            - [5.2.1.8. Team Collaboration Insights during Sprint](#5218-team-collaboration-insights-during-sprint)
-    - [5.3. Validation Interviews](#53-validation-interviews)
-    - [5.4. Video About-the-Product](#54-video-about-the-product)
-- [ Conclusiones](#-conclusiones)
-- [ Bibliografía](#-bibliografía)
-- [ Anexos](#-anexos)
+- [Universidad Peruana de Ciencias Aplicadas](#universidad-peruana-de-ciencias-aplicadas)
+  - [Ingeniería de Software](#ingeniería-de-software)
+- [Registro de Versiones del Informe](#registro-de-versiones-del-informe)
+- [Project Report Collaboration Insights](#project-report-collaboration-insights)
+  - [**Project Report Online**](#project-report-online)
+- [Student Outcome](#student-outcome)
+- [Capítulo I: Introducción](#capítulo-i-introducción)
+  - [1.1. Startup Profile](#11-startup-profile)
+      - [Misión, Visión y Valores de TexCheck](#misión-visión-y-valores-de-texcheck)
+    - [1.1.1. Descripción de la Startup](#111-descripción-de-la-startup)
+  - [1.2 Solution Profile](#12-solution-profile)
+  - [1.2.1. Antecedentes y problemática](#121-antecedentes-y-problemática)
+    - [What (Qué)](#what-qué)
+      - [¿Cuál es el problema?](#cuál-es-el-problema)
+      - [¿Cuál es la relación con la persona en cuestión?](#cuál-es-la-relación-con-la-persona-en-cuestión)
+    - [When (Cuándo)](#when-cuándo)
+      - [¿Cuándo sucede el problema?](#cuándo-sucede-el-problema)
+    - [Where (Dónde)](#where-dónde)
+      - [¿Dónde está el cliente cuando usa el producto?](#dónde-está-el-cliente-cuando-usa-el-producto)
+      - [¿A dónde se dirige?](#a-dónde-se-dirige)
+      - [¿Dónde surge el problema?](#dónde-surge-el-problema)
+    - [Who (Quién)](#who-quién)
+      - [¿Quiénes están involucrados?](#quiénes-están-involucrados)
+      - [¿A quiénes les sucede el problema?](#a-quiénes-les-sucede-el-problema)
+      - [¿Quién lo utilizará?](#quién-lo-utilizará)
+    - [Why (Por qué)](#why-por-qué)
+      - [¿Cuál es la causa del problema?](#cuál-es-la-causa-del-problema)
+    - [How (Cómo)](#how-cómo)
+      - [¿Cómo prefieren los usuarios acceder al contenido?](#cómo-prefieren-los-usuarios-acceder-al-contenido)
+      - [¿Qué llevó a la persona a llegar a esta situación?](#qué-llevó-a-la-persona-a-llegar-a-esta-situación)
+    - [How much (Cuánto)](#how-much-cuánto)
+      - [¿Cuánto impacta el problema?](#cuánto-impacta-el-problema)
+      - [¿Cuántas empresas podrían verse beneficiadas?](#cuántas-empresas-podrían-verse-beneficiadas)
+      - [¿Cuánto valor podría aportar una solución digital?](#cuánto-valor-podría-aportar-una-solución-digital)
+    - [1.2.2. Lean UX Process](#122-lean-ux-process)
+    - [1.2.2.1. Lean UX Problem Statements](#1221-lean-ux-problem-statements)
+      - [1.2.2.2. Lean UX Assumptions](#1222-lean-ux-assumptions)
+    - [A. Business Assumptions](#a-business-assumptions)
+    - [B. User Assumptions](#b-user-assumptions)
+    - [C. User Outcome \& Benefit Assumptions](#c-user-outcome--benefit-assumptions)
+    - [D. Business Outcome Assumptions](#d-business-outcome-assumptions)
+    - [E. Feature Assumptions](#e-feature-assumptions)
+      - [1.2.2.3. Lean UX Hypothesis Statements](#1223-lean-ux-hypothesis-statements)
+      - [Hypothesis Statement 01: Registro digital de activos](#hypothesis-statement-01-registro-digital-de-activos)
+      - [Hypothesis Statement 02: Historial técnico de mantenimiento](#hypothesis-statement-02-historial-técnico-de-mantenimiento)
+      - [Hypothesis Statement 03: Planificación de mantenimiento preventivo](#hypothesis-statement-03-planificación-de-mantenimiento-preventivo)
+      - [Hypothesis Statement 04: Alertas automáticas de mantenimiento y fallas](#hypothesis-statement-04-alertas-automáticas-de-mantenimiento-y-fallas)
+      - [Hypothesis Statement 05: Gestión de fallas y mantenimiento correctivo](#hypothesis-statement-05-gestión-de-fallas-y-mantenimiento-correctivo)
+      - [Hypothesis Statement 06: Reportes e indicadores operativos](#hypothesis-statement-06-reportes-e-indicadores-operativos)
+      - [Hypothesis Statement 07: Coordinación entre áreas operativas y mantenimiento](#hypothesis-statement-07-coordinación-entre-áreas-operativas-y-mantenimiento)
+      - [Hypothesis Statement 08: Acceso desde planta](#hypothesis-statement-08-acceso-desde-planta)
+      - [Hypothesis Statement 09: Interfaz simple e intuitiva](#hypothesis-statement-09-interfaz-simple-e-intuitiva)
+      - [Hypothesis Statement 10: Adopción en empresas textiles](#hypothesis-statement-10-adopción-en-empresas-textiles)
+      - [1.2.2.4. Lean UX Canvas](#1224-lean-ux-canvas)
+    - [1.3. Segmentos Objetivo](#13-segmentos-objetivo)
+      - [Segmento objetivo 1: Líderes operativos](#segmento-objetivo-1-líderes-operativos)
+      - [A. Características demográficas](#a-características-demográficas)
+      - [B. Aspectos geográficos](#b-aspectos-geográficos)
+      - [C. Aspectos psicográficos](#c-aspectos-psicográficos)
+      - [D. Información estadística de sustento](#d-información-estadística-de-sustento)
+      - [Segmento objetivo 2: Personal de mantenimiento](#segmento-objetivo-2-personal-de-mantenimiento)
+      - [A. Características demográficas](#a-características-demográficas-1)
+      - [B. Aspectos geográficos](#b-aspectos-geográficos-1)
+      - [C. Aspectos psicográficos](#c-aspectos-psicográficos-1)
+      - [D. Información estadística de sustento](#d-información-estadística-de-sustento-1)
+- [Capítulo II: Requirements Elicitation \& Analysis](#capítulo-ii-requirements-elicitation--analysis)
+  - [2.1. Competidores.](#21-competidores)
+    - [2.1.1. Análisis competitivo.](#211-análisis-competitivo)
+    - [2.1.2. Estrategias y tácticas frente a competidores.](#212-estrategias-y-tácticas-frente-a-competidores)
+  - [2.2. Entrevistas.](#22-entrevistas)
+    - [2.2.1. Diseño de entrevistas.](#221-diseño-de-entrevistas)
+    - [2.2.2. Registro de entrevistas.](#222-registro-de-entrevistas)
+    - [2.2.3. Análisis de entrevistas.](#223-análisis-de-entrevistas)
+  - [2.3. Needfinding.](#23-needfinding)
+    - [2.3.1. User Personas.](#231-user-personas)
+    - [2.3.2. User Task Matrix.](#232-user-task-matrix)
+    - [2.3.3. User Journey Mapping.](#233-user-journey-mapping)
+    - [2.3.4. Empathy Mapping.](#234-empathy-mapping)
+  - [2.4. Big Picture Event Storming.](#24-big-picture-event-storming)
+  - [2.5. Ubiquitous Language.](#25-ubiquitous-language)
+- [Capítulo III: Requirements Specification](#capítulo-iii-requirements-specification)
+  - [3.1. User Stories.](#31-user-stories)
+  - [3.2. Impact Mapping](#32-impact-mapping)
+  - [3.3. Product Backlog.](#33-product-backlog)
+- [Capítulo IV: Product Design](#capítulo-iv-product-design)
+  - [4.1. Style Guidelines.](#41-style-guidelines)
+    - [4.1.1. General Style Guidelines.](#411-general-style-guidelines)
+    - [4.1.2. Web Style Guidelines.](#412-web-style-guidelines)
+  - [4.2. Information Architecture.](#42-information-architecture)
+    - [4.2.1. Organization Systems.](#421-organization-systems)
+    - [4.2.2. Labeling Systems.](#422-labeling-systems)
+    - [4.2.3. SEO Tags and Meta Tags](#423-seo-tags-and-meta-tags)
+    - [4.2.4. Searching Systems.](#424-searching-systems)
+    - [4.2.5. Navigation Systems.](#425-navigation-systems)
+  - [4.3. Landing Page UI Design.](#43-landing-page-ui-design)
+    - [4.3.1. Landing Page Wireframe.](#431-landing-page-wireframe)
+    - [4.3.2. Landing Page Mock-up.](#432-landing-page-mock-up)
+  - [4.4. Web Applications UX/UI Design.](#44-web-applications-uxui-design)
+    - [4.4.1. Web Applications Wireframes.](#441-web-applications-wireframes)
+    - [4.4.2. Web Applications Wireflow Diagrams.](#442-web-applications-wireflow-diagrams)
+    - [4.4.2. Web Applications Mock-ups.](#442-web-applications-mock-ups)
+    - [4.4.3. Web Applications User Flow Diagrams.](#443-web-applications-user-flow-diagrams)
+  - [4.5. Web Applications Prototyping.](#45-web-applications-prototyping)
+  - [4.6. Domain-Driven Software Architecture.](#46-domain-driven-software-architecture)
+    - [4.6.1. Design-Level Event Storming.](#461-design-level-event-storming)
+    - [4.6.2. Software Architecture Context Diagram.](#462-software-architecture-context-diagram)
+    - [4.6.3. Software Architecture Container Diagrams.](#463-software-architecture-container-diagrams)
+    - [4.6.4. Software Architecture Components Diagrams.](#464-software-architecture-components-diagrams)
+  - [4.7. Software Object-Oriented Design.](#47-software-object-oriented-design)
+    - [4.7.1. Class Diagrams.](#471-class-diagrams)
+  - [4.8. Database Design.](#48-database-design)
+    - [4.8.1. Database Diagrams.](#481-database-diagrams)
+- [Capítulo V: Product Implementation, Validation \& Deployment.](#capítulo-v-product-implementation-validation--deployment)
+  - [5.1. Software Configuration Management.](#51-software-configuration-management)
+    - [5.1.1. Software Development Environment Configuration.](#511-software-development-environment-configuration)
+    - [5.1.2. Source Code Management.](#512-source-code-management)
+    - [5.1.3. Source Code Style Guide \& Conventions.](#513-source-code-style-guide--conventions)
+    - [5.1.4. Software Deployment Configuration.](#514-software-deployment-configuration)
+  - [5.2. Landing Page, Services \& Applications Implementation.](#52-landing-page-services--applications-implementation)
+    - [5.2.1. Sprint 1](#521-sprint-1)
+      - [5.2.1.1. Sprint Planning 1.](#5211-sprint-planning-1)
+      - [5.2.1.2. Aspect Leaders and Collaborators.](#5212-aspect-leaders-and-collaborators)
+      - [5.2.1.3. Sprint Backlog 1.](#5213-sprint-backlog-1)
+      - [5.2.1.4. Development Evidence for Sprint Review.](#5214-development-evidence-for-sprint-review)
+      - [5.2.1.5. Execution Evidence for Sprint Review.](#5215-execution-evidence-for-sprint-review)
+      - [5.2.1.6. Services Documentation Evidence for Sprint Review.](#5216-services-documentation-evidence-for-sprint-review)
+      - [5.2.1.7. Software Deployment Evidence for Sprint Review.](#5217-software-deployment-evidence-for-sprint-review)
+      - [5.2.1.8. Team Collaboration Insights during Sprint.](#5218-team-collaboration-insights-during-sprint)
+- [Conclusiones](#conclusiones)
+- [Bibliografía](#bibliografía)
+- [Anexos](#anexos)
 
 --- 
 # Student Outcome
@@ -466,105 +540,8 @@ Creemos que lograremos la adopción de TexCheck en al menos 20 empresas textiles
 
 #### 1.2.2.4. Lean UX Canvas
 
-<table>
-  <tr>
-    <td valign="top">
-     <strong>1) Problema de negocio</strong><br><br>
-     Muchas pequeñas y medianas empresas textiles gestionan el mantenimiento de su maquinaria mediante registros físicos, hojas de cálculo y comunicación informal por mensajes o llamadas. Esta forma de trabajo genera pérdida de información técnica, baja trazabilidad, retrasos en la coordinación de tareas y dificultad para detectar fallas antes de que afecten la producción.<br><br>
-     En este contexto, TexCheck busca responder a la siguiente pregunta: ¿cómo digitalizar la gestión del mantenimiento industrial en empresas textiles para que los equipos puedan centralizar información, coordinar tareas, anticiparse a fallas y reducir interrupciones operativas sin agregar complejidad al trabajo diario?
-   </td>
+<img src ="images/leancanvas_chapter1.png">
 
-   <td rowspan="2" valign="top">
-     <strong>5) Ideas de soluciones</strong>
-     <ul>
-       <li>Registro digital de activos para centralizar la información técnica de cada máquina.</li>
-       <li>Ficha técnica por activo para documentar características, estado, ubicación y datos relevantes de la maquinaria.</li>
-       <li>Historial técnico por activo para consultar reparaciones, intervenciones y fallas anteriores.</li>
-       <li>Planificación de mantenimiento preventivo para programar, reprogramar y organizar intervenciones.</li>
-       <li>Checklists de mantenimiento para estandarizar las actividades técnicas durante cada intervención.</li>
-       <li>Alertas automáticas para informar sobre mantenimientos próximos, vencidos o fallas críticas.</li>
-       <li>Asignación y seguimiento de tareas para mejorar la coordinación entre Líderes operativos y Personal de mantenimiento.</li>
-       <li>Gestión de fallas para reportar incidentes, clasificarlos por criticidad, generar órdenes correctivas y registrar soluciones.</li>
-       <li>Reportes y dashboard de indicadores para visualizar activos, fallas, mantenimientos y cumplimiento preventivo.</li>
-       <li>Acceso desde computadoras y dispositivos móviles para registrar información directamente desde planta.</li>
-     </ul>
-   </td>
-
-   <td valign="top">
-     <strong>2) Resultados comerciales</strong>
-     <ul>
-       <li>Reducir el downtime generado por fallas inesperadas en un 15% durante los primeros 6 meses de uso piloto.</li>
-       <li>Reducir los errores y la pérdida de información en registros manuales en un 40% durante los primeros 3 meses.</li>
-       <li>Incrementar el cumplimiento del mantenimiento preventivo en un 30% durante los primeros 3 meses de uso.</li>
-       <li>Lograr la adopción de TexCheck en al menos 20 empresas textiles durante el primer año.</li>
-       <li>Conseguir que el 70% de los usuarios registrados utilicen activamente la plataforma cada semana.</li>
-       <li>Lograr que al menos el 80% de las intervenciones de mantenimiento realizadas durante el piloto queden registradas correctamente en el historial técnico del activo.</li>
-     </ul>
-   </td>
- </tr>
-
- <tr>
-   <td valign="top">
-     <strong>3) Usuarios y clientes</strong><br><br>
-     Los usuarios y clientes principales pertenecen a dos segmentos identificados durante las entrevistas. El primer segmento está conformado por Líderes operativos, quienes necesitan supervisar la continuidad de la producción, revisar indicadores, identificar riesgos operativos y tomar decisiones relacionadas con el estado de la maquinaria.<br><br>
-     El segundo segmento está conformado por Personal de mantenimiento, encargado de registrar activos, planificar mantenimientos, ejecutar intervenciones preventivas y correctivas, atender fallas y mantener actualizado el historial técnico de las máquinas.<br><br>
-     Ambos segmentos requieren información organizada, rápida de consultar y útil para reducir fallas, mejorar la planificación y evitar pérdidas por registros manuales incompletos o dispersos.
-   </td>
-
-   <td valign="top">
-     <strong>4) Beneficios del usuario</strong>
-     <ul>
-       <li>Mayor visibilidad del estado de la maquinaria, fallas activas y mantenimientos pendientes.</li>
-       <li>Reducción de pérdida de información causada por registros físicos, hojas de cálculo o archivos dispersos.</li>
-       <li>Acceso rápido al historial técnico de cada máquina.</li>
-       <li>Mejor coordinación entre Líderes operativos y Personal de mantenimiento mediante información centralizada.</li>
-       <li>Detección más temprana de mantenimientos vencidos, tareas pendientes y fallas críticas mediante alertas automáticas.</li>
-       <li>Mayor capacidad para planificar mantenimientos preventivos y reducir interrupciones de producción.</li>
-       <li>Mejor toma de decisiones gracias a reportes, indicadores y datos históricos organizados.</li>
-     </ul>
-   </td>
- </tr>
-
- <tr>
-   <td valign="top">
-     <strong>6) Hipótesis</strong>
-     <ul>
-       <li>Creemos que lograremos reducir los errores y la pérdida de información técnica en un 40% durante los primeros 3 meses si el Personal de mantenimiento obtiene una forma rápida y ordenada de registrar, actualizar y consultar la información de las máquinas con el registro digital de activos y fichas técnicas de TexCheck.</li>
-
-<li>Creemos que lograremos que al menos el 80% de las intervenciones de mantenimiento realizadas durante el piloto queden registradas correctamente en el historial técnico del activo si el Personal de mantenimiento obtiene acceso centralizado a reparaciones, fallas e intervenciones anteriores con el historial técnico digital de TexCheck.</li>
-
-<li>Creemos que lograremos incrementar el cumplimiento del mantenimiento preventivo en un 30% durante los primeros 3 meses si el Personal de mantenimiento obtiene una forma organizada de programar, reprogramar y ejecutar mantenimientos con el módulo de planificación preventiva, checklists y asignación de responsables de TexCheck.</li>
-
-<li>Creemos que lograremos reducir el downtime generado por fallas inesperadas en un 15% durante los primeros 6 meses si los Líderes operativos y el Personal de mantenimiento obtienen avisos oportunos sobre mantenimientos próximos, mantenimientos vencidos y fallas críticas con el sistema de alertas y notificaciones de TexCheck.</li>
-
-<li>Creemos que lograremos mejorar la atención de fallas críticas y reducir la desorganización del mantenimiento correctivo si el Personal de mantenimiento obtiene una forma estructurada de clasificar fallas, generar órdenes correctivas, marcar activos fuera de servicio y registrar soluciones técnicas con el módulo de gestión de fallas de TexCheck.</li>
-
-<li>Creemos que lograremos mejorar la toma de decisiones operativas si los Líderes operativos obtienen información clara y consolidada sobre mantenimientos realizados, fallas activas, activos fuera de servicio y cumplimiento preventivo con los reportes y dashboards de TexCheck.</li>
-
-<li>Creemos que lograremos mejorar la coordinación entre Líderes operativos y Personal de mantenimiento si ambos segmentos obtienen información centralizada sobre tareas asignadas, estado de activos, alertas y avances de mantenimiento con una plataforma digital compartida.</li>
-
-<li>Creemos que lograremos aumentar la actualización oportuna de registros técnicos si el Personal de mantenimiento obtiene la posibilidad de registrar observaciones, evidencias, tiempos de intervención y cierre de tareas directamente desde planta con una plataforma accesible desde dispositivos móviles y computadoras.</li>
-
-<li>Creemos que lograremos que el 70% de los usuarios registrados utilicen activamente la plataforma cada semana si los Líderes operativos y el Personal de mantenimiento obtienen una experiencia simple, rápida e intuitiva con una interfaz organizada por módulos, alertas visuales claras y acceso rápido a las funciones principales.</li>
-
-<li>Creemos que lograremos la adopción de TexCheck en al menos 20 empresas textiles durante el primer año si los Líderes operativos y el Personal de mantenimiento reconocen que la plataforma ayuda a reducir fallas inesperadas, mejorar la trazabilidad y ordenar la gestión del mantenimiento mediante una solución digital accesible y especializada para el sector textil.</li>
-</ul>
-   </td>
-
-   <td valign="top">
-     <strong>7) ¿Qué es lo más importante que necesitamos aprender primero?</strong><br><br>
-     Lo primero que debemos validar es si la pérdida de información técnica, la baja trazabilidad, la desorganización del mantenimiento y la detección tardía de fallas son problemas suficientemente relevantes para que los Líderes operativos y el Personal de mantenimiento adopten una plataforma digital especializada.<br><br>
-     También necesitamos comprobar si los usuarios estarían dispuestos a reemplazar gradualmente el uso de cuadernos físicos, archivos Excel y coordinación informal por una herramienta centralizada que les permita registrar activos, planificar mantenimientos, consultar historiales, recibir alertas, atender fallas y generar reportes.<br><br>
-     Además, se debe validar si una solución simple e intuitiva puede integrarse al flujo diario de trabajo en planta sin generar resistencia, retrasos o carga adicional para los usuarios.
-   </td>
-
-   <td valign="top">
-     <strong>8) ¿Cuál es la menor cantidad de trabajo que necesitamos hacer para resolver las dudas y para hacer lo siguiente más importante?</strong><br><br>
-     El siguiente paso clave es desarrollar un MVP enfocado en las funcionalidades principales del mantenimiento textil: registro digital de activos, ficha técnica, historial técnico, planificación de mantenimiento preventivo, checklists, alertas, gestión de fallas y reportes básicos.<br><br>
-     Esta versión mínima debe ser validada con usuarios representativos de ambos segmentos mediante pruebas de usabilidad y simulaciones de escenarios reales de mantenimiento. Durante la validación se deben medir tiempos de registro, facilidad de uso, comprensión de los flujos principales, utilidad percibida de las alertas, claridad de los reportes y disposición de los usuarios para emplear TexCheck como reemplazo parcial de sus procesos manuales actuales.
-   </td>
-</tr>
-</table>
 
 ### 1.3. Segmentos Objetivo
 
