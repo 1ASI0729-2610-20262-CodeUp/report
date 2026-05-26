@@ -188,7 +188,7 @@ En esta sección se detallan las actividades realizadas en el trabajo final y el
 ## 2.1. Competidores.
 ## 2.1.1. Análisis competitivo.
 
-| Elemento | TexCheck<br>![Logo TexCheck](ruta/logo-texcheck.png) | Fiix CMMS<br>![Logo Fiix](ruta/logo-fiix.png) | UpKeep<br>![Logo UpKeep](ruta/logo-upkeep.png) | IBM Maximo Application Suite<br>![Logo IBM Maximo](ruta/logo-ibm-maximo.png) |
+| Elemento | TexCheck<br>![Logo TexCheck](images/TexCheck.png) | Fiix CMMS<br>![Logo Fiix](images/fiix.png) | UpKeep<br>![Logo UpKeep](images/upkeep.png) | IBM Maximo Application Suite<br>![Logo IBM Maximo](images/ibm.png) |
 |---|---|---|---|---|
 | **¿Por qué llevar a cabo este análisis?** | El análisis se realiza para determinar cómo TexCheck puede diferenciarse dentro del mercado de soluciones de mantenimiento industrial, considerando que existen plataformas CMMS consolidadas, pero muchas de ellas están orientadas a empresas grandes, poseen costos elevados o no están especializadas en el sector textil peruano. La pregunta principal es: **¿cómo puede TexCheck posicionarse como una alternativa accesible, especializada e intuitiva para pequeñas y medianas empresas textiles que necesitan digitalizar su mantenimiento industrial sin asumir la complejidad de plataformas empresariales globales?** | Se analiza Fiix porque es una plataforma CMMS reconocida internacionalmente, enfocada en ayudar a las empresas a planificar, rastrear y optimizar el mantenimiento mediante gestión de activos, órdenes de trabajo, reportes, integraciones y herramientas basadas en IA. Su presencia permite comparar a TexCheck frente a una solución madura, de enfoque general y orientada a múltiples industrias. | Se analiza UpKeep porque es una plataforma CMMS mobile-first orientada a equipos de mantenimiento que necesitan crear órdenes de trabajo, automatizar mantenimientos preventivos, usar checklists y acceder a información desde cualquier dispositivo. Su enfoque móvil la convierte en un competidor importante frente a TexCheck, especialmente para técnicos que trabajan directamente en planta. | Se analiza IBM Maximo porque es una suite EAM/CMMS empresarial de alto nivel, orientada a la gestión avanzada de activos, mantenimiento preventivo, predictivo, inspecciones, inventario, analítica e integración con tecnologías empresariales. Representa la competencia más robusta y compleja dentro del mercado de gestión de activos industriales. |
 | **Perfil — Overview** | TexCheck es una startup tecnológica orientada a la digitalización de la gestión del mantenimiento industrial en el sector manufacturero textil. Su propósito es ofrecer una plataforma Web y Mobile que permita registrar activos, programar mantenimientos preventivos, reportar fallas, consultar historial técnico, generar alertas y visualizar indicadores operativos. Su enfoque nace de una problemática identificada en empresas textiles: fallas inesperadas en maquinaria crítica, dependencia de registros manuales, uso de Excel, comunicación por WhatsApp y falta de trazabilidad técnica. | Fiix CMMS es una plataforma de mantenimiento basada en la nube que permite planificar, rastrear y optimizar operaciones de mantenimiento. Ofrece gestión de activos, órdenes de trabajo, mantenimiento preventivo, inventario, reportes, integraciones y herramientas de IA. Su propuesta está orientada a empresas que buscan centralizar sus operaciones de mantenimiento y mejorar el rendimiento de sus activos. | UpKeep es una plataforma CMMS impulsada por IA y diseñada con enfoque mobile-first. Su propuesta busca que los equipos de mantenimiento completen órdenes de trabajo desde cualquier dispositivo, agreguen fotos, utilicen checklists, actualicen información en tiempo real y automaticen tareas preventivas. La empresa indica que su plataforma busca pasar de operaciones reactivas a operaciones proactivas. | IBM Maximo Application Suite es una plataforma empresarial de gestión de activos que integra mantenimiento, inspección, monitoreo, inventario, analítica, gestión de campo y capacidades de IA. IBM la presenta como una solución para mejorar el desempeño de activos, programar trabajos, completar órdenes con acceso móvil y detectar anomalías mediante imágenes, video, sensores o datos operativos. |
@@ -328,7 +328,7 @@ Antes de comenzar, me gustaría conocer un poco más sobre ti para poder entende
 
   <!-- Imagen de la captura de pantalla -->
   <div style="background-color: #138dffa4; padding: 12px 16px 16px;">
-    <img src="../images/Carlos.png" alt="Captura de entrevista" style="width: 100%; border-radius: 3px; display: block;">
+    <img src="images/carlosm.png" alt="Captura de entrevista" style="width: 100%; border-radius: 3px; display: block;">
   </div>
 
   <!-- Datos en dos columnas -->
@@ -393,7 +393,7 @@ Antes de comenzar, me gustaría conocer un poco más sobre ti para poder entende
 
   <!-- Imagen de la captura de pantalla -->
   <div style="background-color: #138dffa4; padding: 12px 16px 16px;">
-    <img src="../images/Claudia.png" alt="Captura de entrevista" style="width: 100%; border-radius: 3px; display: block;">
+    <img src="images/Claudia.png" alt="Captura de entrevista" style="width: 100%; border-radius: 3px; display: block;">
   </div>
 
   <!-- Datos en dos columnas -->
@@ -457,7 +457,7 @@ Antes de comenzar, me gustaría conocer un poco más sobre ti para poder entende
 
   <!-- Imagen de la captura de pantalla -->
   <div style="background-color: #138dffa4; padding: 12px 16px 16px;">
-    <img src="../images/Carolina.png" alt="Captura de entrevista" style="width: 100%; border-radius: 3px; display: block;">
+    <img src="images/Carolina.png" alt="Captura de entrevista" style="width: 100%; border-radius: 3px; display: block;">
   </div>
 
   <!-- Datos en dos columnas -->
@@ -521,7 +521,7 @@ Ante esta situación, la empresa considera necesario implementar un software de 
 
   <!-- Imagen de la captura de pantalla -->
   <div style="background-color: #138dffa4; padding: 12px 16px 16px;">
-    <img src="../images/SebastianC.png" alt="Captura de entrevista" style="width: 100%; border-radius: 3px; display: block;">
+    <img src="images/SebastianC.png" alt="Captura de entrevista" style="width: 100%; border-radius: 3px; display: block;">
   </div>
 
   <!-- Datos en dos columnas -->
@@ -587,7 +587,7 @@ Ante esta situación, la empresa considera necesario implementar un software de 
 
   <!-- Imagen de la captura de pantalla -->
   <div style="background-color: #138dffa4; padding: 12px 16px 16px;">
-    <img src="../images/fernando.png" alt="Captura de entrevista" style="width: 100%; border-radius: 3px; display: block;">
+    <img src="images/fernando.png" alt="Captura de entrevista" style="width: 100%; border-radius: 3px; display: block;">
   </div>
 
   <!-- Datos en dos columnas -->
@@ -651,7 +651,7 @@ Frente a ello, el entrevistado considera necesaria la implementación de una her
 
   <!-- Imagen de la captura de pantalla -->
   <div style="background-color: #138dffa4; padding: 12px 16px 16px;">
-    <img src="../images/carlosm.png" alt="Captura de entrevista" style="width: 100%; border-radius: 3px; display: block;">
+    <img src="images/carlosm.png" alt="Captura de entrevista" style="width: 100%; border-radius: 3px; display: block;">
   </div>
 
   <!-- Datos en dos columnas -->
@@ -1076,7 +1076,7 @@ En conjunto, estos artefactos permiten obtener una visión integral del estado a
 
 ### 2.3.1. User Personas.
 #### Personal Técnico de Mantenimiento (Perfil Operativo):
-  <img src="images/Carlos.png" alt="User Persona Operativo" height="auto">
+  <img src="images/CarlosPersona.png" alt="User Persona Operativo" height="auto">
   
 #### Jefes de Planta y Gerentes de Operaciones (Perfil Estratégico):
   <img src="images/Maria.png" alt="User Persona Estratégico" height="auto">
